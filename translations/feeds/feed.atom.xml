@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
+    <title type="html"><![CDATA[Translations - Zoë Translates]]></title>
+    <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
+    <link href="/translations/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/translations/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="/translations/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="/translations/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <author>
+        <name type="html"><![CDATA[Zoë C.]]></name>
+        <email>zoe@zoe-translat.es</email>
+    </author>
+    <rights>Copyright © 2021-2022 Zoë C.</rights>
+    <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
+    <updated>2022-11-29T00:00:00Z</updated>
+    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/a-parting-song/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[A parting song]]></title>
+        
+        
+        
+        <published>2022-11-29T00:00:00Z</published>
+        <id>urn:uuid:1ec3968d-b1d1-597d-292c-88196cf11232</id>
+        
+                <author>
+                    <name>Li Tai Po</name>
+                </author>
+        
+        <summary type="html"><![CDATA[The rolling green hills and a pale river
+Have accompanied us along the way.
+Outside these city walls we must now part
+And be scattered in wind like scraps of hay.
+This sunset sees friendship become longing,
+For neither clouds nor wayfarers can stay.
+We strain to bid farewell for one last time,
+But our horses won’t hush their plaintive neigh.
+a 8th-century Chinese shi
+Original 送友人 青山橫北郭 白水繞東城
+此地一為別 孤蓬萬里征]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/a-buddhist-song-cessation/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
+        
+        
+        
+        <published>2022-11-18T00:00:00Z</published>
+        <id>urn:uuid:cead448c-21f7-5228-c99c-cd3c2ffb091e</id>
+        
+        <summary type="html"><![CDATA[English Lo! Formations have never stayed;
+Rises and falls mark their being.
+Now arisen, they are unmade;
+Blissful therefore is their ceasing.
+Chinese 吁嗟行若寄
+聚散固為真
+興衰相替往
+喜樂寂然身
+Original texts The following texts have been tranliterated in IAST.
+Pali aniccā vata saṅkhārā
+uppādavayadhammino |
+uppajjitvā nirujjhanti
+tesaṃ vūpasamo sukho ‖
+Sanskrit anityā vata saṃskārā
+utpādavyayadharmiṇaḥ |
+utpadya hi nirudhyante
+teṣāṃ vyupaśamas sukham ‖]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/this-bottomless-abyss/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[“This bottomless abyss”]]></title>
+        
+        
+        
+        <published>2022-11-03T00:00:00Z</published>
+        <id>urn:uuid:7f13e481-abe8-5721-7976-766db2250690</id>
+        
+                <author>
+                    <name>Marina Ivanovna Tsvetaeva</name>
+                </author>
+        
+        <summary type="html"><![CDATA[This bottomless abyss, remote and yawning —
+How many it has drowned!
+That day of my departure will be dawning:
+The void is where I’m bound.
+All shall be stilled: the singing, the vying,
+The shining and the striving,
+My eyes’ green sparks, my voice, mild and caring,
+And my hair of gold, flowing.
+Then life will carry on, as plain as ever,
+And memories will fade
+The way as if beneath the skies I never]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/two-songs-atharvaveda/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Two songs from the Atharvaveda]]></title>
+        
+        
+        
+        <published>2022-09-22T00:00:00Z</published>
+        <id>urn:uuid:a12c146e-3856-5fe9-69ce-3d175a85a890</id>
+        
+        <summary type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
+And show us that intense delight.
+Impel us to participate in your most soothing savour now
+Like a mother who’s all too keen.
+Waters! Let’s call on you to feel that secret whose serene abode
+You help us to and birth us for.
+Nourisher of the weal, abiding carer of this land and us:
+From you, Waters, I seek a cure.]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/sappho/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Sappho]]></title>
+        
+        
+        
+        <published>2022-09-01T00:00:00Z</published>
+        <id>urn:uuid:45d9dd46-6783-56e2-99e7-6970a0e236df</id>
+        
+                <author>
+                    <name>Lesya Ukrainka</name>
+                </author>
+        
+        <summary type="html"><![CDATA[Atop the sheer cliff over waves,
+The beautiful maid does retire.
+She shines in her crown of laurel leaves
+While clasping the murmuring lyre.
+She pours out her tears in a poem,
+Her instrument singing along.
+But sadness still swells in her bosom,
+And breaches her hold of the song.
+She sang of her dignified glory,
+Of lights in the cosmic wonder,
+Of treacherous people, of loving,
+Betrayal, and Age’s plunder,]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Song of Mary Stuart in her last moments]]></title>
+        
+        
+        
+        <published>2022-08-25T00:00:00Z</published>
+        <id>urn:uuid:c9ba452f-eb2b-5688-a9ca-ec8707e114a5</id>
+        
+                <author>
+                    <name>Lesya Ukrainka</name>
+                </author>
+        
+        <summary type="html"><![CDATA[„Que suis je, hélas !....“ What have I become, O Lord! Still alive, but what for?
+So weak, like a heartless body that lingers in vain,
+An empty shade, beleaguered by pity and pain,
+My one and only desire is death: there’s nothing more.
+Do not fall into enmity and let hatred pour
+Toward the one whose heart is cleansed of power’s stain,
+Growing this exile’s ache past where itself could attain:]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/i-love-your-eyes/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[“I love your eyes…”]]></title>
+        
+        
+        
+        <published>2022-08-18T00:00:00Z</published>
+        <id>urn:uuid:7a45fedb-61d2-5f54-e968-c6f09c238b75</id>
+        
+                <author>
+                    <name>Fyodor Ivanovich Tyutchev</name>
+                </author>
+        
+        <summary type="html"><![CDATA[I love your eyes, my dearest friend,
+With playful sparks, burning and brightening,
+That a gently raised glimpse may tend,
+And, like a cloud-strewn ring of lightning,
+Your graceful glance would let descend…
+Still there’s a charm of greater powers:
+You gaze on the ash of a zeal
+That once shone through passion-kissed hours;
+Your eyelashes hardly conceal
+The dim embers where desire cowers.
+undated, c. 1830s
+Original The following Russian text appears in the old-style orthography.]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/id-like-maybe-to-live-with-you/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[“I’d like, maybe, to live with you”]]></title>
+        
+        
+        
+        <published>2022-07-01T00:00:00Z</published>
+        <id>urn:uuid:f2b02924-03f2-5751-99bd-897ae313d429</id>
+        
+                <author>
+                    <name>Marina Ivanovna Tsvetaeva</name>
+                </author>
+        
+        <summary type="html"><![CDATA[…I’d like, maybe, to live with you
+In a small city,
+Where the twilight is eternal
+And bells let out eternal chimes.
+And in a small, cosy lodge in the countryside —
+Delicate ringing
+Of ancient hours — like little droplets of time.
+And sometimes, in the evening, out of an attic somewhere —
+Flute sounds,
+The flautist at the window.
+And large tulips are on the windowsills.
+And you, by any chance, might have even loved me…]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/reminiscence/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Reminiscence]]></title>
+        
+        
+        
+        <published>2022-06-23T00:00:00Z</published>
+        <id>urn:uuid:48d7eb8e-a5aa-5402-49dc-f8667f8d19a0</id>
+        
+                <author>
+                    <name>Hsiung Hung</name>
+                </author>
+        
+        <summary type="html"><![CDATA[For you there’s a sea, brimming
+With longing — calm, pristine
+Cradled in your arm a city sleeps
+Where my dreams are slow and serene
+A feeble lamp, under a half-moon window
+I see your name — laces of gold and silver
+For five decades binding me in their coils
+A sea of longing —
+In the tranquil, walled city
+Sweetest voices descend and their petals scatter
+Over the dream-fabrics on my skin]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/girlfriend-15/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Girlfriend (XV)]]></title>
+        
+        
+        
+        <published>2022-06-14T00:00:00Z</published>
+        <id>urn:uuid:531cfd16-cc53-5d5b-a9a7-0bafc14b2dc7</id>
+        
+                <author>
+                    <name>Marina Ivanovna Tsvetaeva</name>
+                </author>
+        
+        <summary type="html"><![CDATA[Through a mirror shrouded in dust,
+In the haze of slumber,
+I strain to find ways — as I must —
+Toward you, to shelter.
+I see a steamboat with its mast,
+And you are there, aboard…
+You, in the train’s fumes… Fields are vast,
+Where twilight’s grief is poured…
+Fields at twilight heavy with dew,
+Above, ravens take wing…
+To the Earth’s four corners, for you,
+My benedictions ring!]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/to-akhmatova-1/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[To Akhmatova (I)]]></title>
+        
+        
+        
+        <published>2022-06-08T00:00:00Z</published>
+        <id>urn:uuid:c800c4a7-5b9b-5b34-d986-a833d8dee1aa</id>
+        
+                <author>
+                    <name>Marina Ivanovna Tsvetaeva</name>
+                </author>
+        
+        <summary type="html"><![CDATA[O, Muse of tears, most beauteous of the muses!
+O you, furious issue of the glowing night!
+You unleash a pitch-black snowstorm all over Rus’,
+And your wail pierces us like a hail of arrows.
+We are stricken; and Lo! the name that was repressed
+One hundred thousand times — pledging to you: Anna
+Akhmatova! — escapes as a sigh of protest
+That sinks into the namelessness of Gehenna.
+We are exalted simply by treading the same]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/bu-suan-zi-li-zhiyi/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[A ci in the form of Bu Suan Zi]]></title>
+        
+        
+        
+        <published>2022-05-05T00:00:00Z</published>
+        <id>urn:uuid:d67c48e1-11e9-589a-8912-d71feee7fa77</id>
+        
+                <author>
+                    <name>Li Zhiyi</name>
+                </author>
+        
+        <summary type="html"><![CDATA[I dwell in a land up the Great River
+That winds its way to your murmuring shore.
+I long for you each day in the desert of your absence
+As the River quenches our thirst and sore.
+This inner passion would only wither
+If the River should halt its winding flow.
+I hope for nothing but to be in such thought of yours too —
+And that is everything you are supposed to know.]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="/translations/girlfriend-11/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Girlfriend (XI)]]></title>
+        
+        
+        
+        <published>2022-04-21T00:00:00Z</published>
+        <id>urn:uuid:68e5670a-1761-5e53-692c-9ef2d014e320</id>
+        
+                <author>
+                    <name>Marina Ivanovna Tsvetaeva</name>
+                </author>
+        
+        <summary type="html"><![CDATA[All eyes under the sun — burning,
+A day like no other.
+‘Tis to you, I am confiding,
+In case I should wander —
+Whoever’s lips I’d be kissing
+As time strikes for lovers,
+Whomever I’d pledge to, trembling
+With the midnight’s darkness, —
+Live, as passed from mother to child,
+Like blossoms blossoming,
+Never letting glances go wild
+To someone, fancying…
+See that cypress cross, so little?
+— It is your memento —]]></summary>
+    </entry>
+</feed>

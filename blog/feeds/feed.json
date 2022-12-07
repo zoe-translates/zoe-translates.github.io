@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Blog posts - Zoë Translates",
+  "home_page_url": "/",
+  
+  "description": "A blog on poetry, translation, and the art of translating poetry.",
+  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "authors": [
+    {
+      "name": "Zoë C."
+    }
+  ],
+  "language" : "en",
+  "items": [
+  ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xml:lang="en"
+    xml:base="/">
+    <channel>
+        <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
+    </channel>
+    <link type="text/html">/</link>
+    
+    <image>
+        <url>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
+        <link>/</link>
+        <width>96</width>
+        <height>96</height>
+    </image>
+    <atom:link href="/blog/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/blog/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
+    <atom:link href="/blog/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
+    <atom:link href="/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
+    <generator>Hugo 0.108.0</generator>
+    <dc:creator type="html"><![CDATA[Zoë C.]]></dc:creator>
+    <language>en</language>
+    <copyright>Copyright © 2021-2022 Zoë C.</copyright>
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+</rss>

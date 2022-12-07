@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest",
+  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
+  "name": "Zoë Translates",
+  "short_name": "Poems, original and translated",
+  "description": "A blog on poetry, translation, and the art of translating poetry.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/index.html?source=pwa",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "natural",
+  "shortcuts": [  
+    {
+      "name": "Home",
+      "short_name" : "home",
+      "url": "/"
+    } ,
+    {
+      "name": "About",
+      "short_name" : "about",
+      "url": "/about/"
+    } ,
+    {
+      "name": "Translations",
+      "short_name" : "translations",
+      "url": "/translations/"
+    } ,
+    {
+      "name": "Original works",
+      "short_name" : "original-works",
+      "url": "/original-works/"
+    } ,
+    {
+      "name": "Blog",
+      "short_name" : "blog",
+      "url": "/blog/"
+    } ,
+    {
+      "name": "Search",
+      "short_name" : "search",
+      "url": "/search/"
+    } ,
+    {
+      "name": "Contact",
+      "short_name" : "contact",
+      "url": "/contact/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+

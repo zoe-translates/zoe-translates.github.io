@@ -1,0 +1,108 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Translations - Zoë Translates",
+  "home_page_url": "/",
+  
+  "description": "A blog on poetry, translation, and the art of translating poetry.",
+  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "authors": [
+    {
+      "name": "Zoë C."
+    }
+  ],
+  "language" : "en",
+  "items": [
+    {
+      "id": "1ec3968d-b1d1-597d-292c-88196cf11232",
+      "url": "/translations/a-parting-song/?utm_source=json_feed",
+      "title": "A parting song",
+      "summary": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part\nAnd be scattered in wind like scraps of hay.\nThis sunset sees friendship become longing,\nFor neither clouds nor wayfarers can stay.\nWe strain to bid farewell for one last time,\nBut our horses won’t hush their plaintive neigh.\na 8th-century Chinese shi\nOriginal 送友人 青山橫北郭 白水繞東城\n此地一為別 孤蓬萬里征",
+      "date_published": "2022-11-29T00:00:00Z"
+    },
+    {
+      "id": "cead448c-21f7-5228-c99c-cd3c2ffb091e",
+      "url": "/translations/a-buddhist-song-cessation/?utm_source=json_feed",
+      "title": "A Buddhist song of cessation",
+      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身\nOriginal texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖\nSanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
+      "date_published": "2022-11-18T00:00:00Z"
+    },
+    {
+      "id": "7f13e481-abe8-5721-7976-766db2250690",
+      "url": "/translations/this-bottomless-abyss/?utm_source=json_feed",
+      "title": "“This bottomless abyss”",
+      "summary": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void is where I’m bound.\nAll shall be stilled: the singing, the vying,\nThe shining and the striving,\nMy eyes’ green sparks, my voice, mild and caring,\nAnd my hair of gold, flowing.\nThen life will carry on, as plain as ever,\nAnd memories will fade\nThe way as if beneath the skies I never",
+      "date_published": "2022-11-03T00:00:00Z"
+    },
+    {
+      "id": "a12c146e-3856-5fe9-69ce-3d175a85a890",
+      "url": "/translations/two-songs-atharvaveda/?utm_source=json_feed",
+      "title": "Two songs from the Atharvaveda",
+      "summary": "AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow\nAnd show us that intense delight.\nImpel us to participate in your most soothing savour now\nLike a mother who’s all too keen.\nWaters! Let’s call on you to feel that secret whose serene abode\nYou help us to and birth us for.\nNourisher of the weal, abiding carer of this land and us:\nFrom you, Waters, I seek a cure.",
+      "date_published": "2022-09-22T00:00:00Z"
+    },
+    {
+      "id": "45d9dd46-6783-56e2-99e7-6970a0e236df",
+      "url": "/translations/sappho/?utm_source=json_feed",
+      "title": "Sappho",
+      "summary": "Atop the sheer cliff over waves,\nThe beautiful maid does retire.\nShe shines in her crown of laurel leaves\nWhile clasping the murmuring lyre.\nShe pours out her tears in a poem,\nHer instrument singing along.\nBut sadness still swells in her bosom,\nAnd breaches her hold of the song.\nShe sang of her dignified glory,\nOf lights in the cosmic wonder,\nOf treacherous people, of loving,\nBetrayal, and Age’s plunder,",
+      "date_published": "2022-09-01T00:00:00Z"
+    },
+    {
+      "id": "c9ba452f-eb2b-5688-a9ca-ec8707e114a5",
+      "url": "/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=json_feed",
+      "title": "Song of Mary Stuart in her last moments",
+      "summary": "„Que suis je, hélas !....“ What have I become, O Lord! Still alive, but what for?\nSo weak, like a heartless body that lingers in vain,\nAn empty shade, beleaguered by pity and pain,\nMy one and only desire is death: there’s nothing more.\nDo not fall into enmity and let hatred pour\nToward the one whose heart is cleansed of power’s stain,\nGrowing this exile’s ache past where itself could attain:",
+      "date_published": "2022-08-25T00:00:00Z"
+    },
+    {
+      "id": "7a45fedb-61d2-5f54-e968-c6f09c238b75",
+      "url": "/translations/i-love-your-eyes/?utm_source=json_feed",
+      "title": "“I love your eyes…”",
+      "summary": "I love your eyes, my dearest friend,\nWith playful sparks, burning and brightening,\nThat a gently raised glimpse may tend,\nAnd, like a cloud-strewn ring of lightning,\nYour graceful glance would let descend…\nStill there’s a charm of greater powers:\nYou gaze on the ash of a zeal\nThat once shone through passion-kissed hours;\nYour eyelashes hardly conceal\nThe dim embers where desire cowers.\nundated, c. 1830s\nOriginal The following Russian text appears in the old-style orthography.",
+      "date_published": "2022-08-18T00:00:00Z"
+    },
+    {
+      "id": "f2b02924-03f2-5751-99bd-897ae313d429",
+      "url": "/translations/id-like-maybe-to-live-with-you/?utm_source=json_feed",
+      "title": "“I’d like, maybe, to live with you”",
+      "summary": "…I’d like, maybe, to live with you\nIn a small city,\nWhere the twilight is eternal\nAnd bells let out eternal chimes.\nAnd in a small, cosy lodge in the countryside —\nDelicate ringing\nOf ancient hours — like little droplets of time.\nAnd sometimes, in the evening, out of an attic somewhere —\nFlute sounds,\nThe flautist at the window.\nAnd large tulips are on the windowsills.\nAnd you, by any chance, might have even loved me…",
+      "date_published": "2022-07-01T00:00:00Z"
+    },
+    {
+      "id": "48d7eb8e-a5aa-5402-49dc-f8667f8d19a0",
+      "url": "/translations/reminiscence/?utm_source=json_feed",
+      "title": "Reminiscence",
+      "summary": "For you there’s a sea, brimming\nWith longing — calm, pristine\nCradled in your arm a city sleeps\nWhere my dreams are slow and serene\nA feeble lamp, under a half-moon window\nI see your name — laces of gold and silver\nFor five decades binding me in their coils\nA sea of longing —\nIn the tranquil, walled city\nSweetest voices descend and their petals scatter\nOver the dream-fabrics on my skin",
+      "date_published": "2022-06-23T00:00:00Z"
+    },
+    {
+      "id": "531cfd16-cc53-5d5b-a9a7-0bafc14b2dc7",
+      "url": "/translations/girlfriend-15/?utm_source=json_feed",
+      "title": "Girlfriend (XV)",
+      "summary": "Through a mirror shrouded in dust,\nIn the haze of slumber,\nI strain to find ways — as I must —\nToward you, to shelter.\nI see a steamboat with its mast,\nAnd you are there, aboard…\nYou, in the train’s fumes… Fields are vast,\nWhere twilight’s grief is poured…\nFields at twilight heavy with dew,\nAbove, ravens take wing…\nTo the Earth’s four corners, for you,\nMy benedictions ring!",
+      "date_published": "2022-06-14T00:00:00Z"
+    },
+    {
+      "id": "c800c4a7-5b9b-5b34-d986-a833d8dee1aa",
+      "url": "/translations/to-akhmatova-1/?utm_source=json_feed",
+      "title": "To Akhmatova (I)",
+      "summary": "O, Muse of tears, most beauteous of the muses!\nO you, furious issue of the glowing night!\nYou unleash a pitch-black snowstorm all over Rus’,\nAnd your wail pierces us like a hail of arrows.\nWe are stricken; and Lo! the name that was repressed\nOne hundred thousand times — pledging to you: Anna\nAkhmatova! — escapes as a sigh of protest\nThat sinks into the namelessness of Gehenna.\nWe are exalted simply by treading the same",
+      "date_published": "2022-06-08T00:00:00Z"
+    },
+    {
+      "id": "d67c48e1-11e9-589a-8912-d71feee7fa77",
+      "url": "/translations/bu-suan-zi-li-zhiyi/?utm_source=json_feed",
+      "title": "A ci in the form of Bu Suan Zi",
+      "summary": "I dwell in a land up the Great River\nThat winds its way to your murmuring shore.\nI long for you each day in the desert of your absence\nAs the River quenches our thirst and sore.\nThis inner passion would only wither\nIf the River should halt its winding flow.\nI hope for nothing but to be in such thought of yours too —\nAnd that is everything you are supposed to know.",
+      "date_published": "2022-05-05T00:00:00Z"
+    },
+    {
+      "id": "68e5670a-1761-5e53-692c-9ef2d014e320",
+      "url": "/translations/girlfriend-11/?utm_source=json_feed",
+      "title": "Girlfriend (XI)",
+      "summary": "All eyes under the sun — burning,\nA day like no other.\n‘Tis to you, I am confiding,\nIn case I should wander —\nWhoever’s lips I’d be kissing\nAs time strikes for lovers,\nWhomever I’d pledge to, trembling\nWith the midnight’s darkness, —\nLive, as passed from mother to child,\nLike blossoms blossoming,\nNever letting glances go wild\nTo someone, fancying…\nSee that cypress cross, so little?\n— It is your memento —",
+      "date_published": "2022-04-21T00:00:00Z"
+    }
+  ]
+}

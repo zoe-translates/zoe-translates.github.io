@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
+    <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
+    <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
+    <link href="/blog/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/blog/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="/blog/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <author>
+        <name type="html"><![CDATA[Zoë C.]]></name>
+        <email>zoe@zoe-translat.es</email>
+    </author>
+    <rights>Copyright © 2021-2022 Zoë C.</rights>
+    <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
+    <updated>2022-11-29T00:00:00Z</updated>
+    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+</feed>
