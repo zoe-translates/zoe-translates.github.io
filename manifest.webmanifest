@@ -43,6 +43,11 @@
       "url": "/search/"
     } ,
     {
+      "name": "Tags",
+      "short_name" : "tags",
+      "url": "/tags/"
+    } ,
+    {
       "name": "Contact",
       "short_name" : "contact",
       "url": "/contact/"
