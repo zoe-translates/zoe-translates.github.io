@@ -178,8 +178,8 @@
     
     <url>
         <loc>https://zoe-translat.es/about/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
     </url>
     
     <url>
@@ -190,14 +190,14 @@
     
     <url>
         <loc>https://zoe-translat.es/contact/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
+        <changefreq>yearly</changefreq>
+        <priority>0.1</priority>
     </url>
     
     <url>
         <loc>https://zoe-translat.es/search/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
+        <changefreq>yearly</changefreq>
+        <priority>0.1</priority>
     </url>
     
     <url>
