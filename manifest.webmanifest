@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
-  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
+  "id": "799451d0-2abe-55d3-2994-980e7015a9fe",
   "name": "Zoë Translates",
-  "short_name": "Poems, original and translated",
+  "short_name": "Poems, original and translated.",
   "description": "A blog on poetry, translation, and the art of translating poetry.",
   "lang": "en",
   "dir": "ltr",

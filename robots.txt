@@ -1,7 +1,7 @@
-# robots.txt file for "Zoë Translates" website, 
+# robots.txt file for "Zoë Translates" website, zoe-translat.es
 User-agent: *
 Allow: /
 Disallow: /404.html
 Disallow: /thanks
 
-Sitemap: /sitemap.xml
+Sitemap: https://zoe-translat.es/sitemap.xml

@@ -1,11 +1,11 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Original works - Zoë Translates",
-  "home_page_url": "/",
+  "home_page_url": "https://zoe-translat.es/?utm_source=json_feed",
   
   "description": "A blog on poetry, translation, and the art of translating poetry.",
-  "icon": "/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
-  "favicon": "/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "icon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "favicon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Zoë C."
@@ -14,64 +14,64 @@
   "language" : "en",
   "items": [
     {
-      "id": "091d37b6-fefd-582a-6962-139a2b3d1962",
-      "url": "/original-works/disclosure/?utm_source=json_feed",
+      "id": "52b4c9d7-dbef-54ea-0901-919ab791d0af",
+      "url": "https://zoe-translat.es/original-works/disclosure/?utm_source=json_feed",
       "title": "Disclosure",
       "summary": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for unknown joy\nThat for once will outlast daily despair.\nI’ll go meet you in the familiar street,\nWhen dawn is pregnant with light after rain,\nWithout knowing whether you will be there.\nAnd I will kiss strangers, tell our story,\nAnd lose myself in linked arms and shoulders,\nAnd dance on the glint of wet paving stones,",
       "date_published": "2022-11-28T00:00:00Z"
     },
     {
-      "id": "70d5ada3-2162-539a-1980-ef2ac937a117",
-      "url": "/original-works/to-a-poet/?utm_source=json_feed",
+      "id": "db16b8ec-0ef6-5845-b99f-1b15175f7805",
+      "url": "https://zoe-translat.es/original-works/to-a-poet/?utm_source=json_feed",
       "title": "To a poet",
       "summary": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last message\nBefore her death in flames:\nYour gift of fresh meaning\nAlready in decay.\nBut what you’ve made in me\nCan’t simply be unmade.\nAnd I desire\nWhat brought you here\nIn nights like this.",
       "date_published": "2022-11-25T00:00:00Z"
     },
     {
-      "id": "237262e1-1197-5c69-f9d8-65bf7d315349",
-      "url": "/original-works/meteor/?utm_source=json_feed",
+      "id": "fbf230e8-86a7-5231-392a-dee9315d9b1d",
+      "url": "https://zoe-translat.es/original-works/meteor/?utm_source=json_feed",
       "title": "Meteor",
       "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but solar gleam.\nA fragment lost in the aftershock\nOf wondrous, one-of-its-kind events.\nForgotten, formless, and fossil-like,\nIt keeps traversing an empty space.\nBut planets are perturbative.\nA touch is usually strong enough\nTo change its path unexpectedly\nToward a fiery rendez-vous.\nThat’s how my poem approaches you:\nIt breaks and falls in a silent night.",
       "date_published": "2022-11-21T00:00:00Z"
     },
     {
-      "id": "778f5bf8-2819-563b-d922-8ac627919a1d",
-      "url": "/original-works/profile-notes/?utm_source=json_feed",
+      "id": "658675d9-2e37-5723-59b8-45f08cf59f50",
+      "url": "https://zoe-translat.es/original-works/profile-notes/?utm_source=json_feed",
       "title": "Profile notes: a Fediverse original",
       "summary": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red flag?\nMaybe just a “hide the boosts from her” tag?\nIt could be an emoji, a letter,\nKeysmash, or nothing… or even better:\nA view into my personality\nThat affirms our bond of reality.\nThese bits will remain mystery to me.\nI’m curious, but I don’t have to see.",
       "date_published": "2022-11-13T00:00:00Z"
     },
     {
-      "id": "eac8bbeb-48ad-546a-a95a-be122b356c60",
-      "url": "/original-works/the-rose/?utm_source=json_feed",
+      "id": "f62ba191-6806-565a-5955-31cd48a52ae5",
+      "url": "https://zoe-translat.es/original-works/the-rose/?utm_source=json_feed",
       "title": "The rose",
       "summary": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe remember past hopes and joy.\nListen to this moment – silence is alive.\nNothing divides and nothing draws us close.\nAttention is all we exchange,\nAttention in the shape of rose.\nI longed for witness. Before whom? No one.\nWas my heart pure? No. But I insisted.",
       "date_published": "0001-01-01T00:00:00Z"
     },
     {
-      "id": "62b2a4a9-9dc6-5564-d9b6-419ac783d953",
-      "url": "/original-works/aubade-of-the-roads/?utm_source=json_feed",
+      "id": "4e1c48d9-8bdd-5d6c-9942-107a71b0fc28",
+      "url": "https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=json_feed",
       "title": "Aubade (of the roads)",
       "summary": "Nothing quite prepared us for this, but here we are.\nYou lie asleep in the back seats, and all I see,\nThrough the rear mirror, are empty roads unfolding.\nTurning off the headlights, as golden solar rays\nAre about to fall from the sparsely-clouded sky,\nI drive on, not too fast, in the wordless morning.\nMy eyes and feet are weary: They still remember\nThe star-strewn darkness, the unwatched land, how we found",
       "date_published": "2022-09-14T00:00:00Z"
     },
     {
-      "id": "6cbdfbd5-3a38-510b-f975-c1575a955631",
-      "url": "/original-works/after-c%C3%A6dmon/?utm_source=json_feed",
+      "id": "f640d8cd-05a8-5a6b-a984-70c9d90ab338",
+      "url": "https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=json_feed",
       "title": "After Cædmon",
       "summary": "Now let us praise the keeper of Planet Heaven,\nOur Goddess, friend and leader in love and justice,\nAnd their bold, empowering plan.\nWe celebrate each and every wonder that she,\nEver-present father of beauty, has instilled\nFirmly in who we truly are.\nIn their very first work is this people, children\nOf stars and Earth, sheltered in the delicate air\nFrom her holy, excited breath.\nWe shall defend with her this garden of a world",
       "date_published": "2022-09-07T00:00:00Z"
     },
     {
-      "id": "bcc01504-ff57-5e67-49d0-e7983c5c2ed9",
-      "url": "/original-works/old-poems/?utm_source=json_feed",
+      "id": "6ef1c031-3462-5b59-5942-48cd4cc747a9",
+      "url": "https://zoe-translat.es/original-works/old-poems/?utm_source=json_feed",
       "title": "Old poems",
       "summary": "Dans la vie intérieure, le temps tient lieu d’espace.\n(In the inner life, time takes the place of space.)\nSimone Weil, La Pesanteur et la Grâce\n(Gravity and Grace)\nInside [the black hole’s horizon] \u0026hellip; [what used to be a spatial coordinate] is the time \u0026hellip; The singularity \u0026hellip; is not a place in space; it is a moment in time.\nJames B. Hartle, Gravity\nIn my old poems was",
       "date_published": "0001-01-01T00:00:00Z"
     },
     {
-      "id": "1a343a14-b8d8-5cd4-69ab-f0994d717469",
-      "url": "/original-works/a-riddle/?utm_source=json_feed",
+      "id": "4c8c932c-3115-5017-79fd-396b59d014e0",
+      "url": "https://zoe-translat.es/original-works/a-riddle/?utm_source=json_feed",
       "title": "A riddle",
       "summary": "What is the root of spring,\nAnd the eye of summer,\nAnd the harvest of fall,\nAnd the heart of winter?",
       "date_published": "2020-11-15T00:00:00Z"

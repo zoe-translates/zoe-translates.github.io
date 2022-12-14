@@ -8,16 +8,16 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en"
-    xml:base="/">
+    xml:base="https://zoe-translat.es/">
     <channel>
         <title type="html"><![CDATA[Zoë Translates]]></title>
     </channel>
-    <link type="text/html">/</link>
+    <link type="text/html">https://zoe-translat.es/</link>
     
     <image>
-        <url>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+        <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
         <title type="html"><![CDATA[Zoë Translates]]></title>
-        <link>/</link>
+        <link>https://zoe-translat.es/</link>
         <width>96</width>
         <height>96</height>
     </image>
@@ -36,10 +36,10 @@
     <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <item>
         <title type="html"><![CDATA[A parting song]]></title>
-        <link>/translations/a-parting-song/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/translations/a-parting-song/?utm_source=rss_feed</link>
         <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
         <category>translations</category>
-        <guid isPermaLink="false">be42fd2226dbadf4b4a61e20ebccef6d</guid>
+        <guid isPermaLink="false">93aab6492f693dba92b1c72fc2a60a7b</guid>
         <description type="html"><![CDATA[The rolling green hills and a pale river
 Have accompanied us along the way.
 Outside these city walls we must now part
@@ -55,10 +55,10 @@ Original 送友人 青山橫北郭 白水繞東城
     
     <item>
         <title type="html"><![CDATA[Disclosure]]></title>
-        <link>/original-works/disclosure/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/disclosure/?utm_source=rss_feed</link>
         <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">47ea8abfa074a35442ddcaf24e322153</guid>
+        <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
         <description type="html"><![CDATA[This shall be the beginning of the end.
 The ghosts are putting on dance shoes again.
 Mothers prepare daughters for unknown joy
@@ -73,10 +73,10 @@ And dance on the glint of wet paving stones,]]></description>
     
     <item>
         <title type="html"><![CDATA[To a poet]]></title>
-        <link>/original-works/to-a-poet/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/to-a-poet/?utm_source=rss_feed</link>
         <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">73bf84824382d70858cf811e2f7cdeef</guid>
+        <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
         <description type="html"><![CDATA[Was I indeed lucky
 To witness your descent?
 You struck with no warning
@@ -94,10 +94,10 @@ In nights like this.]]></description>
     
     <item>
         <title type="html"><![CDATA[Meteor]]></title>
-        <link>/original-works/meteor/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/meteor/?utm_source=rss_feed</link>
         <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">7b76b3ce170c1ff3ffdc86c7103aae5f</guid>
+        <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
         <description type="html"><![CDATA[An asteroid travels in resonance
 With Jovian orbit around the Sun.
 Unstable, also invariable,
@@ -116,10 +116,10 @@ It breaks and falls in a silent night.]]></description>
     
     <item>
         <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
-        <link>/translations/a-buddhist-song-cessation/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=rss_feed</link>
         <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
         <category>translations</category>
-        <guid isPermaLink="false">b8ee32f21a71433bae048178f647d6fa</guid>
+        <guid isPermaLink="false">ec35f76a875eaff65fa32da106154135</guid>
         <description type="html"><![CDATA[English Lo! Formations have never stayed;
 Rises and falls mark their being.
 Now arisen, they are unmade;
@@ -141,10 +141,10 @@ teṣāṃ vyupaśamas sukham ‖]]></description>
     
     <item>
         <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
-        <link>/original-works/profile-notes/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/profile-notes/?utm_source=rss_feed</link>
         <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">d5b420836e39b9fc0c8ef8a3d7b3f8db</guid>
+        <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
         <description type="html"><![CDATA[What is in your profile notes for me, friend?
 Secret wishes? Message you never send?
 Why you mute me? Warning of a red flag?
@@ -159,10 +159,10 @@ I’m curious, but I don’t have to see.]]></description>
     
     <item>
         <title type="html"><![CDATA[“This bottomless abyss”]]></title>
-        <link>/translations/this-bottomless-abyss/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=rss_feed</link>
         <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
         <category>translations</category>
-        <guid isPermaLink="false">9f221fc8a296b02b238da12ac5ae223a</guid>
+        <guid isPermaLink="false">2a8c9e67f637a5e188ee078e0017f31e</guid>
         <description type="html"><![CDATA[This bottomless abyss, remote and yawning —
 How many it has drowned!
 That day of my departure will be dawning:
@@ -178,10 +178,10 @@ The way as if beneath the skies I never]]></description>
     
     <item>
         <title type="html"><![CDATA[The rose]]></title>
-        <link>/original-works/the-rose/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/the-rose/?utm_source=rss_feed</link>
         <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">aaff27847d256d178735a036a9d96959</guid>
+        <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
         <description type="html"><![CDATA[With my left hand I repel and embrace.
 With my right hand I create and destroy.
 I stand before you, both hands free.
@@ -196,10 +196,10 @@ Was my heart pure? No. But I insisted.]]></description>
     
     <item>
         <title type="html"><![CDATA[Two songs from the Atharvaveda]]></title>
-        <link>/translations/two-songs-atharvaveda/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/translations/two-songs-atharvaveda/?utm_source=rss_feed</link>
         <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
         <category>translations</category>
-        <guid isPermaLink="false">e408c514242d8ff3ebc3d8f1841599a8</guid>
+        <guid isPermaLink="false">b00adebfe3107d89d66431d92022692c</guid>
         <description type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
 And show us that intense delight.
 Impel us to participate in your most soothing savour now
@@ -212,10 +212,10 @@ From you, Waters, I seek a cure.]]></description>
     
     <item>
         <title type="html"><![CDATA[Aubade (of the roads)]]></title>
-        <link>/original-works/aubade-of-the-roads/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=rss_feed</link>
         <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">ce5aa9a44c683ce7fa17bdada34c023e</guid>
+        <guid isPermaLink="false">27079a6668f6a1121adf3e4a91029fb7</guid>
         <description type="html"><![CDATA[Nothing quite prepared us for this, but here we are.
 You lie asleep in the back seats, and all I see,
 Through the rear mirror, are empty roads unfolding.
@@ -228,10 +228,10 @@ The star-strewn darkness, the unwatched land, how we found]]></description>
     
     <item>
         <title type="html"><![CDATA[After Cædmon]]></title>
-        <link>/original-works/after-c%C3%A6dmon/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=rss_feed</link>
         <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
         <category>original-works</category>
-        <guid isPermaLink="false">15a5ce13ec6248595cd040dee250c9b4</guid>
+        <guid isPermaLink="false">5297ca495b517921a6934c59c14b27dd</guid>
         <description type="html"><![CDATA[Now let us praise the keeper of Planet Heaven,
 Our Goddess, friend and leader in love and justice,
 And their bold, empowering plan.
@@ -246,10 +246,10 @@ We shall defend with her this garden of a world]]></description>
     
     <item>
         <title type="html"><![CDATA[Sappho]]></title>
-        <link>/translations/sappho/?utm_source=rss_feed</link>
+        <link>https://zoe-translat.es/translations/sappho/?utm_source=rss_feed</link>
         <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
         <category>translations</category>
-        <guid isPermaLink="false">7eca6e8bfa34ba17a49d5e800c19ac5f</guid>
+        <guid isPermaLink="false">31b9fc8b55e64761212a7a21d7b154ba</guid>
         <description type="html"><![CDATA[Atop the sheer cliff over waves,
 The beautiful maid does retire.
 She shines in her crown of laurel leaves
@@ -262,182 +262,6 @@ She sang of her dignified glory,
 Of lights in the cosmic wonder,
 Of treacherous people, of loving,
 Betrayal, and Age’s plunder,]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Song of Mary Stuart in her last moments]]></title>
-        <link>/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=rss_feed</link>
-        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">ef1eec492c0cdc0eba0396384a37dde6</guid>
-        <description type="html"><![CDATA[„Que suis je, hélas !....“ What have I become, O Lord! Still alive, but what for?
-So weak, like a heartless body that lingers in vain,
-An empty shade, beleaguered by pity and pain,
-My one and only desire is death: there’s nothing more.
-Do not fall into enmity and let hatred pour
-Toward the one whose heart is cleansed of power’s stain,
-Growing this exile’s ache past where itself could attain:]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[“I love your eyes…”]]></title>
-        <link>/translations/i-love-your-eyes/?utm_source=rss_feed</link>
-        <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">8641f2b27618955c1324ccd731168faf</guid>
-        <description type="html"><![CDATA[I love your eyes, my dearest friend,
-With playful sparks, burning and brightening,
-That a gently raised glimpse may tend,
-And, like a cloud-strewn ring of lightning,
-Your graceful glance would let descend…
-Still there’s a charm of greater powers:
-You gaze on the ash of a zeal
-That once shone through passion-kissed hours;
-Your eyelashes hardly conceal
-The dim embers where desire cowers.
-undated, c. 1830s
-Original The following Russian text appears in the old-style orthography.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Old poems]]></title>
-        <link>/original-works/old-poems/?utm_source=rss_feed</link>
-        <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">ab5654981619c152d79b20f62e46a0c6</guid>
-        <description type="html"><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
-(In the inner life, time takes the place of space.)
-Simone Weil, La Pesanteur et la Grâce
-(Gravity and Grace)
-Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.
-James B. Hartle, Gravity
-In my old poems was]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[“I’d like, maybe, to live with you”]]></title>
-        <link>/translations/id-like-maybe-to-live-with-you/?utm_source=rss_feed</link>
-        <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">bfe45e9f7d22ed8bdee0cd34bc413d5b</guid>
-        <description type="html"><![CDATA[…I’d like, maybe, to live with you
-In a small city,
-Where the twilight is eternal
-And bells let out eternal chimes.
-And in a small, cosy lodge in the countryside —
-Delicate ringing
-Of ancient hours — like little droplets of time.
-And sometimes, in the evening, out of an attic somewhere —
-Flute sounds,
-The flautist at the window.
-And large tulips are on the windowsills.
-And you, by any chance, might have even loved me…]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Reminiscence]]></title>
-        <link>/translations/reminiscence/?utm_source=rss_feed</link>
-        <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">1907dc11ecbffd283d3aaa5e7ee0c742</guid>
-        <description type="html"><![CDATA[For you there’s a sea, brimming
-With longing — calm, pristine
-Cradled in your arm a city sleeps
-Where my dreams are slow and serene
-A feeble lamp, under a half-moon window
-I see your name — laces of gold and silver
-For five decades binding me in their coils
-A sea of longing —
-In the tranquil, walled city
-Sweetest voices descend and their petals scatter
-Over the dream-fabrics on my skin]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Girlfriend (XV)]]></title>
-        <link>/translations/girlfriend-15/?utm_source=rss_feed</link>
-        <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">b483018314f898274a53e88ae6d339d7</guid>
-        <description type="html"><![CDATA[Through a mirror shrouded in dust,
-In the haze of slumber,
-I strain to find ways — as I must —
-Toward you, to shelter.
-I see a steamboat with its mast,
-And you are there, aboard…
-You, in the train’s fumes… Fields are vast,
-Where twilight’s grief is poured…
-Fields at twilight heavy with dew,
-Above, ravens take wing…
-To the Earth’s four corners, for you,
-My benedictions ring!]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[To Akhmatova (I)]]></title>
-        <link>/translations/to-akhmatova-1/?utm_source=rss_feed</link>
-        <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">e31cb1cb6671cba49ef882210a1b8bf7</guid>
-        <description type="html"><![CDATA[O, Muse of tears, most beauteous of the muses!
-O you, furious issue of the glowing night!
-You unleash a pitch-black snowstorm all over Rus’,
-And your wail pierces us like a hail of arrows.
-We are stricken; and Lo! the name that was repressed
-One hundred thousand times — pledging to you: Anna
-Akhmatova! — escapes as a sigh of protest
-That sinks into the namelessness of Gehenna.
-We are exalted simply by treading the same]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[A ci in the form of Bu Suan Zi]]></title>
-        <link>/translations/bu-suan-zi-li-zhiyi/?utm_source=rss_feed</link>
-        <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">de95cb594226a1be2a9820fcc76966c5</guid>
-        <description type="html"><![CDATA[I dwell in a land up the Great River
-That winds its way to your murmuring shore.
-I long for you each day in the desert of your absence
-As the River quenches our thirst and sore.
-This inner passion would only wither
-If the River should halt its winding flow.
-I hope for nothing but to be in such thought of yours too —
-And that is everything you are supposed to know.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Girlfriend (XI)]]></title>
-        <link>/translations/girlfriend-11/?utm_source=rss_feed</link>
-        <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">8cfd2f08e4b7c6729024e287cd192d0c</guid>
-        <description type="html"><![CDATA[All eyes under the sun — burning,
-A day like no other.
-‘Tis to you, I am confiding,
-In case I should wander —
-Whoever’s lips I’d be kissing
-As time strikes for lovers,
-Whomever I’d pledge to, trembling
-With the midnight’s darkness, —
-Live, as passed from mother to child,
-Like blossoms blossoming,
-Never letting glances go wild
-To someone, fancying…
-See that cypress cross, so little?
-— It is your memento —]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[A riddle]]></title>
-        <link>/original-works/a-riddle/?utm_source=rss_feed</link>
-        <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">acf91ac3cf2639f967a5efafa27ceb4a</guid>
-        <description type="html"><![CDATA[What is the root of spring,
-And the eye of summer,
-And the harvest of fall,
-And the heart of winter?]]></description>
     </item>
     
 </rss>

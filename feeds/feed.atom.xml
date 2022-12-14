@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="https://zoe-translat.es/">
     <title type="html"><![CDATA[Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
     <link href="/" rel="alternate" type="text/html" title="HTML" />
@@ -9,8 +9,8 @@
     <link href="/index.json" rel="alternate" type="application/json" title="JSON" />
     <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
-    <icon>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
-    <logo>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
+    <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
+    <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
     <author>
         <name type="html"><![CDATA[Zoë C.]]></name>
         <email>zoe@zoe-translat.es</email>
@@ -18,18 +18,18 @@
     <rights>Copyright © 2021-2022 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
     <updated>2022-11-29T00:00:00Z</updated>
-    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
         
         <category term="translations" />
         
-        <link rel="alternate" type="type/html" href="/translations/a-parting-song/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-parting-song/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A parting song]]></title>
         
         
         
         <published>2022-11-29T00:00:00Z</published>
-        <id>urn:uuid:1ec3968d-b1d1-597d-292c-88196cf11232</id>
+        <id>urn:uuid:d122c4e1-99de-57df-7980-d86515e16896</id>
         
                 <author>
                     <name>Li Tai Po</name>
@@ -51,13 +51,13 @@ Original 送友人 青山橫北郭 白水繞東城
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/disclosure/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/disclosure/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Disclosure]]></title>
         
         
         
         <published>2022-11-28T00:00:00Z</published>
-        <id>urn:uuid:091d37b6-fefd-582a-6962-139a2b3d1962</id>
+        <id>urn:uuid:52b4c9d7-dbef-54ea-0901-919ab791d0af</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -78,13 +78,13 @@ And dance on the glint of wet paving stones,]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/to-a-poet/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/to-a-poet/?utm_source=atom_feed" />
         <title type="html"><![CDATA[To a poet]]></title>
         
         
         
         <published>2022-11-25T00:00:00Z</published>
-        <id>urn:uuid:70d5ada3-2162-539a-1980-ef2ac937a117</id>
+        <id>urn:uuid:db16b8ec-0ef6-5845-b99f-1b15175f7805</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -108,13 +108,13 @@ In nights like this.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/meteor/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/meteor/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Meteor]]></title>
         
         
         
         <published>2022-11-21T00:00:00Z</published>
-        <id>urn:uuid:237262e1-1197-5c69-f9d8-65bf7d315349</id>
+        <id>urn:uuid:fbf230e8-86a7-5231-392a-dee9315d9b1d</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -139,13 +139,13 @@ It breaks and falls in a silent night.]]></summary>
         
         <category term="translations" />
         
-        <link rel="alternate" type="type/html" href="/translations/a-buddhist-song-cessation/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
         
         
         
         <published>2022-11-18T00:00:00Z</published>
-        <id>urn:uuid:cead448c-21f7-5228-c99c-cd3c2ffb091e</id>
+        <id>urn:uuid:a6780c3d-408d-50f4-49e8-fe61f4dda4f5</id>
         
         <summary type="html"><![CDATA[English Lo! Formations have never stayed;
 Rises and falls mark their being.
@@ -169,13 +169,13 @@ teṣāṃ vyupaśamas sukham ‖]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/profile-notes/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/profile-notes/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
         
         
         
         <published>2022-11-13T00:00:00Z</published>
-        <id>urn:uuid:778f5bf8-2819-563b-d922-8ac627919a1d</id>
+        <id>urn:uuid:658675d9-2e37-5723-59b8-45f08cf59f50</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -196,13 +196,13 @@ I’m curious, but I don’t have to see.]]></summary>
         
         <category term="translations" />
         
-        <link rel="alternate" type="type/html" href="/translations/this-bottomless-abyss/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=atom_feed" />
         <title type="html"><![CDATA[“This bottomless abyss”]]></title>
         
         
         
         <published>2022-11-03T00:00:00Z</published>
-        <id>urn:uuid:7f13e481-abe8-5721-7976-766db2250690</id>
+        <id>urn:uuid:f5a37298-805d-59f4-d954-369067ee9bea</id>
         
                 <author>
                     <name>Marina Ivanovna Tsvetaeva</name>
@@ -224,13 +224,13 @@ The way as if beneath the skies I never]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/the-rose/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/the-rose/?utm_source=atom_feed" />
         <title type="html"><![CDATA[The rose]]></title>
         
         
         
         <published>2022-10-05T00:00:00Z</published>
-        <id>urn:uuid:eac8bbeb-48ad-546a-a95a-be122b356c60</id>
+        <id>urn:uuid:f62ba191-6806-565a-5955-31cd48a52ae5</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -251,13 +251,13 @@ Was my heart pure? No. But I insisted.]]></summary>
         
         <category term="translations" />
         
-        <link rel="alternate" type="type/html" href="/translations/two-songs-atharvaveda/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/two-songs-atharvaveda/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Two songs from the Atharvaveda]]></title>
         
         
         
         <published>2022-09-22T00:00:00Z</published>
-        <id>urn:uuid:a12c146e-3856-5fe9-69ce-3d175a85a890</id>
+        <id>urn:uuid:cc4d9b9e-400e-5078-c9b2-c7144bc80b5a</id>
         
         <summary type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
 And show us that intense delight.
@@ -272,13 +272,13 @@ From you, Waters, I seek a cure.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/aubade-of-the-roads/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Aubade (of the roads)]]></title>
         
         
         
         <published>2022-09-14T00:00:00Z</published>
-        <id>urn:uuid:62b2a4a9-9dc6-5564-d9b6-419ac783d953</id>
+        <id>urn:uuid:4e1c48d9-8bdd-5d6c-9942-107a71b0fc28</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -297,13 +297,13 @@ The star-strewn darkness, the unwatched land, how we found]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/after-c%C3%A6dmon/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=atom_feed" />
         <title type="html"><![CDATA[After Cædmon]]></title>
         
         
         
         <published>2022-09-07T00:00:00Z</published>
-        <id>urn:uuid:6cbdfbd5-3a38-510b-f975-c1575a955631</id>
+        <id>urn:uuid:f640d8cd-05a8-5a6b-a984-70c9d90ab338</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -324,13 +324,13 @@ We shall defend with her this garden of a world]]></summary>
         
         <category term="translations" />
         
-        <link rel="alternate" type="type/html" href="/translations/sappho/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/sappho/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Sappho]]></title>
         
         
         
         <published>2022-09-01T00:00:00Z</published>
-        <id>urn:uuid:45d9dd46-6783-56e2-99e7-6970a0e236df</id>
+        <id>urn:uuid:37d322ad-06f1-57ac-9958-bc3ec5de3a3d</id>
         
                 <author>
                     <name>Lesya Ukrainka</name>
@@ -348,271 +348,5 @@ She sang of her dignified glory,
 Of lights in the cosmic wonder,
 Of treacherous people, of loving,
 Betrayal, and Age’s plunder,]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Song of Mary Stuart in her last moments]]></title>
-        
-        
-        
-        <published>2022-08-25T00:00:00Z</published>
-        <id>urn:uuid:c9ba452f-eb2b-5688-a9ca-ec8707e114a5</id>
-        
-                <author>
-                    <name>Lesya Ukrainka</name>
-                </author>
-        
-        <summary type="html"><![CDATA[„Que suis je, hélas !....“ What have I become, O Lord! Still alive, but what for?
-So weak, like a heartless body that lingers in vain,
-An empty shade, beleaguered by pity and pain,
-My one and only desire is death: there’s nothing more.
-Do not fall into enmity and let hatred pour
-Toward the one whose heart is cleansed of power’s stain,
-Growing this exile’s ache past where itself could attain:]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/i-love-your-eyes/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[“I love your eyes…”]]></title>
-        
-        
-        
-        <published>2022-08-18T00:00:00Z</published>
-        <id>urn:uuid:7a45fedb-61d2-5f54-e968-c6f09c238b75</id>
-        
-                <author>
-                    <name>Fyodor Ivanovich Tyutchev</name>
-                </author>
-        
-        <summary type="html"><![CDATA[I love your eyes, my dearest friend,
-With playful sparks, burning and brightening,
-That a gently raised glimpse may tend,
-And, like a cloud-strewn ring of lightning,
-Your graceful glance would let descend…
-Still there’s a charm of greater powers:
-You gaze on the ash of a zeal
-That once shone through passion-kissed hours;
-Your eyelashes hardly conceal
-The dim embers where desire cowers.
-undated, c. 1830s
-Original The following Russian text appears in the old-style orthography.]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="/original-works/old-poems/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Old poems]]></title>
-        
-        
-        
-        <published>2022-07-10T00:00:00Z</published>
-        <id>urn:uuid:bcc01504-ff57-5e67-49d0-e7983c5c2ed9</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
-        <summary type="html"><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
-(In the inner life, time takes the place of space.)
-Simone Weil, La Pesanteur et la Grâce
-(Gravity and Grace)
-Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.
-James B. Hartle, Gravity
-In my old poems was]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/id-like-maybe-to-live-with-you/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[“I’d like, maybe, to live with you”]]></title>
-        
-        
-        
-        <published>2022-07-01T00:00:00Z</published>
-        <id>urn:uuid:f2b02924-03f2-5751-99bd-897ae313d429</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
-        <summary type="html"><![CDATA[…I’d like, maybe, to live with you
-In a small city,
-Where the twilight is eternal
-And bells let out eternal chimes.
-And in a small, cosy lodge in the countryside —
-Delicate ringing
-Of ancient hours — like little droplets of time.
-And sometimes, in the evening, out of an attic somewhere —
-Flute sounds,
-The flautist at the window.
-And large tulips are on the windowsills.
-And you, by any chance, might have even loved me…]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/reminiscence/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Reminiscence]]></title>
-        
-        
-        
-        <published>2022-06-23T00:00:00Z</published>
-        <id>urn:uuid:48d7eb8e-a5aa-5402-49dc-f8667f8d19a0</id>
-        
-                <author>
-                    <name>Hsiung Hung</name>
-                </author>
-        
-        <summary type="html"><![CDATA[For you there’s a sea, brimming
-With longing — calm, pristine
-Cradled in your arm a city sleeps
-Where my dreams are slow and serene
-A feeble lamp, under a half-moon window
-I see your name — laces of gold and silver
-For five decades binding me in their coils
-A sea of longing —
-In the tranquil, walled city
-Sweetest voices descend and their petals scatter
-Over the dream-fabrics on my skin]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/girlfriend-15/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Girlfriend (XV)]]></title>
-        
-        
-        
-        <published>2022-06-14T00:00:00Z</published>
-        <id>urn:uuid:531cfd16-cc53-5d5b-a9a7-0bafc14b2dc7</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
-        <summary type="html"><![CDATA[Through a mirror shrouded in dust,
-In the haze of slumber,
-I strain to find ways — as I must —
-Toward you, to shelter.
-I see a steamboat with its mast,
-And you are there, aboard…
-You, in the train’s fumes… Fields are vast,
-Where twilight’s grief is poured…
-Fields at twilight heavy with dew,
-Above, ravens take wing…
-To the Earth’s four corners, for you,
-My benedictions ring!]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/to-akhmatova-1/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[To Akhmatova (I)]]></title>
-        
-        
-        
-        <published>2022-06-08T00:00:00Z</published>
-        <id>urn:uuid:c800c4a7-5b9b-5b34-d986-a833d8dee1aa</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
-        <summary type="html"><![CDATA[O, Muse of tears, most beauteous of the muses!
-O you, furious issue of the glowing night!
-You unleash a pitch-black snowstorm all over Rus’,
-And your wail pierces us like a hail of arrows.
-We are stricken; and Lo! the name that was repressed
-One hundred thousand times — pledging to you: Anna
-Akhmatova! — escapes as a sigh of protest
-That sinks into the namelessness of Gehenna.
-We are exalted simply by treading the same]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/bu-suan-zi-li-zhiyi/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[A ci in the form of Bu Suan Zi]]></title>
-        
-        
-        
-        <published>2022-05-05T00:00:00Z</published>
-        <id>urn:uuid:d67c48e1-11e9-589a-8912-d71feee7fa77</id>
-        
-                <author>
-                    <name>Li Zhiyi</name>
-                </author>
-        
-        <summary type="html"><![CDATA[I dwell in a land up the Great River
-That winds its way to your murmuring shore.
-I long for you each day in the desert of your absence
-As the River quenches our thirst and sore.
-This inner passion would only wither
-If the River should halt its winding flow.
-I hope for nothing but to be in such thought of yours too —
-And that is everything you are supposed to know.]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="/translations/girlfriend-11/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Girlfriend (XI)]]></title>
-        
-        
-        
-        <published>2022-04-21T00:00:00Z</published>
-        <id>urn:uuid:68e5670a-1761-5e53-692c-9ef2d014e320</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
-        <summary type="html"><![CDATA[All eyes under the sun — burning,
-A day like no other.
-‘Tis to you, I am confiding,
-In case I should wander —
-Whoever’s lips I’d be kissing
-As time strikes for lovers,
-Whomever I’d pledge to, trembling
-With the midnight’s darkness, —
-Live, as passed from mother to child,
-Like blossoms blossoming,
-Never letting glances go wild
-To someone, fancying…
-See that cypress cross, so little?
-— It is your memento —]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="/original-works/a-riddle/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[A riddle]]></title>
-        
-        
-        
-        <published>2020-11-15T00:00:00Z</published>
-        <id>urn:uuid:1a343a14-b8d8-5cd4-69ab-f0994d717469</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
-        <summary type="html"><![CDATA[What is the root of spring,
-And the eye of summer,
-And the harvest of fall,
-And the heart of winter?]]></summary>
     </entry>
 </feed>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="https://zoe-translat.es/">
     <title type="html"><![CDATA[Original works - Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
     <link href="/original-works/" rel="alternate" type="text/html" title="HTML" />
     <link href="/original-works/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/original-works/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
-    <logo>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
+    <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
+    <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
     <author>
         <name type="html"><![CDATA[Zoë C.]]></name>
         <email>zoe@zoe-translat.es</email>
@@ -15,18 +15,18 @@
     <rights>Copyright © 2021-2022 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
     <updated>2022-11-29T00:00:00Z</updated>
-    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/disclosure/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/disclosure/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Disclosure]]></title>
         
         
         
         <published>2022-11-28T00:00:00Z</published>
-        <id>urn:uuid:091d37b6-fefd-582a-6962-139a2b3d1962</id>
+        <id>urn:uuid:52b4c9d7-dbef-54ea-0901-919ab791d0af</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -47,13 +47,13 @@ And dance on the glint of wet paving stones,]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/to-a-poet/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/to-a-poet/?utm_source=atom_feed" />
         <title type="html"><![CDATA[To a poet]]></title>
         
         
         
         <published>2022-11-25T00:00:00Z</published>
-        <id>urn:uuid:70d5ada3-2162-539a-1980-ef2ac937a117</id>
+        <id>urn:uuid:db16b8ec-0ef6-5845-b99f-1b15175f7805</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -77,13 +77,13 @@ In nights like this.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/meteor/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/meteor/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Meteor]]></title>
         
         
         
         <published>2022-11-21T00:00:00Z</published>
-        <id>urn:uuid:237262e1-1197-5c69-f9d8-65bf7d315349</id>
+        <id>urn:uuid:fbf230e8-86a7-5231-392a-dee9315d9b1d</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -108,13 +108,13 @@ It breaks and falls in a silent night.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/profile-notes/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/profile-notes/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
         
         
         
         <published>2022-11-13T00:00:00Z</published>
-        <id>urn:uuid:778f5bf8-2819-563b-d922-8ac627919a1d</id>
+        <id>urn:uuid:658675d9-2e37-5723-59b8-45f08cf59f50</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -135,13 +135,13 @@ I’m curious, but I don’t have to see.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/the-rose/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/the-rose/?utm_source=atom_feed" />
         <title type="html"><![CDATA[The rose]]></title>
         
         
         
         <published>2022-10-05T00:00:00Z</published>
-        <id>urn:uuid:eac8bbeb-48ad-546a-a95a-be122b356c60</id>
+        <id>urn:uuid:f62ba191-6806-565a-5955-31cd48a52ae5</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -162,13 +162,13 @@ Was my heart pure? No. But I insisted.]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/aubade-of-the-roads/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Aubade (of the roads)]]></title>
         
         
         
         <published>2022-09-14T00:00:00Z</published>
-        <id>urn:uuid:62b2a4a9-9dc6-5564-d9b6-419ac783d953</id>
+        <id>urn:uuid:4e1c48d9-8bdd-5d6c-9942-107a71b0fc28</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -187,13 +187,13 @@ The star-strewn darkness, the unwatched land, how we found]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/after-c%C3%A6dmon/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=atom_feed" />
         <title type="html"><![CDATA[After Cædmon]]></title>
         
         
         
         <published>2022-09-07T00:00:00Z</published>
-        <id>urn:uuid:6cbdfbd5-3a38-510b-f975-c1575a955631</id>
+        <id>urn:uuid:f640d8cd-05a8-5a6b-a984-70c9d90ab338</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -214,13 +214,13 @@ We shall defend with her this garden of a world]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/old-poems/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/old-poems/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Old poems]]></title>
         
         
         
         <published>2022-07-10T00:00:00Z</published>
-        <id>urn:uuid:bcc01504-ff57-5e67-49d0-e7983c5c2ed9</id>
+        <id>urn:uuid:6ef1c031-3462-5b59-5942-48cd4cc747a9</id>
         
                 <author>
                     <name>Zoë C.</name>
@@ -238,13 +238,13 @@ In my old poems was]]></summary>
         
         <category term="original-works" />
         
-        <link rel="alternate" type="type/html" href="/original-works/a-riddle/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/a-riddle/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A riddle]]></title>
         
         
         
         <published>2020-11-15T00:00:00Z</published>
-        <id>urn:uuid:1a343a14-b8d8-5cd4-69ab-f0994d717469</id>
+        <id>urn:uuid:4c8c932c-3115-5017-79fd-396b59d014e0</id>
         
                 <author>
                     <name>Zoë C.</name>

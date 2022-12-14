@@ -8,16 +8,16 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en"
-    xml:base="/">
+    xml:base="https://zoe-translat.es/">
     <channel>
         <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
     </channel>
-    <link type="text/html">/</link>
+    <link type="text/html">https://zoe-translat.es/</link>
     
     <image>
-        <url>/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+        <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
         <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
-        <link>/</link>
+        <link>https://zoe-translat.es/</link>
         <width>96</width>
         <height>96</height>
     </image>
