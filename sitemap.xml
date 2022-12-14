@@ -3,7 +3,42 @@
     
     <url>
         <loc>https://zoe-translat.es/</loc>
-        <lastmod>2022-11-29T00:00:00Z</lastmod>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/blog/</loc>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/tags/classical-literature/</loc>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/blog/mirror-of-the-soul/</loc>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/tags/reflections/</loc>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/tags/</loc>
+        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -183,12 +218,6 @@
     </url>
     
     <url>
-        <loc>https://zoe-translat.es/blog/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>https://zoe-translat.es/contact/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.1</priority>
@@ -198,12 +227,6 @@
         <loc>https://zoe-translat.es/search/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.1</priority>
-    </url>
-    
-    <url>
-        <loc>https://zoe-translat.es/tags/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
     </url>
     
 </urlset>

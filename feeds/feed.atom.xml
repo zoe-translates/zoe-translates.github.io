@@ -17,8 +17,35 @@
     </author>
     <rights>Copyright © 2021-2022 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
-    <updated>2022-11-29T00:00:00Z</updated>
+    <updated>2022-12-14T23:10:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        
+        <category term="blog" />
+        
+            
+            <category term="classical literature" x="y" />
+            
+        
+            
+            <category term="reflections" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/blog/mirror-of-the-soul/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Mirror of the soul]]></title>
+        
+        
+        
+        <published>2022-12-14T23:10:00+08:00</published>
+        <id>urn:uuid:4bc880e0-7c9b-5769-394f-fad9fba96adc</id>
+        
+                <author>
+                    <name>Zoë C.</name>
+                </author>
+        
+        <summary type="html"><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.
+The disappearance of these vulnerable mental experiences can happen on all levels of reading.]]></summary>
+    </entry>
     <entry>
         
         <category term="translations" />
@@ -319,34 +346,5 @@ In their very first work is this people, children
 Of stars and Earth, sheltered in the delicate air
 From her holy, excited breath.
 We shall defend with her this garden of a world]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/sappho/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Sappho]]></title>
-        
-        
-        
-        <published>2022-09-01T00:00:00Z</published>
-        <id>urn:uuid:37d322ad-06f1-57ac-9958-bc3ec5de3a3d</id>
-        
-                <author>
-                    <name>Lesya Ukrainka</name>
-                </author>
-        
-        <summary type="html"><![CDATA[Atop the sheer cliff over waves,
-The beautiful maid does retire.
-She shines in her crown of laurel leaves
-While clasping the murmuring lyre.
-She pours out her tears in a poem,
-Her instrument singing along.
-But sadness still swells in her bosom,
-And breaches her hold of the song.
-She sang of her dignified glory,
-Of lights in the cosmic wonder,
-Of treacherous people, of loving,
-Betrayal, and Age’s plunder,]]></summary>
     </entry>
 </feed>
