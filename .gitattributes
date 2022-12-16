@@ -1,4 +1,6 @@
-*.xml binary
-*.json binary
+*.xml -diff
+*.json -diff
 *.png binary
 *.jpg binary
+*.woff binary
+*.woff2 binary
