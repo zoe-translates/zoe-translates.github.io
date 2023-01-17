@@ -3,7 +3,21 @@
     
     <url>
         <loc>https://zoe-translat.es/</loc>
-        <lastmod>2022-12-14T23:10:00+08:00</lastmod>
+        <lastmod>2023-01-13T23:12:20+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/</loc>
+        <lastmod>2023-01-13T23:12:20+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/translations/</loc>
+        <lastmod>2023-01-13T23:12:20+08:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -45,13 +59,6 @@
     
     <url>
         <loc>https://zoe-translat.es/translations/a-parting-song/</loc>
-        <lastmod>2022-11-29T00:00:00Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://zoe-translat.es/translations/</loc>
         <lastmod>2022-11-29T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
