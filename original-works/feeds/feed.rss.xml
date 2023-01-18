@@ -26,7 +26,7 @@
     <atom:link href="/original-works/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
     <atom:link href="/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-    <generator>Hugo 0.109.0</generator>
+    <generator>Hugo 0.110.0</generator>
     <dc:creator type="html"><![CDATA[Zoë C.]]></dc:creator>
     <language>en</language>
     <copyright>Copyright © 2021-2023 Zoë C.</copyright>
