@@ -17,8 +17,35 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.110.0">Hugo</generator>
-    <updated>2023-01-15T11:00:00+08:00</updated>
+    <updated>2023-01-27T15:18:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[“Two playful orioles…”]]></title>
+        
+        
+        
+        <published>2023-01-27T15:18:00+08:00</published>
+        <id>urn:uuid:eaccbb6a-e605-5732-4982-4a26fa969ab0</id>
+        
+                <author>
+                    <name>Du Fu</name>
+                </author>
+        
+        <summary type="html"><![CDATA[Two playful orioles in verdant willows sang;
+Toward the azure sky a row of egrets soared.
+The ancient glaciers poured their gleam through windowpanes;
+Below the doorsteps slept a weary ship just moored.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+special thanks to L.J.
+Original 絕句 兩個黃鸝鳴翠柳
+一行白鷺上青天
+窗含西嶺千秋雪
+門泊東吳萬里船]]></summary>
+    </entry>
     <entry>
         
         <category term="original-works" />
@@ -318,26 +345,5 @@ Attention is all we exchange,
 Attention in the shape of rose.
 I longed for witness. Before whom? No one.
 Was my heart pure? No. But I insisted.]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/two-songs-atharvaveda/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Two songs from the Atharvaveda]]></title>
-        
-        
-        
-        <published>2022-09-22T00:00:00Z</published>
-        <id>urn:uuid:cc4d9b9e-400e-5078-c9b2-c7144bc80b5a</id>
-        
-        <summary type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
-And show us that intense delight.
-Impel us to participate in your most soothing savour now
-Like a mother who’s all too keen.
-Waters! Let’s call on you to feel that secret whose serene abode
-You help us to and birth us for.
-Nourisher of the weal, abiding carer of this land and us:
-From you, Waters, I seek a cure.]]></summary>
     </entry>
 </feed>

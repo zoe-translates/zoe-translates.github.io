@@ -14,8 +14,35 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.110.0">Hugo</generator>
-    <updated>2023-01-15T11:00:00+08:00</updated>
+    <updated>2023-01-27T15:18:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        
+        <category term="translations" />
+        
+        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[“Two playful orioles…”]]></title>
+        
+        
+        
+        <published>2023-01-27T15:18:00+08:00</published>
+        <id>urn:uuid:eaccbb6a-e605-5732-4982-4a26fa969ab0</id>
+        
+                <author>
+                    <name>Du Fu</name>
+                </author>
+        
+        <summary type="html"><![CDATA[Two playful orioles in verdant willows sang;
+Toward the azure sky a row of egrets soared.
+The ancient glaciers poured their gleam through windowpanes;
+Below the doorsteps slept a weary ship just moored.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+special thanks to L.J.
+Original 絕句 兩個黃鸝鳴翠柳
+一行白鷺上青天
+窗含西嶺千秋雪
+門泊東吳萬里船]]></summary>
+    </entry>
     <entry>
         
         <category term="translations" />
@@ -316,31 +343,5 @@ Fields at twilight heavy with dew,
 Above, ravens take wing…
 To the Earth’s four corners, for you,
 My benedictions ring!]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/to-akhmatova-1/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[To Akhmatova (I)]]></title>
-        
-        
-        
-        <published>2022-06-08T00:00:00Z</published>
-        <id>urn:uuid:ea88210e-a224-5b3c-99d8-dc69871df969</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
-        <summary type="html"><![CDATA[O, Muse of tears, most beauteous of the muses!
-O you, furious issue of the glowing night!
-You unleash a pitch-black snowstorm all over Rus’,
-And your wail pierces us like a hail of arrows.
-We are stricken; and Lo! the name that was repressed
-One hundred thousand times — pledging to you: Anna
-Akhmatova! — escapes as a sigh of protest
-That sinks into the namelessness of Gehenna.
-We are exalted simply by treading the same]]></summary>
     </entry>
 </feed>
