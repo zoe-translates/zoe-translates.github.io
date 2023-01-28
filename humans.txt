@@ -1,13 +1,12 @@
+/* TEAM */
 
-    /* TEAM */
+	Author: Zoë C.
+	Contact: zoe@zoe-translat.es
 
-    Author: Zoë C.
-    Contact: zoe@zoe-translat.es
+/* SITE */
 
-    /* SITE */
-
-    Last update: 2023/01/28
-    Language: English
-    Doctype: HTML5
-    Standards: HTML5, CSS3, SVG, Open Graph protocol, Schema.org
-    Components: Hugo, Zoified Theme, Lunr.js
+	Last update: 2023/01/28
+	Language: English
+	Doctype: HTML5
+	Standards: HTML5, CSS3, SVG, Open Graph protocol, Schema.org
+	Components: Hugo, Zoified Theme, Lunr.js
