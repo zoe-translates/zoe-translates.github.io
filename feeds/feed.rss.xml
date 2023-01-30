@@ -25,7 +25,7 @@
     <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
     <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
     <atom:link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <atom:link href="/index.json" rel="alternate" type="application/json" title="JSON" />
+    <atom:link href="/searchindex.json" rel="alternate" type="application/json" title="searchindex" />
     <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>

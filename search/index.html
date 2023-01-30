@@ -84,7 +84,7 @@
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" aria-controls="sidebar" aria-label="Toggle the sidebar">
 
 
-<aside class="sidebar" id="sidebar">
+<div class="sidebar" id="sidebar">
     <div class="sidebar-item">
         <p>A blog on poetry, translation, and the art of translating poetry.</p>
     </div>
@@ -134,7 +134,7 @@
     </div>
 
 
-</aside>
+</div>
 
         
         <div class="wrap">
@@ -175,25 +175,33 @@
                     name="search"
                     maxlength="128">
             </div>
-            <div class="search-error hide-element">
-                <p class="search-error-message"></p>
-            </div>
         </div>
     </form>
+    <label for="search">
+	<details class="search-help-details">
+	    <summary class="search-help-details-summary">Extended help</summary>
+	    <ul class="details-content">
+		<li>Use the plus sign for mandatory terms. For example, <code>+fun love</code> for posts with the word “fun” and optionally “love”.</li>
+		<li>Search within fields, for example, <code>title:two</code> for posts with the word “two” in their titles. Supported fields are “author”, “title”, and “content”.</li>
+	    </ul>
+	</details>
+    </label>
 </div>
-
+<hr class="search-fold">
 <output for="search" form="search-form" aria-relevant="additions">
-<section id="search-results" class="hide-element">
-    <div id="search-results-header">
-        <div class="search-query search-query-right">
-            <span id="results-count-text">Found results:</span>
-            <span id="results-count"></span>
-        </div>
+    <div class="search-error hide-element">
+	<p class="search-error-message"></p>
     </div>
-    <div id="search-results-body" class="post-list"></div>
-</section>
+    <section id="search-results" class="hide-element">
+	<div id="search-results-header">
+	    <div class="search-query search-query-right">
+		<span id="results-count-text">Found results:</span>
+		<span id="results-count"></span>
+	    </div>
+	</div>
+	<div id="search-results-body" class="post-list"></div>
+    </section>
 </output>
-
 <template>
     <article class="post" data-score="">
         <header>

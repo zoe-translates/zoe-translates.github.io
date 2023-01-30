@@ -6,7 +6,7 @@
     <link href="/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <link href="/index.json" rel="alternate" type="application/json" title="JSON" />
+    <link href="/searchindex.json" rel="alternate" type="application/json" title="searchindex" />
     <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
