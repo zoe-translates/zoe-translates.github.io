@@ -1,24 +1,31 @@
 {
-  "version": "https://jsonfeed.org/version/1.1",
+  "version": "https://jsonfeed.org/version/1.1/",
   "title": "Blog posts - Zoë Translates",
-  "home_page_url": "https://zoe-translat.es/?utm_source=json_feed",
-  
+  "home_page_url": "https://zoe-translat.es/",
+  "feed_url": "https://zoe-translat.es/blog/feeds/feed.json",
   "description": "A blog on poetry, translation, and the art of translating poetry.",
-  "icon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "icon": "https://zoe-translat.es/icon-512.png",
   "favicon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Zoë C."
     }
   ],
-  "language" : "en",
+  "language": "en",
   "items": [
     {
       "id": "4bc880e0-7c9b-5769-394f-fad9fba96adc",
-      "url": "https://zoe-translat.es/blog/mirror-of-the-soul/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/blog/mirror-of-the-soul/",
       "title": "Mirror of the soul",
-      "summary": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.\nThe disappearance of these vulnerable mental experiences can happen on all levels of reading.",
-      "date_published": "2022-12-14T23:10:00+08:00"
+      "content_text": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.\nThe disappearance of these vulnerable mental experiences can happen on all levels of reading. Texts inevitably get corrupted. Meanings and contexts are lost or distorted. Perhaps the saddest is the extinction of felt realities.\nBy this I mean the whole landscape of emotions and memories that can no longer be felt organically, and can only be accessed by empathy with great difficulty and uncertainty, if at all. What does this difficulty itself feel like?\nThink of the sound of a turning a rotary dial on an old telephone. As we no longer hear this sound or do the dialing, the association of this sound with certain experiences and feelings becomes even less imaginable, especially for someone without any direct memory about them:\n— The way the pace and cadence of dialing resonant with the emotion of the moment,\n— The juxtaposition of the clicks with the touch of a phone book’s pages,\n— The sense of warmth and atmosphere of longing and anticipation, when sitting in bed in a winter night, wrapped in a blanket and cozy clothes, one hand holding the phone and the other turning the dial, imagining that the one on the other side of the phone is probably feeling a similar warmth…\n… Among others that I likely lack proper words for.\nNow imagine how inaccessible these connections would be to a person without any knowledge of the dial phone at all.\nThis is what I mean by the “extinction of felt realities”, the condition that defines our relation with the full experience that we desire to convey through classical literature.\nIt is true that living traditions can keep certain realities from extinguishing completely. Nevertheless, all traditions exist with reference to what was outside their reach. Traditions don’t stop time; they only become meaningful with the passage of time.\nAnd what does that mean for translating the untranslatable, lost, inner experiences?\nProbably, it means that we can only attempt to re-create the dance of the ephemeral in the amphitheatre of timeless masonry. We can only hope to access the peripherals of the vanishing with what we have in hand – our share of the timeless in the human experience.\nAnd for translation, especially the lonesome and intimate kind, it means that as far as the re-creation of experience is concerned, the translator ultimately has to rely on her own soul as the guide in traversing the un-time.\nShe is always in search of a soundboard of evanescent vibrations, a mirror of lost images, inside herself.\nyattadyativarā yuktā dhyānayogabalānvitāḥ |\npratibimbamivādarśe paśyantyātmanyavasthitam ‖ 1.1.197\n“[It tells of] that which the great sages, inseparably joined with the power of meditative exertion, discern intimately inside the soul as if viewing a reflection in the mirror.” (The Mahābhārata)",
+      "summary": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when …",
+      "date_published": "2022-12-14T23:10:00+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": ["classical literature","reflections"]
     }
   ]
 }

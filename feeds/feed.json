@@ -1,101 +1,194 @@
 {
-  "version": "https://jsonfeed.org/version/1.1",
+  "version": "https://jsonfeed.org/version/1.1/",
   "title": "Zoë Translates",
-  "home_page_url": "https://zoe-translat.es/?utm_source=json_feed",
-  
+  "home_page_url": "https://zoe-translat.es/",
+  "feed_url": "https://zoe-translat.es/feeds/feed.json",
   "description": "A blog on poetry, translation, and the art of translating poetry.",
-  "icon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "icon": "https://zoe-translat.es/icon-512.png",
   "favicon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Zoë C."
     }
   ],
-  "language" : "en",
+  "language": "en",
   "items": [
     {
       "id": "eaccbb6a-e605-5732-4982-4a26fa969ab0",
-      "url": "https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-jueju-by-du-fu/",
       "title": "“Two playful orioles…”",
-      "summary": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured their gleam through windowpanes;\nBelow the doorsteps slept a weary ship just moored.\nan 8th-century Chinese jueju poem, re-created in alexandrine\nspecial thanks to L.J.\nOriginal 絕句 兩個黃鸝鳴翠柳\n一行白鷺上青天\n窗含西嶺千秋雪\n門泊東吳萬里船",
-      "date_published": "2023-01-27T15:18:00+08:00"
+      "content_text": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured their gleam through windowpanes;\nBelow the doorsteps slept a weary ship just moored.\nan 8th-century Chinese jueju poem, re-created in alexandrine\nspecial thanks to L.J.\nOriginal 絕句 兩個黃鸝鳴翠柳\n一行白鷺上青天\n窗含西嶺千秋雪\n門泊東吳萬里船",
+      "summary": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured …",
+      "date_published": "2023-01-27T15:18:00+08:00",
+      "authors": [
+        {
+          "name": "Du Fu"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "927c7f37-eabb-5b18-d902-fe6c4c4d2d0b",
-      "url": "https://zoe-translat.es/original-works/to-a-muse-haiku/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/to-a-muse-haiku/",
       "title": "To a muse (haiku)",
+      "content_text": "Heart of the lotus\nLabyrinthine mystery\nAdorns your bosom",
       "summary": "Heart of the lotus\nLabyrinthine mystery\nAdorns your bosom",
-      "date_published": "2023-01-15T11:00:00+08:00"
+      "date_published": "2023-01-15T11:00:00+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "66e48345-27ea-5909-49b8-415a4a47bac0",
-      "url": "https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/",
       "title": "Brahma to Valmiki, from the Ramayana",
-      "summary": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond all doubts.\n“For sacred speech by My own will\nWent forth from you, O pure soul!\nSo create, most excellent sage;\nNarrate Rāma’s account in full.\n“Tell everyone of Rāma’s deeds\nAccording to what Nārada taught:\nOf a hero who’s just and wise,\nOf a man who’s good and firm;",
-      "date_published": "2023-01-13T23:12:20+08:00"
+      "content_text": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond all doubts.\n“For sacred speech by My own will\nWent forth from you, O pure soul!\nSo create, most excellent sage;\nNarrate Rāma’s account in full.\n“Tell everyone of Rāma’s deeds\nAccording to what Nārada taught:\nOf a hero who’s just and wise,\nOf a man who’s good and firm;\n“Of what the world knows already\nAnd deepest secrets unrevealed;\nOf staunch Rāma and Saumitri,\nAnd all about the villains too.\n“By all means tell Sītā’s story,\nWhat’s popular and what’s unsung —\nFor all that’s hitherto unseen\nShall become crystal-clear to you.\n“Your song has no place for untruth,\nNot for even a single word.\nDo it, bring Rāma’s Lay to life,\nKnit in śloka⁠s, sublime and sweet.\n“So long as mountains stand on Earth,\nSo long as rivers keep their flow,\nRāmāyaṇa shall spread itself,\nTold and retold across all lands.\n“And while this song that’s yours to make\nPersists and thrives across all lands,\nYour name will live on forever,\nTo sky and Styx in all My worlds!”\nOriginal The following texts in Sanskrit have been transliterated in IAST. Verse numbering is based on the Critical Edition.\ntamuvāca tato brahmā prahasanmunipuṃgavam |\nśloka eva tvayā baddho nātra kāryā vicāraṇā ‖ 1.2.29\nmacchandādeva te brahman pravṛtteyaṃ sarasvatī |\nrāmasya caritaṃ kṛtsnaṃ kuru tvamṛṣisattama ‖ 30\ndharmātmano guṇavato loke rāmasya dhīmataḥ |\nvṛttaṃ kathaya dhīrasya yathā te nāradācchrutam ‖ 31\nrahasyaṃ ca prakāśaṃ ca yadvṛttaṃ tasya dhīmataḥ |\nrāmasya saha saumitre rākṣasānāṃ ca sarvaśaḥ ‖ 32\nvaidehyāścaiva yadvṛttaṃ prakāśaṃ yadi vā rahaḥ |\ntaccāpyaviditaṃ sarvaṃ viditaṃ te bhaviṣyati ‖ 33\nna te vāganṛtā kāvye kācidatra bhaviṣyati |\nkuru rāmakathāṃ puṇyāṃ ślokabaddhāṃ manoramām ‖ 34\nyāvatsthāsyanti girayaḥ saritaśca mahītale |\ntāvadrāmāyaṇakathā lokeṣu pracariṣyati ‖ 35\nyāvadrāmasya ca kathā tvatkṛtā pracariṣyati |\ntāvadūrdhvamadhaśca tvaṃ mallokeṣu nivatsyasi ‖ 36",
+      "summary": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond …",
+      "date_published": "2023-01-13T23:12:20+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "4bc880e0-7c9b-5769-394f-fad9fba96adc",
-      "url": "https://zoe-translat.es/blog/mirror-of-the-soul/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/blog/mirror-of-the-soul/",
       "title": "Mirror of the soul",
-      "summary": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.\nThe disappearance of these vulnerable mental experiences can happen on all levels of reading.",
-      "date_published": "2022-12-14T23:10:00+08:00"
+      "content_text": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.\nThe disappearance of these vulnerable mental experiences can happen on all levels of reading. Texts inevitably get corrupted. Meanings and contexts are lost or distorted. Perhaps the saddest is the extinction of felt realities.\nBy this I mean the whole landscape of emotions and memories that can no longer be felt organically, and can only be accessed by empathy with great difficulty and uncertainty, if at all. What does this difficulty itself feel like?\nThink of the sound of a turning a rotary dial on an old telephone. As we no longer hear this sound or do the dialing, the association of this sound with certain experiences and feelings becomes even less imaginable, especially for someone without any direct memory about them:\n— The way the pace and cadence of dialing resonant with the emotion of the moment,\n— The juxtaposition of the clicks with the touch of a phone book’s pages,\n— The sense of warmth and atmosphere of longing and anticipation, when sitting in bed in a winter night, wrapped in a blanket and cozy clothes, one hand holding the phone and the other turning the dial, imagining that the one on the other side of the phone is probably feeling a similar warmth…\n… Among others that I likely lack proper words for.\nNow imagine how inaccessible these connections would be to a person without any knowledge of the dial phone at all.\nThis is what I mean by the “extinction of felt realities”, the condition that defines our relation with the full experience that we desire to convey through classical literature.\nIt is true that living traditions can keep certain realities from extinguishing completely. Nevertheless, all traditions exist with reference to what was outside their reach. Traditions don’t stop time; they only become meaningful with the passage of time.\nAnd what does that mean for translating the untranslatable, lost, inner experiences?\nProbably, it means that we can only attempt to re-create the dance of the ephemeral in the amphitheatre of timeless masonry. We can only hope to access the peripherals of the vanishing with what we have in hand – our share of the timeless in the human experience.\nAnd for translation, especially the lonesome and intimate kind, it means that as far as the re-creation of experience is concerned, the translator ultimately has to rely on her own soul as the guide in traversing the un-time.\nShe is always in search of a soundboard of evanescent vibrations, a mirror of lost images, inside herself.\nyattadyativarā yuktā dhyānayogabalānvitāḥ |\npratibimbamivādarśe paśyantyātmanyavasthitam ‖ 1.1.197\n“[It tells of] that which the great sages, inseparably joined with the power of meditative exertion, discern intimately inside the soul as if viewing a reflection in the mirror.” (The Mahābhārata)",
+      "summary": "If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when …",
+      "date_published": "2022-12-14T23:10:00+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": ["classical literature","reflections"]
     },
     {
       "id": "d122c4e1-99de-57df-7980-d86515e16896",
-      "url": "https://zoe-translat.es/translations/a-parting-song/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-parting-song/",
       "title": "A parting song",
-      "summary": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part\nAnd be scattered in wind like scraps of hay.\nThis sunset sees friendship become longing,\nFor neither clouds nor wayfarers can stay.\nWe strain to bid farewell for one last time,\nBut our horses won’t hush their plaintive neigh.\nan 8th-century Chinese shi\nOriginal 送友人 青山橫北郭 白水繞東城\n此地一為別 孤蓬萬里征",
-      "date_published": "2022-11-29T00:00:00Z"
+      "content_text": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part\nAnd be scattered in wind like scraps of hay.\nThis sunset sees friendship become longing,\nFor neither clouds nor wayfarers can stay.\nWe strain to bid farewell for one last time,\nBut our horses won’t hush their plaintive neigh.\nan 8th-century Chinese shi\nOriginal 送友人 青山橫北郭 白水繞東城\n此地一為別 孤蓬萬里征\n浮雲遊子意 落日故人情\n揮手自茲去 蕭蕭班馬鳴",
+      "summary": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part …",
+      "date_published": "2022-11-29T00:00:00Z",
+      "authors": [
+        {
+          "name": "Li Tai Po"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "52b4c9d7-dbef-54ea-0901-919ab791d0af",
-      "url": "https://zoe-translat.es/original-works/disclosure/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/disclosure/",
       "title": "Disclosure",
-      "summary": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for unknown joy\nThat for once will outlast daily despair.\nI’ll go meet you in the familiar street,\nWhen dawn is pregnant with light after rain,\nWithout knowing whether you will be there.\nAnd I will kiss strangers, tell our story,\nAnd lose myself in linked arms and shoulders,\nAnd dance on the glint of wet paving stones,",
-      "date_published": "2022-11-28T00:00:00Z"
+      "content_text": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for unknown joy\nThat for once will outlast daily despair.\nI’ll go meet you in the familiar street,\nWhen dawn is pregnant with light after rain,\nWithout knowing whether you will be there.\nAnd I will kiss strangers, tell our story,\nAnd lose myself in linked arms and shoulders,\nAnd dance on the glint of wet paving stones,\nBecause I know that you know that we know\nThere’s no more fear of forgetting our pain.\nFrom this day on we can tell our daughters\nThis place is theirs and it’s where they can grow.\nFor this is the beginning of the end\nNo matter if I will be there with you.",
+      "summary": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for …",
+      "date_published": "2022-11-28T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "db16b8ec-0ef6-5845-b99f-1b15175f7805",
-      "url": "https://zoe-translat.es/original-works/to-a-poet/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/to-a-poet/",
       "title": "To a poet",
-      "summary": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last message\nBefore her death in flames:\nYour gift of fresh meaning\nAlready in decay.\nBut what you’ve made in me\nCan’t simply be unmade.\nAnd I desire\nWhat brought you here\nIn nights like this.",
-      "date_published": "2022-11-25T00:00:00Z"
+      "content_text": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last message\nBefore her death in flames:\nYour gift of fresh meaning\nAlready in decay.\nBut what you’ve made in me\nCan’t simply be unmade.\nAnd I desire\nWhat brought you here\nIn nights like this.",
+      "summary": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last …",
+      "date_published": "2022-11-25T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "fbf230e8-86a7-5231-392a-dee9315d9b1d",
-      "url": "https://zoe-translat.es/original-works/meteor/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/meteor/",
       "title": "Meteor",
-      "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but solar gleam.\nA fragment lost in the aftershock\nOf wondrous, one-of-its-kind events.\nForgotten, formless, and fossil-like,\nIt keeps traversing an empty space.\nBut planets are perturbative.\nA touch is usually strong enough\nTo change its path unexpectedly\nToward a fiery rendez-vous.\nThat’s how my poem approaches you:\nIt breaks and falls in a silent night.",
-      "date_published": "2022-11-21T00:00:00Z"
+      "content_text": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but solar gleam.\nA fragment lost in the aftershock\nOf wondrous, one-of-its-kind events.\nForgotten, formless, and fossil-like,\nIt keeps traversing an empty space.\nBut planets are perturbative.\nA touch is usually strong enough\nTo change its path unexpectedly\nToward a fiery rendez-vous.\nThat’s how my poem approaches you:\nIt breaks and falls in a silent night.\nBecause attraction demands its due.",
+      "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but …",
+      "date_published": "2022-11-21T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "a6780c3d-408d-50f4-49e8-fe61f4dda4f5",
-      "url": "https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-buddhist-song-cessation/",
       "title": "A Buddhist song of cessation",
-      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身\nOriginal texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖\nSanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
-      "date_published": "2022-11-18T00:00:00Z"
+      "content_text": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身\nOriginal texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖\nSanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
+      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful …",
+      "date_published": "2022-11-18T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "658675d9-2e37-5723-59b8-45f08cf59f50",
-      "url": "https://zoe-translat.es/original-works/profile-notes/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/profile-notes/",
       "title": "Profile notes: a Fediverse original",
-      "summary": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red flag?\nMaybe just a “hide the boosts from her” tag?\nIt could be an emoji, a letter,\nKeysmash, or nothing… or even better:\nA view into my personality\nThat affirms our bond of reality.\nThese bits will remain mystery to me.\nI’m curious, but I don’t have to see.",
-      "date_published": "2022-11-13T00:00:00Z"
+      "content_text": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red flag?\nMaybe just a “hide the boosts from her” tag?\nIt could be an emoji, a letter,\nKeysmash, or nothing… or even better:\nA view into my personality\nThat affirms our bond of reality.\nThese bits will remain mystery to me.\nI’m curious, but I don’t have to see.\nThey’re yours, and part of our stories too,\nWhich we tell by seeing each other through.",
+      "summary": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red …",
+      "date_published": "2022-11-13T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "f5a37298-805d-59f4-d954-369067ee9bea",
-      "url": "https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/this-bottomless-abyss/",
       "title": "“This bottomless abyss…”",
-      "summary": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void is where I’m bound.\nAll shall be stilled: the singing, the vying,\nThe shining and the striving,\nMy eyes’ green sparks, my voice, mild and caring,\nAnd my hair of gold, flowing.\nThen life will carry on, as plain as ever,\nAnd memories will fade\nThe way as if beneath the skies I never",
-      "date_published": "2022-11-03T00:00:00Z"
+      "content_text": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void is where I’m bound.\nAll shall be stilled: the singing, the vying,\nThe shining and the striving,\nMy eyes’ green sparks, my voice, mild and caring,\nAnd my hair of gold, flowing.\nThen life will carry on, as plain as ever,\nAnd memories will fade\nThe way as if beneath the skies I never\nHad actually stayed!\nBut someone — whose caprice and childlike fashion\nBetrayed all hints of blues —\nOnce marvelled at the firewood turning ashen\nFor hours she’d thus lose.\nShe loved the violoncello, fun with horses,\nAnd pealing village bells…\nI was her, so genuine, with lively forces\nThis lovely land impels!\nTo you all, whether friends or whomsoever,\n— What distance do I mind? —\nI am entreating faith, now more than ever,\nAnd love from you in kind.\nBy day, by night, in writing and in speaking:\nFor yes or no in truth,\nFor what pains me so much, so often wreaking\nIts marks in fleeting youth,\nFor a heart that’s so easily forgiving,\n— Can’t help it, though I tried —\nFor all my wild affections, for this living\nEmbodiment of pride,\nFor things that happen too fast, too unruly,\nFor truth and make-belief…\nFor all of these, love me! and love me truly:\nFor life, how dear, how brief.\n8 December 1913\nOriginal Уж сколько их упало в эту бездну,\nРазверстую вдали!\nНастанет день, когда и я исчезну\nС поверхности земли.\nЗастынет всё, что пело и боролось,\nСияло и рвалось.\nИ зелень глаз моих, и нежный голос,\nИ золото волос.\nИ будет жизнь с её насущным хлебом,\nС забывчивостью дня.\nИ будет всё — как будто бы под небом\nИ не было меня!\nИзменчивой, как дети, в каждой мине,\nИ так недолго злой,\nЛюбившей час, когда дрова в камине\nСтановятся золой.\nВиолончель и кавалькады в чаще,\nИ колокол в селе…\n— Меня, такой живой и настоящей\nНа ласковой земле!\n— К вам всем — что мне, ни в чём не знавшей меры,\nЧужие и свои?! —\nЯ обращаюсь с требованьем веры\nИ с просьбой о любви.\nИ день и ночь, и письменно и устно:\nЗа правду да и нет,\nЗа то, что мне так часто — слишком грустно\nИ только двадцать лет,\nЗа то, что мне — прямая неизбежность —\nПрощение обид,\nЗа всю мою безудержную нежность\nИ слишком гордый вид,\nЗа быстроту стремительных событий,\nЗа правду, за игру…\n— Послушайте! — Ещё меня любите\nЗа то, что я умру.",
+      "summary": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void …",
+      "date_published": "2022-11-03T00:00:00Z",
+      "authors": [
+        {
+          "name": "Marina Ivanovna Tsvetaeva"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "f62ba191-6806-565a-5955-31cd48a52ae5",
-      "url": "https://zoe-translat.es/original-works/the-rose/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/the-rose/",
       "title": "The rose",
-      "summary": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe remember past hopes and joy.\nListen to this moment – silence is alive.\nNothing divides and nothing draws us close.\nAttention is all we exchange,\nAttention in the shape of rose.\nI longed for witness. Before whom? No one.\nWas my heart pure? No. But I insisted.",
-      "date_published": "0001-01-01T00:00:00Z"
+      "content_text": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe remember past hopes and joy.\nListen to this moment – silence is alive.\nNothing divides and nothing draws us close.\nAttention is all we exchange,\nAttention in the shape of rose.\nI longed for witness. Before whom? No one.\nWas my heart pure? No. But I insisted.\nWe give; and what are we but gifts?\nGifts we forgot we’d accepted.\nTo doubt is to attempt holding back time,\nLifting time’s illusion with illusion.\nI may trust, knowing there is trust.\nAt times we feel with precision.\nWe part ways like rose petals in the wind.\nWe will return when time again is still,\nFor no more delight but to see,\nWith no more longing to fulfil.\nin original form c. 2017",
+      "summary": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe …",
+      "date_published": "2022-10-05T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     }
   ]
 }

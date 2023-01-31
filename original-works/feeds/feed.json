@@ -1,87 +1,157 @@
 {
-  "version": "https://jsonfeed.org/version/1.1",
+  "version": "https://jsonfeed.org/version/1.1/",
   "title": "Original works - Zoë Translates",
-  "home_page_url": "https://zoe-translat.es/?utm_source=json_feed",
-  
+  "home_page_url": "https://zoe-translat.es/",
+  "feed_url": "https://zoe-translat.es/original-works/feeds/feed.json",
   "description": "A blog on poetry, translation, and the art of translating poetry.",
-  "icon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "icon": "https://zoe-translat.es/icon-512.png",
   "favicon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Zoë C."
     }
   ],
-  "language" : "en",
+  "language": "en",
   "items": [
     {
       "id": "927c7f37-eabb-5b18-d902-fe6c4c4d2d0b",
-      "url": "https://zoe-translat.es/original-works/to-a-muse-haiku/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/to-a-muse-haiku/",
       "title": "To a muse (haiku)",
+      "content_text": "Heart of the lotus\nLabyrinthine mystery\nAdorns your bosom",
       "summary": "Heart of the lotus\nLabyrinthine mystery\nAdorns your bosom",
-      "date_published": "2023-01-15T11:00:00+08:00"
+      "date_published": "2023-01-15T11:00:00+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "52b4c9d7-dbef-54ea-0901-919ab791d0af",
-      "url": "https://zoe-translat.es/original-works/disclosure/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/disclosure/",
       "title": "Disclosure",
-      "summary": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for unknown joy\nThat for once will outlast daily despair.\nI’ll go meet you in the familiar street,\nWhen dawn is pregnant with light after rain,\nWithout knowing whether you will be there.\nAnd I will kiss strangers, tell our story,\nAnd lose myself in linked arms and shoulders,\nAnd dance on the glint of wet paving stones,",
-      "date_published": "2022-11-28T00:00:00Z"
+      "content_text": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for unknown joy\nThat for once will outlast daily despair.\nI’ll go meet you in the familiar street,\nWhen dawn is pregnant with light after rain,\nWithout knowing whether you will be there.\nAnd I will kiss strangers, tell our story,\nAnd lose myself in linked arms and shoulders,\nAnd dance on the glint of wet paving stones,\nBecause I know that you know that we know\nThere’s no more fear of forgetting our pain.\nFrom this day on we can tell our daughters\nThis place is theirs and it’s where they can grow.\nFor this is the beginning of the end\nNo matter if I will be there with you.",
+      "summary": "This shall be the beginning of the end.\nThe ghosts are putting on dance shoes again.\nMothers prepare daughters for …",
+      "date_published": "2022-11-28T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "db16b8ec-0ef6-5845-b99f-1b15175f7805",
-      "url": "https://zoe-translat.es/original-works/to-a-poet/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/to-a-poet/",
       "title": "To a poet",
-      "summary": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last message\nBefore her death in flames:\nYour gift of fresh meaning\nAlready in decay.\nBut what you’ve made in me\nCan’t simply be unmade.\nAnd I desire\nWhat brought you here\nIn nights like this.",
-      "date_published": "2022-11-25T00:00:00Z"
+      "content_text": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last message\nBefore her death in flames:\nYour gift of fresh meaning\nAlready in decay.\nBut what you’ve made in me\nCan’t simply be unmade.\nAnd I desire\nWhat brought you here\nIn nights like this.",
+      "summary": "Was I indeed lucky\nTo witness your descent?\nYou struck with no warning\nLike tears from surging joy.\nAn angel’s last …",
+      "date_published": "2022-11-25T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "fbf230e8-86a7-5231-392a-dee9315d9b1d",
-      "url": "https://zoe-translat.es/original-works/meteor/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/meteor/",
       "title": "Meteor",
-      "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but solar gleam.\nA fragment lost in the aftershock\nOf wondrous, one-of-its-kind events.\nForgotten, formless, and fossil-like,\nIt keeps traversing an empty space.\nBut planets are perturbative.\nA touch is usually strong enough\nTo change its path unexpectedly\nToward a fiery rendez-vous.\nThat’s how my poem approaches you:\nIt breaks and falls in a silent night.",
-      "date_published": "2022-11-21T00:00:00Z"
+      "content_text": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but solar gleam.\nA fragment lost in the aftershock\nOf wondrous, one-of-its-kind events.\nForgotten, formless, and fossil-like,\nIt keeps traversing an empty space.\nBut planets are perturbative.\nA touch is usually strong enough\nTo change its path unexpectedly\nToward a fiery rendez-vous.\nThat’s how my poem approaches you:\nIt breaks and falls in a silent night.\nBecause attraction demands its due.",
+      "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but …",
+      "date_published": "2022-11-21T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "658675d9-2e37-5723-59b8-45f08cf59f50",
-      "url": "https://zoe-translat.es/original-works/profile-notes/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/profile-notes/",
       "title": "Profile notes: a Fediverse original",
-      "summary": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red flag?\nMaybe just a “hide the boosts from her” tag?\nIt could be an emoji, a letter,\nKeysmash, or nothing… or even better:\nA view into my personality\nThat affirms our bond of reality.\nThese bits will remain mystery to me.\nI’m curious, but I don’t have to see.",
-      "date_published": "2022-11-13T00:00:00Z"
+      "content_text": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red flag?\nMaybe just a “hide the boosts from her” tag?\nIt could be an emoji, a letter,\nKeysmash, or nothing… or even better:\nA view into my personality\nThat affirms our bond of reality.\nThese bits will remain mystery to me.\nI’m curious, but I don’t have to see.\nThey’re yours, and part of our stories too,\nWhich we tell by seeing each other through.",
+      "summary": "What is in your profile notes for me, friend?\nSecret wishes? Message you never send?\nWhy you mute me? Warning of a red …",
+      "date_published": "2022-11-13T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "f62ba191-6806-565a-5955-31cd48a52ae5",
-      "url": "https://zoe-translat.es/original-works/the-rose/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/the-rose/",
       "title": "The rose",
-      "summary": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe remember past hopes and joy.\nListen to this moment – silence is alive.\nNothing divides and nothing draws us close.\nAttention is all we exchange,\nAttention in the shape of rose.\nI longed for witness. Before whom? No one.\nWas my heart pure? No. But I insisted.",
-      "date_published": "0001-01-01T00:00:00Z"
+      "content_text": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe remember past hopes and joy.\nListen to this moment – silence is alive.\nNothing divides and nothing draws us close.\nAttention is all we exchange,\nAttention in the shape of rose.\nI longed for witness. Before whom? No one.\nWas my heart pure? No. But I insisted.\nWe give; and what are we but gifts?\nGifts we forgot we’d accepted.\nTo doubt is to attempt holding back time,\nLifting time’s illusion with illusion.\nI may trust, knowing there is trust.\nAt times we feel with precision.\nWe part ways like rose petals in the wind.\nWe will return when time again is still,\nFor no more delight but to see,\nWith no more longing to fulfil.\nin original form c. 2017",
+      "summary": "With my left hand I repel and embrace.\nWith my right hand I create and destroy.\nI stand before you, both hands free.\nWe …",
+      "date_published": "2022-10-05T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "4e1c48d9-8bdd-5d6c-9942-107a71b0fc28",
-      "url": "https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/aubade-of-the-roads/",
       "title": "Aubade (of the roads)",
-      "summary": "Nothing quite prepared us for this, but here we are.\nYou lie asleep in the back seats, and all I see,\nThrough the rear mirror, are empty roads unfolding.\nTurning off the headlights, as golden solar rays\nAre about to fall from the sparsely-clouded sky,\nI drive on, not too fast, in the wordless morning.\nMy eyes and feet are weary: They still remember\nThe star-strewn darkness, the unwatched land, how we found",
-      "date_published": "2022-09-14T00:00:00Z"
+      "content_text": "Nothing quite prepared us for this, but here we are.\nYou lie asleep in the back seats, and all I see,\nThrough the rear mirror, are empty roads unfolding.\nTurning off the headlights, as golden solar rays\nAre about to fall from the sparsely-clouded sky,\nI drive on, not too fast, in the wordless morning.\nMy eyes and feet are weary: They still remember\nThe star-strewn darkness, the unwatched land, how we found\nBelonging, loneliness, passion, and how and why\nWe utterly gave in to each other, trembling\nFrom the cold air of the night, and with the knowledge\nThat for a moment or two we were safe and free.\nThe engine whirls. No need to hasten or tarry.\nWe are on the right road, and neither of us know\nHow many days or years it’ll take till we make it.\nAnd right now, in this hour smelling of soil and dew,\nBefore you slowly waken to gentle skylight,\nWe’re together, and this is all that really counts.\nAhead, barbed wires and checkpoints are still expected.\nWe risk shortage of fuel, meds, water, underwear…\nMaybe courage, faith, and crystal-clear desire, too.\nNext we’ll stop by some place, to rest a bit and heal,\nTo do what we should and it will be beautiful,\nAnd take turns to carry forward each other’s dream.",
+      "summary": "Nothing quite prepared us for this, but here we are.\nYou lie asleep in the back seats, and all I see,\nThrough the rear …",
+      "date_published": "2022-09-14T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "f640d8cd-05a8-5a6b-a984-70c9d90ab338",
-      "url": "https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/after-c%C3%A6dmon/",
       "title": "After Cædmon",
-      "summary": "Now let us praise the keeper of Planet Heaven,\nOur Goddess, friend and leader in love and justice,\nAnd their bold, empowering plan.\nWe celebrate each and every wonder that she,\nEver-present father of beauty, has instilled\nFirmly in who we truly are.\nIn their very first work is this people, children\nOf stars and Earth, sheltered in the delicate air\nFrom her holy, excited breath.\nWe shall defend with her this garden of a world",
-      "date_published": "2022-09-07T00:00:00Z"
+      "content_text": "Now let us praise the keeper of Planet Heaven,\nOur Goddess, friend and leader in love and justice,\nAnd their bold, empowering plan.\nWe celebrate each and every wonder that she,\nEver-present father of beauty, has instilled\nFirmly in who we truly are.\nIn their very first work is this people, children\nOf stars and Earth, sheltered in the delicate air\nFrom her holy, excited breath.\nWe shall defend with her this garden of a world\nSo remote and torn as if beyond her power:\nThe divine weakness of passion.",
+      "summary": "Now let us praise the keeper of Planet Heaven,\nOur Goddess, friend and leader in love and justice,\nAnd their bold, …",
+      "date_published": "2022-09-07T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "6ef1c031-3462-5b59-5942-48cd4cc747a9",
-      "url": "https://zoe-translat.es/original-works/old-poems/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/old-poems/",
       "title": "Old poems",
-      "summary": "Dans la vie intérieure, le temps tient lieu d’espace.\n(In the inner life, time takes the place of space.)\nSimone Weil, La Pesanteur et la Grâce\n(Gravity and Grace)\nInside [the black hole’s horizon] \u0026hellip; [what used to be a spatial coordinate] is the time \u0026hellip; The singularity \u0026hellip; is not a place in space; it is a moment in time.\nJames B. Hartle, Gravity\nIn my old poems was",
-      "date_published": "0001-01-01T00:00:00Z"
+      "content_text": "Dans la vie intérieure, le temps tient lieu d’espace.\n(In the inner life, time takes the place of space.)\nSimone Weil, La Pesanteur et la Grâce\n(Gravity and Grace)\nInside [the black hole’s horizon] … [what used to be a spatial coordinate] is the time … The singularity … is not a place in space; it is a moment in time.\nJames B. Hartle, Gravity\nIn my old poems was\nThe sentimental one\nScenting sighs, seeing scars\nEverywhere, twisting them\nInto words, squeezing words\nSo they fit in a grid,\nRegular, repeating.\nPreoccupied, she wanted the answer\nTo the only question: What had made her\nLike this? An effect that sought the cause and\nNothing else. Her city caught in a verdant\nEarly summer day; light abounded; she\nFelt time had been running out silently.\nHow much has really changed ever since?\nI now have an answer, and more:\nShe made me; cause, effect. Questions!\nHow will I be? What will I be?\nAnd what am I?\nI’m a tiny bit of what she was not:\nThe all-embracing space and time beyond\nHer self, her fear of being forgotten,\nSolitude unwitnessed, and pain futile.\nI’m not merely her descendant either.\nHolding her precious gift of exposed soul,\nI too am exposed to what I am not,\nAsking how much has changed, what I’m changing.\nin original form c. 2018",
+      "summary": "Dans la vie intérieure, le temps tient lieu d’espace.\n(In the inner life, time takes the place of space.)\nSimone Weil, …",
+      "date_published": "0001-01-01T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "4c8c932c-3115-5017-79fd-396b59d014e0",
-      "url": "https://zoe-translat.es/original-works/a-riddle/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/original-works/a-riddle/",
       "title": "A riddle",
+      "content_text": "What is the root of spring,\nAnd the eye of summer,\nAnd the harvest of fall,\nAnd the heart of winter?",
       "summary": "What is the root of spring,\nAnd the eye of summer,\nAnd the harvest of fall,\nAnd the heart of winter?",
-      "date_published": "2020-11-15T00:00:00Z"
+      "date_published": "2020-11-15T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     }
   ]
 }

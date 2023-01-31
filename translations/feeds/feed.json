@@ -1,101 +1,212 @@
 {
-  "version": "https://jsonfeed.org/version/1.1",
+  "version": "https://jsonfeed.org/version/1.1/",
   "title": "Translations - Zoë Translates",
-  "home_page_url": "https://zoe-translat.es/?utm_source=json_feed",
-  
+  "home_page_url": "https://zoe-translat.es/",
+  "feed_url": "https://zoe-translat.es/translations/feeds/feed.json",
   "description": "A blog on poetry, translation, and the art of translating poetry.",
-  "icon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
+  "icon": "https://zoe-translat.es/icon-512.png",
   "favicon": "https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Zoë C."
     }
   ],
-  "language" : "en",
+  "language": "en",
   "items": [
     {
       "id": "eaccbb6a-e605-5732-4982-4a26fa969ab0",
-      "url": "https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-jueju-by-du-fu/",
       "title": "“Two playful orioles…”",
-      "summary": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured their gleam through windowpanes;\nBelow the doorsteps slept a weary ship just moored.\nan 8th-century Chinese jueju poem, re-created in alexandrine\nspecial thanks to L.J.\nOriginal 絕句 兩個黃鸝鳴翠柳\n一行白鷺上青天\n窗含西嶺千秋雪\n門泊東吳萬里船",
-      "date_published": "2023-01-27T15:18:00+08:00"
+      "content_text": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured their gleam through windowpanes;\nBelow the doorsteps slept a weary ship just moored.\nan 8th-century Chinese jueju poem, re-created in alexandrine\nspecial thanks to L.J.\nOriginal 絕句 兩個黃鸝鳴翠柳\n一行白鷺上青天\n窗含西嶺千秋雪\n門泊東吳萬里船",
+      "summary": "Two playful orioles in verdant willows sang;\nToward the azure sky a row of egrets soared.\nThe ancient glaciers poured …",
+      "date_published": "2023-01-27T15:18:00+08:00",
+      "authors": [
+        {
+          "name": "Du Fu"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "66e48345-27ea-5909-49b8-415a4a47bac0",
-      "url": "https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/",
       "title": "Brahma to Valmiki, from the Ramayana",
-      "summary": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond all doubts.\n“For sacred speech by My own will\nWent forth from you, O pure soul!\nSo create, most excellent sage;\nNarrate Rāma’s account in full.\n“Tell everyone of Rāma’s deeds\nAccording to what Nārada taught:\nOf a hero who’s just and wise,\nOf a man who’s good and firm;",
-      "date_published": "2023-01-13T23:12:20+08:00"
+      "content_text": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond all doubts.\n“For sacred speech by My own will\nWent forth from you, O pure soul!\nSo create, most excellent sage;\nNarrate Rāma’s account in full.\n“Tell everyone of Rāma’s deeds\nAccording to what Nārada taught:\nOf a hero who’s just and wise,\nOf a man who’s good and firm;\n“Of what the world knows already\nAnd deepest secrets unrevealed;\nOf staunch Rāma and Saumitri,\nAnd all about the villains too.\n“By all means tell Sītā’s story,\nWhat’s popular and what’s unsung —\nFor all that’s hitherto unseen\nShall become crystal-clear to you.\n“Your song has no place for untruth,\nNot for even a single word.\nDo it, bring Rāma’s Lay to life,\nKnit in śloka⁠s, sublime and sweet.\n“So long as mountains stand on Earth,\nSo long as rivers keep their flow,\nRāmāyaṇa shall spread itself,\nTold and retold across all lands.\n“And while this song that’s yours to make\nPersists and thrives across all lands,\nYour name will live on forever,\nTo sky and Styx in all My worlds!”\nOriginal The following texts in Sanskrit have been transliterated in IAST. Verse numbering is based on the Critical Edition.\ntamuvāca tato brahmā prahasanmunipuṃgavam |\nśloka eva tvayā baddho nātra kāryā vicāraṇā ‖ 1.2.29\nmacchandādeva te brahman pravṛtteyaṃ sarasvatī |\nrāmasya caritaṃ kṛtsnaṃ kuru tvamṛṣisattama ‖ 30\ndharmātmano guṇavato loke rāmasya dhīmataḥ |\nvṛttaṃ kathaya dhīrasya yathā te nāradācchrutam ‖ 31\nrahasyaṃ ca prakāśaṃ ca yadvṛttaṃ tasya dhīmataḥ |\nrāmasya saha saumitre rākṣasānāṃ ca sarvaśaḥ ‖ 32\nvaidehyāścaiva yadvṛttaṃ prakāśaṃ yadi vā rahaḥ |\ntaccāpyaviditaṃ sarvaṃ viditaṃ te bhaviṣyati ‖ 33\nna te vāganṛtā kāvye kācidatra bhaviṣyati |\nkuru rāmakathāṃ puṇyāṃ ślokabaddhāṃ manoramām ‖ 34\nyāvatsthāsyanti girayaḥ saritaśca mahītale |\ntāvadrāmāyaṇakathā lokeṣu pracariṣyati ‖ 35\nyāvadrāmasya ca kathā tvatkṛtā pracariṣyati |\ntāvadūrdhvamadhaśca tvaṃ mallokeṣu nivatsyasi ‖ 36",
+      "summary": "And thus with a laugh Brahmā spoke\nTo the foremost of devotees,\n“Indeed you have made a śloka;\nThat is certain beyond …",
+      "date_published": "2023-01-13T23:12:20+08:00",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "d122c4e1-99de-57df-7980-d86515e16896",
-      "url": "https://zoe-translat.es/translations/a-parting-song/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-parting-song/",
       "title": "A parting song",
-      "summary": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part\nAnd be scattered in wind like scraps of hay.\nThis sunset sees friendship become longing,\nFor neither clouds nor wayfarers can stay.\nWe strain to bid farewell for one last time,\nBut our horses won’t hush their plaintive neigh.\nan 8th-century Chinese shi\nOriginal 送友人 青山橫北郭 白水繞東城\n此地一為別 孤蓬萬里征",
-      "date_published": "2022-11-29T00:00:00Z"
+      "content_text": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part\nAnd be scattered in wind like scraps of hay.\nThis sunset sees friendship become longing,\nFor neither clouds nor wayfarers can stay.\nWe strain to bid farewell for one last time,\nBut our horses won’t hush their plaintive neigh.\nan 8th-century Chinese shi\nOriginal 送友人 青山橫北郭 白水繞東城\n此地一為別 孤蓬萬里征\n浮雲遊子意 落日故人情\n揮手自茲去 蕭蕭班馬鳴",
+      "summary": "The rolling green hills and a pale river\nHave accompanied us along the way.\nOutside these city walls we must now part …",
+      "date_published": "2022-11-29T00:00:00Z",
+      "authors": [
+        {
+          "name": "Li Tai Po"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "a6780c3d-408d-50f4-49e8-fe61f4dda4f5",
-      "url": "https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/a-buddhist-song-cessation/",
       "title": "A Buddhist song of cessation",
-      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身\nOriginal texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖\nSanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
-      "date_published": "2022-11-18T00:00:00Z"
+      "content_text": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身\nOriginal texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖\nSanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
+      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful …",
+      "date_published": "2022-11-18T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "f5a37298-805d-59f4-d954-369067ee9bea",
-      "url": "https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/this-bottomless-abyss/",
       "title": "“This bottomless abyss…”",
-      "summary": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void is where I’m bound.\nAll shall be stilled: the singing, the vying,\nThe shining and the striving,\nMy eyes’ green sparks, my voice, mild and caring,\nAnd my hair of gold, flowing.\nThen life will carry on, as plain as ever,\nAnd memories will fade\nThe way as if beneath the skies I never",
-      "date_published": "2022-11-03T00:00:00Z"
+      "content_text": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void is where I’m bound.\nAll shall be stilled: the singing, the vying,\nThe shining and the striving,\nMy eyes’ green sparks, my voice, mild and caring,\nAnd my hair of gold, flowing.\nThen life will carry on, as plain as ever,\nAnd memories will fade\nThe way as if beneath the skies I never\nHad actually stayed!\nBut someone — whose caprice and childlike fashion\nBetrayed all hints of blues —\nOnce marvelled at the firewood turning ashen\nFor hours she’d thus lose.\nShe loved the violoncello, fun with horses,\nAnd pealing village bells…\nI was her, so genuine, with lively forces\nThis lovely land impels!\nTo you all, whether friends or whomsoever,\n— What distance do I mind? —\nI am entreating faith, now more than ever,\nAnd love from you in kind.\nBy day, by night, in writing and in speaking:\nFor yes or no in truth,\nFor what pains me so much, so often wreaking\nIts marks in fleeting youth,\nFor a heart that’s so easily forgiving,\n— Can’t help it, though I tried —\nFor all my wild affections, for this living\nEmbodiment of pride,\nFor things that happen too fast, too unruly,\nFor truth and make-belief…\nFor all of these, love me! and love me truly:\nFor life, how dear, how brief.\n8 December 1913\nOriginal Уж сколько их упало в эту бездну,\nРазверстую вдали!\nНастанет день, когда и я исчезну\nС поверхности земли.\nЗастынет всё, что пело и боролось,\nСияло и рвалось.\nИ зелень глаз моих, и нежный голос,\nИ золото волос.\nИ будет жизнь с её насущным хлебом,\nС забывчивостью дня.\nИ будет всё — как будто бы под небом\nИ не было меня!\nИзменчивой, как дети, в каждой мине,\nИ так недолго злой,\nЛюбившей час, когда дрова в камине\nСтановятся золой.\nВиолончель и кавалькады в чаще,\nИ колокол в селе…\n— Меня, такой живой и настоящей\nНа ласковой земле!\n— К вам всем — что мне, ни в чём не знавшей меры,\nЧужие и свои?! —\nЯ обращаюсь с требованьем веры\nИ с просьбой о любви.\nИ день и ночь, и письменно и устно:\nЗа правду да и нет,\nЗа то, что мне так часто — слишком грустно\nИ только двадцать лет,\nЗа то, что мне — прямая неизбежность —\nПрощение обид,\nЗа всю мою безудержную нежность\nИ слишком гордый вид,\nЗа быстроту стремительных событий,\nЗа правду, за игру…\n— Послушайте! — Ещё меня любите\nЗа то, что я умру.",
+      "summary": "This bottomless abyss, remote and yawning —\nHow many it has drowned!\nThat day of my departure will be dawning:\nThe void …",
+      "date_published": "2022-11-03T00:00:00Z",
+      "authors": [
+        {
+          "name": "Marina Ivanovna Tsvetaeva"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "cc4d9b9e-400e-5078-c9b2-c7144bc80b5a",
-      "url": "https://zoe-translat.es/translations/two-songs-atharvaveda/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/two-songs-atharvaveda/",
       "title": "Two songs from the Atharvaveda",
-      "summary": "AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow\nAnd show us that intense delight.\nImpel us to participate in your most soothing savour now\nLike a mother who’s all too keen.\nWaters! Let’s call on you to feel that secret whose serene abode\nYou help us to and birth us for.\nNourisher of the weal, abiding carer of this land and us:\nFrom you, Waters, I seek a cure.",
-      "date_published": "2022-09-22T00:00:00Z"
+      "content_text": "AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow\nAnd show us that intense delight.\nImpel us to participate in your most soothing savour now\nLike a mother who’s all too keen.\nWaters! Let’s call on you to feel that secret whose serene abode\nYou help us to and birth us for.\nNourisher of the weal, abiding carer of this land and us:\nFrom you, Waters, I seek a cure.\nin the metre of gāyatrī\nAV. 6.42 Like unstringing a tightened bow,\nI unwind from your heart this rage.\nLet us therefore unite as friends,\nsince we two minds have come as one.\nLet us unite as friends: In you\nI unwind and relax the wrath.\nWith our folks here we cast it down\nand put a boulder on its top.\nAnd I stand on the buried grudge,\nand press down with my heel and toe,\nSo that it shall attend my thoughts\nand speak nothing against our will.\nin the metre of anuṣṭubh\nOriginal The following texts in Sanskrit have been transliterated in IAST. Word-boundaries are emphasized by a space character when possible in spite of sandhi.\nAV. 1.5 āpo hi ṣṭhā mayobhuvas tā na ūrje dadhātana |\nmahe raṇāya cakṣase ‖\nyo vaḥ śivatamo rasas tasya bhājayateha naḥ |\nuśatīr iva mātaraḥ ‖\ntasmā araṃ gamāma vo yasya kṣayāya jinvatha |\nāpo janayathā ca naḥ ‖\nīśānā vāryāṇāṃ kṣayantīś carṣaṇīnam |\napo yācāmi bheṣajam ‖\nAV. 6.42 ava jyām iva dhanvano manyuṃ tanomi te hṛdaḥ |\nyathā saṃmanasau bhūtvā sakhāyāv iva sacāvahai ‖\nsakhāyāv iva sacāvahā ava manyuṃ tanomi te |\nadhas te aśmano manyum upāsyāmasi yo guruḥ ‖\nabhi tiṣṭhāmi te manyuṃ pārṣṇyā prapadena ca |\nyathāvaśo na vādiṣo mama cittam upāyasi ‖",
+      "summary": "AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow\nAnd show us that intense delight.\nImpel us to …",
+      "date_published": "2022-09-22T00:00:00Z",
+      "authors": [
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "37d322ad-06f1-57ac-9958-bc3ec5de3a3d",
-      "url": "https://zoe-translat.es/translations/sappho/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/sappho/",
       "title": "Sappho",
-      "summary": "Atop the sheer cliff over waves,\nThe beautiful maid does retire.\nShe shines in her crown of laurel leaves\nWhile clasping the murmuring lyre.\nShe pours out her tears in a poem,\nHer instrument singing along.\nBut sadness still swells in her bosom,\nAnd breaches her hold of the song.\nShe sang of her dignified glory,\nOf lights in the cosmic wonder,\nOf treacherous people, of loving,\nBetrayal, and Age’s plunder,",
-      "date_published": "2022-09-01T00:00:00Z"
+      "content_text": "Atop the sheer cliff over waves,\nThe beautiful maid does retire.\nShe shines in her crown of laurel leaves\nWhile clasping the murmuring lyre.\nShe pours out her tears in a poem,\nHer instrument singing along.\nBut sadness still swells in her bosom,\nAnd breaches her hold of the song.\nShe sang of her dignified glory,\nOf lights in the cosmic wonder,\nOf treacherous people, of loving,\nBetrayal, and Age’s plunder,\nOf hope and despair… so the maiden\nDiscarded that crown of torn leaves.\nIn clamouring torrents of ocean\nShe found the end to songful grieves.\nundated, c. 1884\nOriginal Сафо. Над хви́лями моря, на ске́лі\nХороша дівчи́на сидить,\nВ лавро́вім вінку́ вона ся́є,\nСпіве́цькую ліру держить.\nДо пісьні своєї сумно́ї\nНа лірі вона приграє.\nІ з піснею тою — у се́рці\nВелика їй ту́га встає:\nВ тій пісні згадала і славу\nВеличну свою, красний світ,\nЛукавих люде́й, і кохання,\nІ зраду, печаль своїх літ,\nНадії і ро́спач…. дівчи́на\nЗірвала лавро́вий вінець,\nІ в хвилях шумли́вого моря\nЗнайшла своїй пісні кінець.",
+      "summary": "Atop the sheer cliff over waves,\nThe beautiful maid does retire.\nShe shines in her crown of laurel leaves\nWhile clasping …",
+      "date_published": "2022-09-01T00:00:00Z",
+      "authors": [
+        {
+          "name": "Lesya Ukrainka"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "ed3debd1-e907-5aa2-f983-290d3dbcc346",
-      "url": "https://zoe-translat.es/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/song-of-mary-stuart-in-her-last-moments/",
       "title": "Song of Mary Stuart in her last moments",
-      "summary": "„Que suis je, hélas !\u0026hellip;.“\nWhat have I become, O Lord! Still alive, but what for?\nSo weak, like a heartless body that lingers in vain,\nAn empty shade, beleaguered by pity and pain,\nMy one and only desire is death: there’s nothing more.\nDo not fall into enmity and let hatred pour\nToward the one whose heart is cleansed of power’s stain,\nGrowing this exile’s ache past where itself could attain:",
-      "date_published": "2022-08-25T00:00:00Z"
+      "content_text": "„Que suis je, hélas !….“\nWhat have I become, O Lord! Still alive, but what for?\nSo weak, like a heartless body that lingers in vain,\nAn empty shade, beleaguered by pity and pain,\nMy one and only desire is death: there’s nothing more.\nDo not fall into enmity and let hatred pour\nToward the one whose heart is cleansed of power’s stain,\nGrowing this exile’s ache past where itself could attain:\nMay your own hearts soon be freed from anger’s bitter store!\nRemember, ye friends who have loved me in peace and need,\nThat in this life of mine devoid of fortune’s grace,\nI was powerless to do any lasting good deed.\nNow wish an end to my ill-fated earthly trace,\nFor I’ve already had enough of this world’s travails.\nLet me join that other existence where bliss prevails!\nundated, c. 1890s\nOriginal Остання пісня Марії Стюарт. Що́ я тепер, о Боже! жить мені для чо́го?\nСлаба́, мов тіло, в котрім серця вже нема,\nТінь марна я, мене жаль-туга обійма,\nСамої смерти прагну, — більше вже нічого.\nНе будьте вороги, нена́вистні до то́го,\nХто в серці за́мірів вла́дарних не здійма,\nБо му́ку більшую, ніж має сил, прийма; —\nНе довго втри́мувать вам лютість серця свого!\nЗгадайте, друзі, — ви́, котрі́ мене любили, —\nЩо я без щастя-долі у життю сьому́\nНічого доброго зробить не мала сили;\nКінця́ бажайте безталанню моєму,\nБо вже коли я ту́т недолі до́сить маю,\nХай буду я щаслива там, у и́ншім кра́ю!",
+      "summary": "„Que suis je, hélas !\u0026amp;hellip;.“\nWhat have I become, O Lord! Still alive, but what for?\nSo weak, like a heartless body …",
+      "date_published": "2022-08-25T00:00:00Z",
+      "authors": [
+        {
+          "name": "Lesya Ukrainka"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "06bbce71-26e8-5eec-6919-03fc69252f3e",
-      "url": "https://zoe-translat.es/translations/i-love-your-eyes/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/i-love-your-eyes/",
       "title": "“I love your eyes…”",
-      "summary": "I love your eyes, my dearest friend,\nWith playful sparks, burning and brightening,\nThat a gently raised glimpse may tend,\nAnd, like a cloud-strewn ring of lightning,\nYour graceful glance would let descend…\nStill there’s a charm of greater powers:\nYou gaze on the ash of a zeal\nThat once shone through passion-kissed hours;\nYour eyelashes hardly conceal\nThe dim embers where desire cowers.\nundated, c. 1830s\nOriginal The following Russian text appears in the old-style orthography.",
-      "date_published": "2022-08-18T00:00:00Z"
+      "content_text": "I love your eyes, my dearest friend,\nWith playful sparks, burning and brightening,\nThat a gently raised glimpse may tend,\nAnd, like a cloud-strewn ring of lightning,\nYour graceful glance would let descend…\nStill there’s a charm of greater powers:\nYou gaze on the ash of a zeal\nThat once shone through passion-kissed hours;\nYour eyelashes hardly conceal\nThe dim embers where desire cowers.\nundated, c. 1830s\nOriginal The following Russian text appears in the old-style orthography.\nЛюблю глаза твои, мой другъ\nСъ игрой ихъ пламенно-чудесной,\nКогда ихъ приподнимешь вдругъ\nИ словно молніей небесной\nОкинешь бѣгло цѣлый кругъ…\nНо есть сильнѣй очарованье:\nГлаза потупленные ницъ,\nВъ минуты страстнаго лобзанья,\nИ сквозь опущенныхъ рѣсницъ\nУгрюмый, тусклый огнь желанья…",
+      "summary": "I love your eyes, my dearest friend,\nWith playful sparks, burning and brightening,\nThat a gently raised glimpse may …",
+      "date_published": "2022-08-18T00:00:00Z",
+      "authors": [
+        {
+          "name": "Fyodor Ivanovich Tyutchev"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "ef83626d-4b26-5fab-d985-0fa7d1a5446d",
-      "url": "https://zoe-translat.es/translations/id-like-maybe-to-live-with-you/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/id-like-maybe-to-live-with-you/",
       "title": "“…I’d like, maybe, to live with you”",
-      "summary": "…I’d like, maybe, to live with you\nIn a small city,\nWhere the twilight is eternal\nAnd bells let out eternal chimes.\nAnd in a small, cosy lodge in the countryside —\nDelicate ringing\nOf ancient hours — like little droplets of time.\nAnd sometimes, in the evening, out of an attic somewhere —\nFlute sounds,\nThe flautist at the window.\nAnd large tulips are on the windowsills.\nAnd you, by any chance, might have even loved me…",
-      "date_published": "2022-07-01T00:00:00Z"
+      "content_text": "…I’d like, maybe, to live with you\nIn a small city,\nWhere the twilight is eternal\nAnd bells let out eternal chimes.\nAnd in a small, cosy lodge in the countryside —\nDelicate ringing\nOf ancient hours — like little droplets of time.\nAnd sometimes, in the evening, out of an attic somewhere —\nFlute sounds,\nThe flautist at the window.\nAnd large tulips are on the windowsills.\nAnd you, by any chance, might have even loved me…\n❧\nIn the middle of the room is a big ceramic stove,\nOn each tile is a miniature:\nA rose — a heart — a boat. —\nBut outside the only window —\nSnow, snow, snow.\nYou would have lain down — the way I like you: idle,\nNonchalant, carefree.\nNow and then, a brisk snap:\nA match.\nThe papirosa burns and goes dim,\nAnd for a long long time it flickers on its tip\nAlong a short grey stub — ashes.\nYou’re just too lazy to give it a knock —\nAnd the whole thing is wasted by fire.\n10 December 1916\nOriginal …Я бы хотела жить с Вами\nВ маленьком городе,\nГде вечные сумерки\nИ вечные колокола.\nИ в маленькой деревенской гостинице —\nТонкий звон\nСтаринных часов — как капельки времени.\nИ иногда, по вечерам, из какой-нибудь мансарды —\nФлейта,\nИ сам флейтист в окне.\nИ большие тюльпаны на окнах.\nИ может быть, Вы бы даже меня любили…\n❧\nПосреди комнаты — огромная изразцовая печка,\nНа каждом изразце — картинка:\nРоза — сердце — корабль. —\nА в единственном окне —\nСнег, снег, снег.\nВы бы лежали — каким я Вас люблю: ленивый,\nРавнодушный, беспечный.\nИзредка резкий треск\nСпички.\nПапироса горит и гаснет,\nИ долго-долго дрожит на её краю\nСерым коротким столбиком — пепел.\nВам даже лень его стряхивать —\nИ вся папироса летит в огонь.",
+      "summary": "…I’d like, maybe, to live with you\nIn a small city,\nWhere the twilight is eternal\nAnd bells let out eternal chimes.\nAnd …",
+      "date_published": "2022-07-01T00:00:00Z",
+      "authors": [
+        {
+          "name": "Marina Ivanovna Tsvetaeva"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "78f1e99d-adb9-5fc3-c901-5994fc1c0b50",
-      "url": "https://zoe-translat.es/translations/reminiscence/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/reminiscence/",
       "title": "Reminiscence",
-      "summary": "For you there’s a sea, brimming\nWith longing — calm, pristine\nCradled in your arm a city sleeps\nWhere my dreams are slow and serene\nA feeble lamp, under a half-moon window\nI see your name — laces of gold and silver\nFor five decades binding me in their coils\nA sea of longing —\nIn the tranquil, walled city\nSweetest voices descend and their petals scatter\nOver the dream-fabrics on my skin",
-      "date_published": "2022-06-23T00:00:00Z"
+      "content_text": "For you there’s a sea, brimming\nWith longing — calm, pristine\nCradled in your arm a city sleeps\nWhere my dreams are slow and serene\nA feeble lamp, under a half-moon window\nI see your name — laces of gold and silver\nFor five decades binding me in their coils\nA sea of longing —\nIn the tranquil, walled city\nSweetest voices descend and their petals scatter\nOver the dream-fabrics on my skin\ndate unknown\nOriginal 懷人 為你貯一海的\n思，悄靜而透亮\n你的臂彎圍一座睡城\n我的夢美麗而悠長\n最微的燈，一扇半圓的窗下\n你的名字，化作金絲銀絲\n半世紀，將我圍纏\n貯一海的思\n在那靜悄的城池\n最美的語音像最美的花瓣\n夢中，落我一身衣裳",
+      "summary": "For you there’s a sea, brimming\nWith longing — calm, pristine\nCradled in your arm a city sleeps\nWhere my dreams are slow …",
+      "date_published": "2022-06-23T00:00:00Z",
+      "authors": [
+        {
+          "name": "Hsiung Hung"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     },
     {
       "id": "bbf6720f-ac99-5e0f-3906-c24795080716",
-      "url": "https://zoe-translat.es/translations/girlfriend-15/?utm_source=json_feed",
+      "url": "https://zoe-translat.es/translations/girlfriend-15/",
       "title": "Girlfriend (XV)",
-      "summary": "Through a mirror shrouded in dust,\nIn the haze of slumber,\nI strain to find ways — as I must —\nToward you, to shelter.\nI see a steamboat with its mast,\nAnd you are there, aboard…\nYou, in the train’s fumes… Fields are vast,\nWhere twilight’s grief is poured…\nFields at twilight heavy with dew,\nAbove, ravens take wing…\nTo the Earth’s four corners, for you,\nMy benedictions ring!",
-      "date_published": "2022-06-14T00:00:00Z"
+      "content_text": "Through a mirror shrouded in dust,\nIn the haze of slumber,\nI strain to find ways — as I must —\nToward you, to shelter.\nI see a steamboat with its mast,\nAnd you are there, aboard…\nYou, in the train’s fumes… Fields are vast,\nWhere twilight’s grief is poured…\nFields at twilight heavy with dew,\nAbove, ravens take wing…\nTo the Earth’s four corners, for you,\nMy benedictions ring!\n3 May 1915\nOriginal Подруга (15) Хочу у зеркала, где муть\nИ сон туманящий,\nЯ выпытать — куда Вам путь\nИ где пристанище.\nЯ вижу: мачта корабля,\nИ Вы — на палубе…\nВы — в дыме поезда… Поля\nВ вечерней жалобе…\nВечерние поля в росе,\nНад ними — во́роны…\n— Благословляю Вас на все\nЧетыре стороны!",
+      "summary": "Through a mirror shrouded in dust,\nIn the haze of slumber,\nI strain to find ways — as I must —\nToward you, to shelter.\nI …",
+      "date_published": "2022-06-14T00:00:00Z",
+      "authors": [
+        {
+          "name": "Marina Ivanovna Tsvetaeva"
+        },
+        {
+          "name": "Zoë C."
+        }
+      ],
+      "tags": []
     }
   ]
 }
