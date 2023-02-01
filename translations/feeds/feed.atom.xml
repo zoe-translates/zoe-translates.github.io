@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="https://zoe-translat.es/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en" xml:base="https://zoe-translat.es/">
     <title type="html"><![CDATA[Translations - Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
+    <link href="/translations/feeds/feed.atom.xml" rel="self" type="xml/atom" />
     <link href="/translations/" rel="alternate" type="text/html" title="HTML" />
-    <link href="/translations/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/translations/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/translations/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
     <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
     <author>
-        <name type="html"><![CDATA[Zoë C.]]></name>
+        <name><![CDATA[Zoë C.]]></name>
         <email>zoe@zoe-translat.es</email>
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
@@ -17,21 +17,15 @@
     <updated>2023-01-27T15:18:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/a-jueju-by-du-fu/" />
         <title type="html"><![CDATA[“Two playful orioles…”]]></title>
-        
-        
-        
         <published>2023-01-27T15:18:00+08:00</published>
+        <updated>2023-01-27T15:18:00+08:00</updated>
         <id>urn:uuid:eaccbb6a-e605-5732-4982-4a26fa969ab0</id>
-        
-                <author>
-                    <name>Du Fu</name>
-                </author>
-        
+            <author>
+                <name>Du Fu</name>
+            </author>
         <summary type="html"><![CDATA[Two playful orioles in verdant willows sang;
 Toward the azure sky a row of egrets soared.
 The ancient glaciers poured their gleam through windowpanes;
@@ -44,17 +38,12 @@ Original 絕句 兩個黃鸝鳴翠柳
 門泊東吳萬里船]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/" />
         <title type="html"><![CDATA[Brahma to Valmiki, from the Ramayana]]></title>
-        
-        
-        
         <published>2023-01-13T23:12:20+08:00</published>
+        <updated>2023-01-13T23:12:20+08:00</updated>
         <id>urn:uuid:66e48345-27ea-5909-49b8-415a4a47bac0</id>
-        
         <summary type="html"><![CDATA[And thus with a laugh Brahmā spoke
 To the foremost of devotees,
 “Indeed you have made a śloka;
@@ -69,21 +58,15 @@ Of a hero who’s just and wise,
 Of a man who’s good and firm;]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-parting-song/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/a-parting-song/" />
         <title type="html"><![CDATA[A parting song]]></title>
-        
-        
-        
         <published>2022-11-29T00:00:00Z</published>
+        <updated>2022-11-29T00:00:00Z</updated>
         <id>urn:uuid:d122c4e1-99de-57df-7980-d86515e16896</id>
-        
-                <author>
-                    <name>Li Tai Po</name>
-                </author>
-        
+            <author>
+                <name>Li Tai Po</name>
+            </author>
         <summary type="html"><![CDATA[The rolling green hills and a pale river
 Have accompanied us along the way.
 Outside these city walls we must now part
@@ -97,17 +80,12 @@ Original 送友人 青山橫北郭 白水繞東城
 此地一為別 孤蓬萬里征]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/a-buddhist-song-cessation/" />
         <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
-        
-        
-        
         <published>2022-11-18T00:00:00Z</published>
+        <updated>2022-11-18T00:00:00Z</updated>
         <id>urn:uuid:a6780c3d-408d-50f4-49e8-fe61f4dda4f5</id>
-        
         <summary type="html"><![CDATA[English Lo! Formations have never stayed;
 Rises and falls mark their being.
 Now arisen, they are unmade;
@@ -127,21 +105,15 @@ utpadya hi nirudhyante
 teṣāṃ vyupaśamas sukham ‖]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/this-bottomless-abyss/" />
         <title type="html"><![CDATA[“This bottomless abyss…”]]></title>
-        
-        
-        
         <published>2022-11-03T00:00:00Z</published>
+        <updated>2022-11-03T00:00:00Z</updated>
         <id>urn:uuid:f5a37298-805d-59f4-d954-369067ee9bea</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
+            <author>
+                <name>Marina Ivanovna Tsvetaeva</name>
+            </author>
         <summary type="html"><![CDATA[This bottomless abyss, remote and yawning —
 How many it has drowned!
 That day of my departure will be dawning:
@@ -155,17 +127,12 @@ And memories will fade
 The way as if beneath the skies I never]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/two-songs-atharvaveda/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/two-songs-atharvaveda/" />
         <title type="html"><![CDATA[Two songs from the Atharvaveda]]></title>
-        
-        
-        
         <published>2022-09-22T00:00:00Z</published>
+        <updated>2022-09-22T00:00:00Z</updated>
         <id>urn:uuid:cc4d9b9e-400e-5078-c9b2-c7144bc80b5a</id>
-        
         <summary type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
 And show us that intense delight.
 Impel us to participate in your most soothing savour now
@@ -176,21 +143,15 @@ Nourisher of the weal, abiding carer of this land and us:
 From you, Waters, I seek a cure.]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/sappho/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/sappho/" />
         <title type="html"><![CDATA[Sappho]]></title>
-        
-        
-        
         <published>2022-09-01T00:00:00Z</published>
+        <updated>2022-09-01T00:00:00Z</updated>
         <id>urn:uuid:37d322ad-06f1-57ac-9958-bc3ec5de3a3d</id>
-        
-                <author>
-                    <name>Lesya Ukrainka</name>
-                </author>
-        
+            <author>
+                <name>Lesya Ukrainka</name>
+            </author>
         <summary type="html"><![CDATA[Atop the sheer cliff over waves,
 The beautiful maid does retire.
 She shines in her crown of laurel leaves
@@ -205,21 +166,15 @@ Of treacherous people, of loving,
 Betrayal, and Age’s plunder,]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/song-of-mary-stuart-in-her-last-moments/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/song-of-mary-stuart-in-her-last-moments/" />
         <title type="html"><![CDATA[Song of Mary Stuart in her last moments]]></title>
-        
-        
-        
         <published>2022-08-25T00:00:00Z</published>
+        <updated>2022-08-25T00:00:00Z</updated>
         <id>urn:uuid:ed3debd1-e907-5aa2-f983-290d3dbcc346</id>
-        
-                <author>
-                    <name>Lesya Ukrainka</name>
-                </author>
-        
+            <author>
+                <name>Lesya Ukrainka</name>
+            </author>
         <summary type="html"><![CDATA[„Que suis je, hélas !&hellip;.“
 What have I become, O Lord! Still alive, but what for?
 So weak, like a heartless body that lingers in vain,
@@ -230,21 +185,15 @@ Toward the one whose heart is cleansed of power’s stain,
 Growing this exile’s ache past where itself could attain:]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/i-love-your-eyes/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/i-love-your-eyes/" />
         <title type="html"><![CDATA[“I love your eyes…”]]></title>
-        
-        
-        
         <published>2022-08-18T00:00:00Z</published>
+        <updated>2022-08-18T00:00:00Z</updated>
         <id>urn:uuid:06bbce71-26e8-5eec-6919-03fc69252f3e</id>
-        
-                <author>
-                    <name>Fyodor Ivanovich Tyutchev</name>
-                </author>
-        
+            <author>
+                <name>Fyodor Ivanovich Tyutchev</name>
+            </author>
         <summary type="html"><![CDATA[I love your eyes, my dearest friend,
 With playful sparks, burning and brightening,
 That a gently raised glimpse may tend,
@@ -259,21 +208,15 @@ undated, c. 1830s
 Original The following Russian text appears in the old-style orthography.]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/id-like-maybe-to-live-with-you/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/id-like-maybe-to-live-with-you/" />
         <title type="html"><![CDATA[“…I’d like, maybe, to live with you”]]></title>
-        
-        
-        
         <published>2022-07-01T00:00:00Z</published>
+        <updated>2022-07-01T00:00:00Z</updated>
         <id>urn:uuid:ef83626d-4b26-5fab-d985-0fa7d1a5446d</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
+            <author>
+                <name>Marina Ivanovna Tsvetaeva</name>
+            </author>
         <summary type="html"><![CDATA[…I’d like, maybe, to live with you
 In a small city,
 Where the twilight is eternal
@@ -288,21 +231,15 @@ And large tulips are on the windowsills.
 And you, by any chance, might have even loved me…]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/reminiscence/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/reminiscence/" />
         <title type="html"><![CDATA[Reminiscence]]></title>
-        
-        
-        
         <published>2022-06-23T00:00:00Z</published>
+        <updated>2022-06-23T00:00:00Z</updated>
         <id>urn:uuid:78f1e99d-adb9-5fc3-c901-5994fc1c0b50</id>
-        
-                <author>
-                    <name>Hsiung Hung</name>
-                </author>
-        
+            <author>
+                <name>Hsiung Hung</name>
+            </author>
         <summary type="html"><![CDATA[For you there’s a sea, brimming
 With longing — calm, pristine
 Cradled in your arm a city sleeps
@@ -316,21 +253,15 @@ Sweetest voices descend and their petals scatter
 Over the dream-fabrics on my skin]]></summary>
     </entry>
     <entry>
-        
         <category term="translations" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/translations/girlfriend-15/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/girlfriend-15/" />
         <title type="html"><![CDATA[Girlfriend (XV)]]></title>
-        
-        
-        
         <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
         <id>urn:uuid:bbf6720f-ac99-5e0f-3906-c24795080716</id>
-        
-                <author>
-                    <name>Marina Ivanovna Tsvetaeva</name>
-                </author>
-        
+            <author>
+                <name>Marina Ivanovna Tsvetaeva</name>
+            </author>
         <summary type="html"><![CDATA[Through a mirror shrouded in dust,
 In the haze of slumber,
 I strain to find ways — as I must —

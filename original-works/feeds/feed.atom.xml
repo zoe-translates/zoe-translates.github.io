@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="https://zoe-translat.es/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en" xml:base="https://zoe-translat.es/">
     <title type="html"><![CDATA[Original works - Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
+    <link href="/original-works/feeds/feed.atom.xml" rel="self" type="xml/atom" />
     <link href="/original-works/" rel="alternate" type="text/html" title="HTML" />
-    <link href="/original-works/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/original-works/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
     <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
     <author>
-        <name type="html"><![CDATA[Zoë C.]]></name>
+        <name><![CDATA[Zoë C.]]></name>
         <email>zoe@zoe-translat.es</email>
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
@@ -17,41 +17,29 @@
     <updated>2023-01-27T15:18:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/to-a-muse-haiku/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/to-a-muse-haiku/" />
         <title type="html"><![CDATA[To a muse (haiku)]]></title>
-        
-        
-        
         <published>2023-01-15T11:00:00+08:00</published>
+        <updated>2023-01-15T11:00:00+08:00</updated>
         <id>urn:uuid:927c7f37-eabb-5b18-d902-fe6c4c4d2d0b</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[Heart of the lotus
 Labyrinthine mystery
 Adorns your bosom]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/disclosure/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/disclosure/" />
         <title type="html"><![CDATA[Disclosure]]></title>
-        
-        
-        
         <published>2022-11-28T00:00:00Z</published>
+        <updated>2022-11-28T00:00:00Z</updated>
         <id>urn:uuid:52b4c9d7-dbef-54ea-0901-919ab791d0af</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[This shall be the beginning of the end.
 The ghosts are putting on dance shoes again.
 Mothers prepare daughters for unknown joy
@@ -64,21 +52,15 @@ And lose myself in linked arms and shoulders,
 And dance on the glint of wet paving stones,]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/to-a-poet/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/to-a-poet/" />
         <title type="html"><![CDATA[To a poet]]></title>
-        
-        
-        
         <published>2022-11-25T00:00:00Z</published>
+        <updated>2022-11-25T00:00:00Z</updated>
         <id>urn:uuid:db16b8ec-0ef6-5845-b99f-1b15175f7805</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[Was I indeed lucky
 To witness your descent?
 You struck with no warning
@@ -94,21 +76,15 @@ What brought you here
 In nights like this.]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/meteor/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/meteor/" />
         <title type="html"><![CDATA[Meteor]]></title>
-        
-        
-        
         <published>2022-11-21T00:00:00Z</published>
+        <updated>2022-11-21T00:00:00Z</updated>
         <id>urn:uuid:fbf230e8-86a7-5231-392a-dee9315d9b1d</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[An asteroid travels in resonance
 With Jovian orbit around the Sun.
 Unstable, also invariable,
@@ -125,21 +101,15 @@ That’s how my poem approaches you:
 It breaks and falls in a silent night.]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/profile-notes/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/profile-notes/" />
         <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
-        
-        
-        
         <published>2022-11-13T00:00:00Z</published>
+        <updated>2022-11-13T00:00:00Z</updated>
         <id>urn:uuid:658675d9-2e37-5723-59b8-45f08cf59f50</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[What is in your profile notes for me, friend?
 Secret wishes? Message you never send?
 Why you mute me? Warning of a red flag?
@@ -152,21 +122,15 @@ These bits will remain mystery to me.
 I’m curious, but I don’t have to see.]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/the-rose/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/the-rose/" />
         <title type="html"><![CDATA[The rose]]></title>
-        
-        
-        
         <published>2022-10-05T00:00:00Z</published>
+        <updated>2022-10-05T00:00:00Z</updated>
         <id>urn:uuid:f62ba191-6806-565a-5955-31cd48a52ae5</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[With my left hand I repel and embrace.
 With my right hand I create and destroy.
 I stand before you, both hands free.
@@ -179,21 +143,15 @@ I longed for witness. Before whom? No one.
 Was my heart pure? No. But I insisted.]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/aubade-of-the-roads/" />
         <title type="html"><![CDATA[Aubade (of the roads)]]></title>
-        
-        
-        
         <published>2022-09-14T00:00:00Z</published>
+        <updated>2022-09-14T00:00:00Z</updated>
         <id>urn:uuid:4e1c48d9-8bdd-5d6c-9942-107a71b0fc28</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[Nothing quite prepared us for this, but here we are.
 You lie asleep in the back seats, and all I see,
 Through the rear mirror, are empty roads unfolding.
@@ -204,21 +162,15 @@ My eyes and feet are weary: They still remember
 The star-strewn darkness, the unwatched land, how we found]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/after-c%C3%A6dmon/" />
         <title type="html"><![CDATA[After Cædmon]]></title>
-        
-        
-        
         <published>2022-09-07T00:00:00Z</published>
+        <updated>2022-09-07T00:00:00Z</updated>
         <id>urn:uuid:f640d8cd-05a8-5a6b-a984-70c9d90ab338</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[Now let us praise the keeper of Planet Heaven,
 Our Goddess, friend and leader in love and justice,
 And their bold, empowering plan.
@@ -231,21 +183,15 @@ From her holy, excited breath.
 We shall defend with her this garden of a world]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/old-poems/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/old-poems/" />
         <title type="html"><![CDATA[Old poems]]></title>
-        
-        
-        
         <published>2022-07-10T00:00:00Z</published>
+        <updated>2022-07-10T00:00:00Z</updated>
         <id>urn:uuid:6ef1c031-3462-5b59-5942-48cd4cc747a9</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
 (In the inner life, time takes the place of space.)
 Simone Weil, La Pesanteur et la Grâce
@@ -255,21 +201,15 @@ James B. Hartle, Gravity
 In my old poems was]]></summary>
     </entry>
     <entry>
-        
         <category term="original-works" />
-        
-        <link rel="alternate" type="type/html" href="https://zoe-translat.es/original-works/a-riddle/?utm_source=atom_feed" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/a-riddle/" />
         <title type="html"><![CDATA[A riddle]]></title>
-        
-        
-        
         <published>2020-11-15T00:00:00Z</published>
+        <updated>2020-11-15T00:00:00Z</updated>
         <id>urn:uuid:4c8c932c-3115-5017-79fd-396b59d014e0</id>
-        
-                <author>
-                    <name>Zoë C.</name>
-                </author>
-        
+            <author>
+                <name>Zoë C.</name>
+            </author>
         <summary type="html"><![CDATA[What is the root of spring,
 And the eye of summer,
 And the harvest of fall,
