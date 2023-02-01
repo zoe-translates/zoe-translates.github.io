@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
-    <link href="https://zoe-translat.es/blog/feeds/feed.atom.xml" rel="self" type="xml/atom" />
+    <link href="https://zoe-translat.es/blog/feeds/feed.atom.xml" rel="self" type="text/xml" />
     <link href="https://zoe-translat.es/blog/" rel="alternate" type="text/html" title="HTML" />
     <link href="https://zoe-translat.es/blog/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="https://zoe-translat.es/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
