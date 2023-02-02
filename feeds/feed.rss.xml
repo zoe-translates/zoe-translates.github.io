@@ -1,46 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-    xmlns:media="http://search.yahoo.com/mrss/"
-    xml:lang="en"
-    xml:base="https://zoe-translat.es/">
+    xml:lang="en">
     <channel>
-        <title type="html"><![CDATA[Zoë Translates]]></title>
-    </channel>
-    <link type="text/html">https://zoe-translat.es/</link>
-    
-    <image>
-        <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
-        <title type="html"><![CDATA[Zoë Translates]]></title>
+        <title><![CDATA[Zoë Translates]]></title>
         <link>https://zoe-translat.es/</link>
-        <width>96</width>
-        <height>96</height>
-    </image>
-    <atom:link href="/" rel="alternate" type="text/html" title="HTML" />
-    <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
-    <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
-    <atom:link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <atom:link href="/searchindex.json" rel="alternate" type="application/json" title="searchindex" />
-    <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
-    <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
-    <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-    <generator>Hugo 0.110.0</generator>
-    <dc:creator type="html"><![CDATA[Zoë C.]]></dc:creator>
-    <language>en</language>
-    <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
-    <item>
-        <title type="html"><![CDATA[“Two playful orioles…”]]></title>
-        <link>https://zoe-translat.es/translations/a-jueju-by-du-fu/?utm_source=rss_feed</link>
-        <pubDate>Fri, 27 Jan 2023 15:18:00 +0800</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">d72ed43d8d876771b0e8947b18e02580</guid>
-        <description type="html"><![CDATA[Two playful orioles in verdant willows sang;
+        <description><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
+        <generator>Hugo 0.110.0</generator>
+        <dc:creator><![CDATA[Zoë C.]]></dc:creator>
+        <language>en</language>
+        <copyright>Copyright © 2021-2023 Zoë C.</copyright>
+        <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
+        <image>
+            <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+            <title><![CDATA[Zoë Translates]]></title>
+            <link>https://zoe-translat.es/</link>
+            <width>96</width>
+            <height>96</height>
+        </image>
+        <atom:link href="https://zoe-translat.es/feeds/feed.rss.xml" rel="self" type="application/rss+xml" title="Feed" />
+        <atom:link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="HTML" />
+        <atom:link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
+        <atom:link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[“Two playful orioles…”]]></title>
+            <link>https://zoe-translat.es/translations/a-jueju-by-du-fu/</link>
+            <pubDate>Fri, 27 Jan 2023 15:18:00 +0800</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">d72ed43d8d876771b0e8947b18e02580</guid>
+            <description><![CDATA[Two playful orioles in verdant willows sang;
 Toward the azure sky a row of egrets soared.
 The ancient glaciers poured their gleam through windowpanes;
 Below the doorsteps slept a weary ship just moored.
@@ -50,26 +39,24 @@ Original 絕句 兩個黃鸝鳴翠柳
 一行白鷺上青天
 窗含西嶺千秋雪
 門泊東吳萬里船]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[To a muse (haiku)]]></title>
-        <link>https://zoe-translat.es/original-works/to-a-muse-haiku/?utm_source=rss_feed</link>
-        <pubDate>Sun, 15 Jan 2023 11:00:00 +0800</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">ff1e6f2210ffa4e88fc8bdc9df9870e6</guid>
-        <description type="html"><![CDATA[Heart of the lotus
+        </item>
+        <item>
+            <title><![CDATA[To a muse (haiku)]]></title>
+            <link>https://zoe-translat.es/original-works/to-a-muse-haiku/</link>
+            <pubDate>Sun, 15 Jan 2023 11:00:00 +0800</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">ff1e6f2210ffa4e88fc8bdc9df9870e6</guid>
+            <description><![CDATA[Heart of the lotus
 Labyrinthine mystery
 Adorns your bosom]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Brahma to Valmiki, from the Ramayana]]></title>
-        <link>https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/?utm_source=rss_feed</link>
-        <pubDate>Fri, 13 Jan 2023 23:12:20 +0800</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">9fbd10606aba824521986d96b396d929</guid>
-        <description type="html"><![CDATA[And thus with a laugh Brahmā spoke
+        </item>
+        <item>
+            <title><![CDATA[Brahma to Valmiki, from the Ramayana]]></title>
+            <link>https://zoe-translat.es/translations/brahma-to-valmiki-from-ramayana/</link>
+            <pubDate>Fri, 13 Jan 2023 23:12:20 +0800</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">9fbd10606aba824521986d96b396d929</guid>
+            <description><![CDATA[And thus with a laugh Brahmā spoke
 To the foremost of devotees,
 “Indeed you have made a śloka;
 That is certain beyond all doubts.
@@ -81,27 +68,25 @@ Narrate Rāma’s account in full.
 According to what Nārada taught:
 Of a hero who’s just and wise,
 Of a man who’s good and firm;]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Mirror of the soul]]></title>
-        <link>https://zoe-translat.es/blog/mirror-of-the-soul/?utm_source=rss_feed</link>
-        <pubDate>Wed, 14 Dec 2022 23:10:00 +0800</pubDate>
-        <category>blog</category>
-        <category>classical literature</category>
-        <category>reflections</category>
-        <guid isPermaLink="false">330c0d5468709b9be2b2f7b2ff844a81</guid>
-        <description type="html"><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.
+        </item>
+        <item>
+            <title><![CDATA[Mirror of the soul]]></title>
+            <link>https://zoe-translat.es/blog/mirror-of-the-soul/</link>
+            <pubDate>Wed, 14 Dec 2022 23:10:00 +0800</pubDate>
+            <category>blog</category>
+            <category>classical literature</category>
+            <category>reflections</category>
+            <guid isPermaLink="false">330c0d5468709b9be2b2f7b2ff844a81</guid>
+            <description><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.
 The disappearance of these vulnerable mental experiences can happen on all levels of reading.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[A parting song]]></title>
-        <link>https://zoe-translat.es/translations/a-parting-song/?utm_source=rss_feed</link>
-        <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">93aab6492f693dba92b1c72fc2a60a7b</guid>
-        <description type="html"><![CDATA[The rolling green hills and a pale river
+        </item>
+        <item>
+            <title><![CDATA[A parting song]]></title>
+            <link>https://zoe-translat.es/translations/a-parting-song/</link>
+            <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">93aab6492f693dba92b1c72fc2a60a7b</guid>
+            <description><![CDATA[The rolling green hills and a pale river
 Have accompanied us along the way.
 Outside these city walls we must now part
 And be scattered in wind like scraps of hay.
@@ -112,15 +97,14 @@ But our horses won’t hush their plaintive neigh.
 an 8th-century Chinese shi
 Original 送友人 青山橫北郭 白水繞東城
 此地一為別 孤蓬萬里征]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Disclosure]]></title>
-        <link>https://zoe-translat.es/original-works/disclosure/?utm_source=rss_feed</link>
-        <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
-        <description type="html"><![CDATA[This shall be the beginning of the end.
+        </item>
+        <item>
+            <title><![CDATA[Disclosure]]></title>
+            <link>https://zoe-translat.es/original-works/disclosure/</link>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
+            <description><![CDATA[This shall be the beginning of the end.
 The ghosts are putting on dance shoes again.
 Mothers prepare daughters for unknown joy
 That for once will outlast daily despair.
@@ -130,15 +114,14 @@ Without knowing whether you will be there.
 And I will kiss strangers, tell our story,
 And lose myself in linked arms and shoulders,
 And dance on the glint of wet paving stones,]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[To a poet]]></title>
-        <link>https://zoe-translat.es/original-works/to-a-poet/?utm_source=rss_feed</link>
-        <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
-        <description type="html"><![CDATA[Was I indeed lucky
+        </item>
+        <item>
+            <title><![CDATA[To a poet]]></title>
+            <link>https://zoe-translat.es/original-works/to-a-poet/</link>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
+            <description><![CDATA[Was I indeed lucky
 To witness your descent?
 You struck with no warning
 Like tears from surging joy.
@@ -151,15 +134,14 @@ Can’t simply be unmade.
 And I desire
 What brought you here
 In nights like this.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Meteor]]></title>
-        <link>https://zoe-translat.es/original-works/meteor/?utm_source=rss_feed</link>
-        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
-        <description type="html"><![CDATA[An asteroid travels in resonance
+        </item>
+        <item>
+            <title><![CDATA[Meteor]]></title>
+            <link>https://zoe-translat.es/original-works/meteor/</link>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
+            <description><![CDATA[An asteroid travels in resonance
 With Jovian orbit around the Sun.
 Unstable, also invariable,
 Caressed by nothing but solar gleam.
@@ -173,15 +155,14 @@ To change its path unexpectedly
 Toward a fiery rendez-vous.
 That’s how my poem approaches you:
 It breaks and falls in a silent night.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
-        <link>https://zoe-translat.es/translations/a-buddhist-song-cessation/?utm_source=rss_feed</link>
-        <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">ec35f76a875eaff65fa32da106154135</guid>
-        <description type="html"><![CDATA[English Lo! Formations have never stayed;
+        </item>
+        <item>
+            <title><![CDATA[A Buddhist song of cessation]]></title>
+            <link>https://zoe-translat.es/translations/a-buddhist-song-cessation/</link>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">ec35f76a875eaff65fa32da106154135</guid>
+            <description><![CDATA[English Lo! Formations have never stayed;
 Rises and falls mark their being.
 Now arisen, they are unmade;
 Blissful therefore is their ceasing.
@@ -198,15 +179,14 @@ Sanskrit anityā vata saṃskārā
 utpādavyayadharmiṇaḥ |
 utpadya hi nirudhyante
 teṣāṃ vyupaśamas sukham ‖]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
-        <link>https://zoe-translat.es/original-works/profile-notes/?utm_source=rss_feed</link>
-        <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
-        <description type="html"><![CDATA[What is in your profile notes for me, friend?
+        </item>
+        <item>
+            <title><![CDATA[Profile notes: a Fediverse original]]></title>
+            <link>https://zoe-translat.es/original-works/profile-notes/</link>
+            <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
+            <description><![CDATA[What is in your profile notes for me, friend?
 Secret wishes? Message you never send?
 Why you mute me? Warning of a red flag?
 Maybe just a “hide the boosts from her” tag?
@@ -216,15 +196,14 @@ A view into my personality
 That affirms our bond of reality.
 These bits will remain mystery to me.
 I’m curious, but I don’t have to see.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[“This bottomless abyss…”]]></title>
-        <link>https://zoe-translat.es/translations/this-bottomless-abyss/?utm_source=rss_feed</link>
-        <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-        <category>translations</category>
-        <guid isPermaLink="false">2a8c9e67f637a5e188ee078e0017f31e</guid>
-        <description type="html"><![CDATA[This bottomless abyss, remote and yawning —
+        </item>
+        <item>
+            <title><![CDATA[“This bottomless abyss…”]]></title>
+            <link>https://zoe-translat.es/translations/this-bottomless-abyss/</link>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">2a8c9e67f637a5e188ee078e0017f31e</guid>
+            <description><![CDATA[This bottomless abyss, remote and yawning —
 How many it has drowned!
 That day of my departure will be dawning:
 The void is where I’m bound.
@@ -235,15 +214,14 @@ And my hair of gold, flowing.
 Then life will carry on, as plain as ever,
 And memories will fade
 The way as if beneath the skies I never]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[The rose]]></title>
-        <link>https://zoe-translat.es/original-works/the-rose/?utm_source=rss_feed</link>
-        <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
-        <description type="html"><![CDATA[With my left hand I repel and embrace.
+        </item>
+        <item>
+            <title><![CDATA[The rose]]></title>
+            <link>https://zoe-translat.es/original-works/the-rose/</link>
+            <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
+            <description><![CDATA[With my left hand I repel and embrace.
 With my right hand I create and destroy.
 I stand before you, both hands free.
 We remember past hopes and joy.
@@ -253,6 +231,6 @@ Attention is all we exchange,
 Attention in the shape of rose.
 I longed for witness. Before whom? No one.
 Was my heart pure? No. But I insisted.]]></description>
-    </item>
-    
+        </item>
+    </channel>
 </rss>

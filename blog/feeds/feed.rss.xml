@@ -1,46 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-    xmlns:media="http://search.yahoo.com/mrss/"
-    xml:lang="en"
-    xml:base="https://zoe-translat.es/">
+    xml:lang="en">
     <channel>
-        <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
-    </channel>
-    <link type="text/html">https://zoe-translat.es/</link>
-    
-    <image>
-        <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
-        <title type="html"><![CDATA[Blog posts - Zoë Translates]]></title>
-        <link>https://zoe-translat.es/</link>
-        <width>96</width>
-        <height>96</height>
-    </image>
-    <atom:link href="/blog/" rel="alternate" type="text/html" title="HTML" />
-    <atom:link href="/blog/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
-    <atom:link href="/blog/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
-    <atom:link href="/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-    <generator>Hugo 0.110.0</generator>
-    <dc:creator type="html"><![CDATA[Zoë C.]]></dc:creator>
-    <language>en</language>
-    <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
-    <item>
-        <title type="html"><![CDATA[Mirror of the soul]]></title>
-        <link>https://zoe-translat.es/blog/mirror-of-the-soul/?utm_source=rss_feed</link>
-        <pubDate>Wed, 14 Dec 2022 23:10:00 +0800</pubDate>
-        <category>blog</category>
-        <category>classical literature</category>
-        <category>reflections</category>
-        <guid isPermaLink="false">330c0d5468709b9be2b2f7b2ff844a81</guid>
-        <description type="html"><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.
+        <title><![CDATA[Blog posts - Zoë Translates]]></title>
+        <link>https://zoe-translat.es/blog/</link>
+        <description><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
+        <generator>Hugo 0.110.0</generator>
+        <dc:creator><![CDATA[Zoë C.]]></dc:creator>
+        <language>en</language>
+        <copyright>Copyright © 2021-2023 Zoë C.</copyright>
+        <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
+        <image>
+            <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+            <title><![CDATA[Blog posts - Zoë Translates]]></title>
+            <link>https://zoe-translat.es/blog/</link>
+            <width>96</width>
+            <height>96</height>
+        </image>
+        <atom:link href="https://zoe-translat.es/blog/feeds/feed.rss.xml" rel="self" type="application/rss+xml" title="Feed" />
+        <atom:link href="https://zoe-translat.es/blog/" rel="alternate" type="text/html" title="HTML" />
+        <atom:link href="https://zoe-translat.es/blog/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
+        <atom:link href="https://zoe-translat.es/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[Mirror of the soul]]></title>
+            <link>https://zoe-translat.es/blog/mirror-of-the-soul/</link>
+            <pubDate>Wed, 14 Dec 2022 23:10:00 +0800</pubDate>
+            <category>blog</category>
+            <category>classical literature</category>
+            <category>reflections</category>
+            <guid isPermaLink="false">330c0d5468709b9be2b2f7b2ff844a81</guid>
+            <description><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation. We are thus placed in the ambiguous territory tantalizingly out of the reach of our empathy.
 The disappearance of these vulnerable mental experiences can happen on all levels of reading.]]></description>
-    </item>
-    
+        </item>
+    </channel>
 </rss>

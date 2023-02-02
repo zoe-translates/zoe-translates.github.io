@@ -1,54 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-    xmlns:media="http://search.yahoo.com/mrss/"
-    xml:lang="en"
-    xml:base="https://zoe-translat.es/">
+    xml:lang="en">
     <channel>
-        <title type="html"><![CDATA[Original works - Zoë Translates]]></title>
-    </channel>
-    <link type="text/html">https://zoe-translat.es/</link>
-    
-    <image>
-        <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
-        <title type="html"><![CDATA[Original works - Zoë Translates]]></title>
-        <link>https://zoe-translat.es/</link>
-        <width>96</width>
-        <height>96</height>
-    </image>
-    <atom:link href="/original-works/" rel="alternate" type="text/html" title="HTML" />
-    <atom:link href="/original-works/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
-    <atom:link href="/original-works/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
-    <atom:link href="/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <description type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-    <generator>Hugo 0.110.0</generator>
-    <dc:creator type="html"><![CDATA[Zoë C.]]></dc:creator>
-    <language>en</language>
-    <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
-    <item>
-        <title type="html"><![CDATA[To a muse (haiku)]]></title>
-        <link>https://zoe-translat.es/original-works/to-a-muse-haiku/?utm_source=rss_feed</link>
-        <pubDate>Sun, 15 Jan 2023 11:00:00 +0800</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">ff1e6f2210ffa4e88fc8bdc9df9870e6</guid>
-        <description type="html"><![CDATA[Heart of the lotus
+        <title><![CDATA[Original works - Zoë Translates]]></title>
+        <link>https://zoe-translat.es/original-works/</link>
+        <description><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
+        <generator>Hugo 0.110.0</generator>
+        <dc:creator><![CDATA[Zoë C.]]></dc:creator>
+        <language>en</language>
+        <copyright>Copyright © 2021-2023 Zoë C.</copyright>
+        <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
+        <image>
+            <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+            <title><![CDATA[Original works - Zoë Translates]]></title>
+            <link>https://zoe-translat.es/original-works/</link>
+            <width>96</width>
+            <height>96</height>
+        </image>
+        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.rss.xml" rel="self" type="application/rss+xml" title="Feed" />
+        <atom:link href="https://zoe-translat.es/original-works/" rel="alternate" type="text/html" title="HTML" />
+        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
+        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[To a muse (haiku)]]></title>
+            <link>https://zoe-translat.es/original-works/to-a-muse-haiku/</link>
+            <pubDate>Sun, 15 Jan 2023 11:00:00 +0800</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">ff1e6f2210ffa4e88fc8bdc9df9870e6</guid>
+            <description><![CDATA[Heart of the lotus
 Labyrinthine mystery
 Adorns your bosom]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Disclosure]]></title>
-        <link>https://zoe-translat.es/original-works/disclosure/?utm_source=rss_feed</link>
-        <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
-        <description type="html"><![CDATA[This shall be the beginning of the end.
+        </item>
+        <item>
+            <title><![CDATA[Disclosure]]></title>
+            <link>https://zoe-translat.es/original-works/disclosure/</link>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
+            <description><![CDATA[This shall be the beginning of the end.
 The ghosts are putting on dance shoes again.
 Mothers prepare daughters for unknown joy
 That for once will outlast daily despair.
@@ -58,15 +49,14 @@ Without knowing whether you will be there.
 And I will kiss strangers, tell our story,
 And lose myself in linked arms and shoulders,
 And dance on the glint of wet paving stones,]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[To a poet]]></title>
-        <link>https://zoe-translat.es/original-works/to-a-poet/?utm_source=rss_feed</link>
-        <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
-        <description type="html"><![CDATA[Was I indeed lucky
+        </item>
+        <item>
+            <title><![CDATA[To a poet]]></title>
+            <link>https://zoe-translat.es/original-works/to-a-poet/</link>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
+            <description><![CDATA[Was I indeed lucky
 To witness your descent?
 You struck with no warning
 Like tears from surging joy.
@@ -79,15 +69,14 @@ Can’t simply be unmade.
 And I desire
 What brought you here
 In nights like this.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Meteor]]></title>
-        <link>https://zoe-translat.es/original-works/meteor/?utm_source=rss_feed</link>
-        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
-        <description type="html"><![CDATA[An asteroid travels in resonance
+        </item>
+        <item>
+            <title><![CDATA[Meteor]]></title>
+            <link>https://zoe-translat.es/original-works/meteor/</link>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
+            <description><![CDATA[An asteroid travels in resonance
 With Jovian orbit around the Sun.
 Unstable, also invariable,
 Caressed by nothing but solar gleam.
@@ -101,15 +90,14 @@ To change its path unexpectedly
 Toward a fiery rendez-vous.
 That’s how my poem approaches you:
 It breaks and falls in a silent night.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
-        <link>https://zoe-translat.es/original-works/profile-notes/?utm_source=rss_feed</link>
-        <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
-        <description type="html"><![CDATA[What is in your profile notes for me, friend?
+        </item>
+        <item>
+            <title><![CDATA[Profile notes: a Fediverse original]]></title>
+            <link>https://zoe-translat.es/original-works/profile-notes/</link>
+            <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
+            <description><![CDATA[What is in your profile notes for me, friend?
 Secret wishes? Message you never send?
 Why you mute me? Warning of a red flag?
 Maybe just a “hide the boosts from her” tag?
@@ -119,15 +107,14 @@ A view into my personality
 That affirms our bond of reality.
 These bits will remain mystery to me.
 I’m curious, but I don’t have to see.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[The rose]]></title>
-        <link>https://zoe-translat.es/original-works/the-rose/?utm_source=rss_feed</link>
-        <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
-        <description type="html"><![CDATA[With my left hand I repel and embrace.
+        </item>
+        <item>
+            <title><![CDATA[The rose]]></title>
+            <link>https://zoe-translat.es/original-works/the-rose/</link>
+            <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
+            <description><![CDATA[With my left hand I repel and embrace.
 With my right hand I create and destroy.
 I stand before you, both hands free.
 We remember past hopes and joy.
@@ -137,15 +124,14 @@ Attention is all we exchange,
 Attention in the shape of rose.
 I longed for witness. Before whom? No one.
 Was my heart pure? No. But I insisted.]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Aubade (of the roads)]]></title>
-        <link>https://zoe-translat.es/original-works/aubade-of-the-roads/?utm_source=rss_feed</link>
-        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">27079a6668f6a1121adf3e4a91029fb7</guid>
-        <description type="html"><![CDATA[Nothing quite prepared us for this, but here we are.
+        </item>
+        <item>
+            <title><![CDATA[Aubade (of the roads)]]></title>
+            <link>https://zoe-translat.es/original-works/aubade-of-the-roads/</link>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">27079a6668f6a1121adf3e4a91029fb7</guid>
+            <description><![CDATA[Nothing quite prepared us for this, but here we are.
 You lie asleep in the back seats, and all I see,
 Through the rear mirror, are empty roads unfolding.
 Turning off the headlights, as golden solar rays
@@ -153,15 +139,14 @@ Are about to fall from the sparsely-clouded sky,
 I drive on, not too fast, in the wordless morning.
 My eyes and feet are weary: They still remember
 The star-strewn darkness, the unwatched land, how we found]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[After Cædmon]]></title>
-        <link>https://zoe-translat.es/original-works/after-c%C3%A6dmon/?utm_source=rss_feed</link>
-        <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">5297ca495b517921a6934c59c14b27dd</guid>
-        <description type="html"><![CDATA[Now let us praise the keeper of Planet Heaven,
+        </item>
+        <item>
+            <title><![CDATA[After Cædmon]]></title>
+            <link>https://zoe-translat.es/original-works/after-c%C3%A6dmon/</link>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">5297ca495b517921a6934c59c14b27dd</guid>
+            <description><![CDATA[Now let us praise the keeper of Planet Heaven,
 Our Goddess, friend and leader in love and justice,
 And their bold, empowering plan.
 We celebrate each and every wonder that she,
@@ -171,33 +156,31 @@ In their very first work is this people, children
 Of stars and Earth, sheltered in the delicate air
 From her holy, excited breath.
 We shall defend with her this garden of a world]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[Old poems]]></title>
-        <link>https://zoe-translat.es/original-works/old-poems/?utm_source=rss_feed</link>
-        <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">4b2eff96f2a1a2c9f87def65f4b8dd97</guid>
-        <description type="html"><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
+        </item>
+        <item>
+            <title><![CDATA[Old poems]]></title>
+            <link>https://zoe-translat.es/original-works/old-poems/</link>
+            <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">4b2eff96f2a1a2c9f87def65f4b8dd97</guid>
+            <description><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
 (In the inner life, time takes the place of space.)
 Simone Weil, La Pesanteur et la Grâce
 (Gravity and Grace)
 Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.
 James B. Hartle, Gravity
 In my old poems was]]></description>
-    </item>
-    
-    <item>
-        <title type="html"><![CDATA[A riddle]]></title>
-        <link>https://zoe-translat.es/original-works/a-riddle/?utm_source=rss_feed</link>
-        <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
-        <category>original-works</category>
-        <guid isPermaLink="false">2b2988f015f05de5315381fb12e323e6</guid>
-        <description type="html"><![CDATA[What is the root of spring,
+        </item>
+        <item>
+            <title><![CDATA[A riddle]]></title>
+            <link>https://zoe-translat.es/original-works/a-riddle/</link>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">2b2988f015f05de5315381fb12e323e6</guid>
+            <description><![CDATA[What is the root of spring,
 And the eye of summer,
 And the harvest of fall,
 And the heart of winter?]]></description>
-    </item>
-    
+        </item>
+    </channel>
 </rss>

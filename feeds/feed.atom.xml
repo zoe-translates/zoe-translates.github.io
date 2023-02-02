@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="html"><![CDATA[Zoë Translates]]></title>
+    <title><![CDATA[Zoë Translates]]></title>
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
-    <link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="self" type="text/xml" />
+    <link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="self" type="application/atom+xml" title="Atom" />
     <link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="HTML" />
-    <link href="https://zoe-translat.es/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="https://zoe-translat.es/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="Feed" />
     <link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
     <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
