@@ -140,55 +140,66 @@
 
     <div class="site-function-page-body">
         <div id="site-search" class="search-form">
-    <label for="search" aria-details="search-help-details-content">Please enter the search terms. Results will appear below.</label>
-    <form role="search" id="search-form">
-        <div class="search-wrapper">
-            <div class="search-container form-item">
-                <input
-                    autofocus
-                    autocomplete="off"
-                    spellcheck="false"
-                    class="search-form-input form-input"
-                    type="search"
-                    id="search"
-                    name="search"
-                    maxlength="128">
-            </div>
-        </div>
-    </form>
-    <details class="search-help-details">
-	<summary class="search-help-details-summary">More options</summary>
-	<ul class="details-content" id="search-help-details-content">
-	    <li>Search within fields, for example, <code>title:two</code> for posts with the word “two” in their titles. Supported fields are “author”, “title”, “tag”, and “content”.</li>
-	    <li>When using fields, type a hyphen in the place of the space when entering a multi-word term. For example: <code>author:marina-tsvetaeva</code>.</li>
-	    <li>Use the plus sign for mandatory terms. For example, <code>+fun love</code> for posts with the word “fun” and optionally “love”.</li>
-	</ul>
-    </details>
+  <label for="search" aria-details="search-help-details-content">Please enter the search terms. Results will appear below.</label>
+  <form role="search" id="search-form">
+    <div class="search-wrapper">
+      <div class="search-container form-item">
+        <input
+            autofocus
+            autocomplete="off"
+            spellcheck="false"
+            class="search-form-input form-input"
+            type="search"
+            id="search"
+            name="search"
+            maxlength="128">
+      </div>
+    </div>
+  </form>
+  <details class="search-help-details">
+    <summary class="search-help-details-summary">
+      More options
+    </summary>
+    <ul class="details-content" id="search-help-details-content">
+      <li>Search within fields, for example, <code>title:two</code> for posts
+        with the word “two” in their titles. Supported fields are “author”,
+        “title”, “tag”, and “content”.</li>
+      <li>When using fields, type a hyphen in the place of the space when
+        entering a multi-word term. For example:
+        <code>author:marina-tsvetaeva</code>.</li>
+      <li>Use the plus sign for mandatory terms. For example, <code>+fun
+          love</code> for posts with the word “fun” and optionally “love”.</li>
+    </ul>
+  </details>
 </div>
 <hr class="search-fold">
-<output for="search" form="search-form" aria-relevant="additions" aria-live="off">
-    <div class="search-error hide-element">
-	<p class="search-error-message"></p>
+<output for="search" form="search-form"
+  aria-relevant="additions" aria-live="off">
+  <div class="search-error hide-element">
+    <p class="search-error-message"></p>
+  </div>
+  <section id="search-results" class="hide-element">
+    <div id="search-results-header">
+      <div class="search-query search-query-right">
+        <span id="results-count-text">Found results:</span>
+        <span id="results-count"></span>
+      </div>
     </div>
-    <section id="search-results" class="hide-element">
-	<div id="search-results-header">
-	    <div class="search-query search-query-right">
-		<span id="results-count-text">Found results:</span>
-		<span id="results-count"></span>
-	    </div>
-	</div>
-	<div id="search-results-body" class="post-list"></div>
-    </section>
+    <div id="search-results-body" class="post-list"></div>
+  </section>
 </output>
 <template>
-    <article class="post" data-score="">
-        <header>
-            <h2 class="post-title">
-                <a href="#" class="search-result-page-title"></a>
-            </h2>
-        </header>
-        <p class="post-content"></p>
-    </article>
+  <article class="post search-result-item" data-score="">
+    <header>
+      <h2 class="post-title">
+        <a href="#" class="search-result-page-title"></a>
+      </h2>
+      <p class="post-meta">
+        <span class="tm-date"></span> — <span class="tm-author"></span>.
+      </p>
+    </header>
+    <p class="post-content"></p>
+  </article>
 </template>
     <script src="/js/lunr-bundle.min.js"></script>
     <script src="/js/search-bundle.js"></script>
