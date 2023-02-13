@@ -146,7 +146,7 @@
           class="search-form-input form-input"
           type="search"
           id="search"
-          name="search"
+          name="q"
           maxlength="128">
     </div>
   </form>
@@ -157,16 +157,13 @@
     <ul class="details-content" id="search-help-details-content">
       <li>When multiple terms are given, a result contains at least one of
         them.
-      <li>A plus sign right before a term makes it mandatory.<br>Example:
-        <code>love +fun</code>.</li>
-      <li>A minus sign before a term excludes it.<br>Example:
+      <li>For a mandatory term, use a plus sign.<br>Example:
+        <code>love +fun</code> for posts with “fun” and optionally “love”.</li>
+      <li>To exclude a term, use a minus sign.<br>Example:
         <code>love -friend</code> for posts with “love” but not “friend”.</li>
       <li>You can confine a term to a specific field. Supported fields are
-        “author”, “title”, and “content”.<br>Example: <code>title:two</code>
-        for the word “two” in the title.</li>
-      <li>When using fields, type a hyphen in the place of the space when
-        entering a multi-word term. For example:
-        <code>author:marina-tsvetaeva</code>.</li>
+        “author”, “title”, and “content”.<br>Example: <code>title:love</code>
+        only searches for “love” in the title.</li>
     </ul>
   </details>
 </div>
@@ -174,13 +171,11 @@
 <output for="search" form="search-form"
   aria-relevant="additions" aria-live="off">
   <div class="search-error hide-element" id="search-error-container">
-    <p class="search-error-message" id="search-error-content"></p>
+    <span class="search-error-message" id="search-error-content"></span>
   </div>
   <div id="search-results" class="hide-element">
-    <div id="search-results-header">
-      <div class="search-query search-query-right">
-        <span id="results-count-text">Found results: </span><span id="results-count"></span>
-      </div>
+    <div>
+      <span id="results-count-text">Found results: </span><span id="results-count"></span>
     </div>
     <div id="search-results-body" class="post-list"></div>
   </div>
@@ -191,14 +186,13 @@
     <h2 class="post-title">
       <a href="#" class="search-result-page-title"></a>
     </h2>
-    <p class="post-meta">
+    <div class="post-meta">
       <span class="tm-date"></span> — <span class="tm-author"></span>
-    </p>
+    </div>
   </header>
   <p class="post-content"></p>
 </article>
 </template>
-<template id="mark-tpl"><mark class="search-item"></mark></template>
     <script src="/js/lunr-bundle.min.js"></script>
     <script src="/js/search-bundle.js"></script>
 
