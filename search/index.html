@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
-    <title>Search - Zoë Translates</title>
+    <title>Search this website - Zoë Translates</title>
     <link crossorigin="anonymous" href="/css/stylesheet.min.css" rel="stylesheet">
 
     <link rel="canonical" href="https://zoe-translat.es/search/">
@@ -22,7 +22,7 @@
 
     <meta name="theme-color" content="#ffffff">
 
-    <meta property="og:title" content="Search - Zoë Translates">
+    <meta property="og:title" content="Search this website - Zoë Translates">
     <meta property="og:description" content="Local search page">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://zoe-translat.es/search/">
@@ -30,7 +30,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="200">
 
-    <meta name="twitter:title" content="Search - Zoë Translates">
+    <meta name="twitter:title" content="Search this website - Zoë Translates">
     <meta name="twitter:description" content="Local search page">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://zoe-translat.es/img/open-graph-logo.png">
@@ -44,7 +44,7 @@
             "@id": "https://zoe-translat.es/search/"
         },
         "url": "https://zoe-translat.es/search/",
-        "headline": "Search",
+        "headline": "Search this website",
         "description": "Local search page",
         "keywords": ["translator","poet","literature","poetry"],
         "datePublished": "0001-01-01T00:00:00Z",
@@ -118,26 +118,42 @@
 
         <main class="container content" id="main"><article class="site-function-page" role="document">
     <header>
-        <h1 class="text-title">
-            Search
+        <h1 class="text-title" id="main-content-heading">
+            Search this website
         </h1>
         <div class="byline"></div>
     </header>
 
     <div class="site-function-page-body">
-        <div id="site-search" class="search-form">
-  <label for="search" aria-details="search-help-details-content">Please enter the search terms. Results will appear below.</label>
+        <noscript>
+  <h2>The search feature requires JavaScript</h2>
+  <p>
+  This website is a static website, and search data never leaves your browser.
+  </p>
+  <p>
+  For this to work, JavaScript is necessary. Without it, the search form below
+  is not functional.
+  </p>
+  <p>
+  You can try a site-specific external search, for example, by
+  <a class="external" rel="noopener noreferrer nofollow"
+  href="https://duckduckgo.com/?q=site%3Azoe-translat.es">DuckDuckGo</a>.
+  </p>
+</noscript>
+<div id="site-search" class="search-form">
   <form role="search" id="search-form">
     <div class="search-container form-item" id="search-input-container">
-      <input
-          autofocus
-          autocomplete="off"
-          spellcheck="false"
+      <input autofocus autocomplete="off" spellcheck="false"
           class="search-form-input form-input"
           type="search"
           id="search"
           name="q"
+          aria-labelledby="main-content-heading"
+          aria-errormessage="search-error-content"
+          aria-details="search-help-details-content"
+          aria-controls="search-result-region"
           maxlength="128">
+      <button id="search-act" type="button">Enter</button>
     </div>
   </form>
   <details class="search-help-details">
@@ -158,8 +174,11 @@
   </details>
 </div>
 <hr class="search-fold">
-<output for="search" form="search-form"
-  aria-relevant="additions" aria-live="off">
+<section id="search-output-region"
+  aria-live="polite"
+  aria-relevant="additions"
+  aria-label="Search output"
+  aria-busy="false">
   <div class="search-error hide-element" id="search-error-container">
     <span class="search-error-message" id="search-error-content"></span>
   </div>
@@ -169,7 +188,7 @@
     </div>
     <div id="search-results-body" class="post-list"></div>
   </div>
-</output>
+</section>
 <template id="search-display-tpl">
 <article class="post search-result-item" data-score="">
   <header>
