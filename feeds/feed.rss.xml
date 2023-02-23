@@ -11,7 +11,7 @@
         <dc:creator><![CDATA[Zoë C.]]></dc:creator>
         <language>en</language>
         <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-        <lastBuildDate>Fri, 27 Jan 2023 15:18:00 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 13:20:04 +0800</lastBuildDate>
         <image>
             <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
             <title><![CDATA[Zoë Translates]]></title>
@@ -23,6 +23,17 @@
         <atom:link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="HTML" />
         <atom:link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
         <atom:link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[Severance of the Earth from Heaven]]></title>
+            <link>https://zoe-translat.es/blog/severance-earth-heaven/</link>
+            <pubDate>Thu, 23 Feb 2023 13:20:04 +0800</pubDate>
+            <category>blog</category>
+            <category>mythology</category>
+            <category>history</category>
+            <guid isPermaLink="false">1f8c74c563a2fceae8ba2d7aece153bc</guid>
+            <description><![CDATA[This is done for a friend who wanted to know more about the Chinese myths in which the Earth was severed from Heaven. I translated three excerpts where this myth was attested, with the original texts attached.
+I hesitated about where to put this post, and decided against placing it under the section “Translations”, because it would have read out-of-place alongside the literary works.]]></description>
+        </item>
         <item>
             <title><![CDATA[“Two playful orioles…”]]></title>
             <link>https://zoe-translat.es/translations/a-jueju-by-du-fu/</link>
@@ -188,21 +199,6 @@ All shall be stilled: the singing, the vying,
 The shining and the striving,
 My eyes’ green sparks, my voice, mild and caring,
 And my hair of gold, flowing.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The rose]]></title>
-            <link>https://zoe-translat.es/original-works/the-rose/</link>
-            <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-            <category>original-works</category>
-            <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
-            <description><![CDATA[With my left hand I repel and embrace.
-With my right hand I create and destroy.
-I stand before you, both hands free.
-We remember past hopes and joy.
-Listen to this moment – silence is alive.
-Nothing divides and nothing draws us close.
-Attention is all we exchange,
-Attention in the shape of rose.]]></description>
         </item>
     </channel>
 </rss>
