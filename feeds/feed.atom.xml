@@ -14,8 +14,28 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.111.2">Hugo</generator>
-    <updated>2023-03-06T15:43:19+08:00</updated>
+    <updated>2023-03-09T14:29:09+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        <category term="translations" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/grasses-loa-ho/" />
+        <title type="html"><![CDATA[Grasses]]></title>
+        <published>2023-03-09T14:29:09+08:00</published>
+        <updated>2023-03-09T14:29:09+08:00</updated>
+        <id>urn:uuid:70f3812a-d394-5f13-1906-ee3e206921eb</id>
+            <author>
+                <name>Lōa Hô</name>
+            </author>
+        <summary type="html"><![CDATA[Spring is here. In the soil,
+Where hooves used to trample,
+Grasses are about to come out.
+With unconstrained force of life
+The grasses, swaying, stretching,
+Spring up — as if by volition!
+And they seem to say,
+“We don’t care. The one who is to grow, grows.
+Sweet dew is upon us; a warm wind is blowing.]]></summary>
+    </entry>
     <entry>
         <category term="blog" />
         <category term="mythology" />
@@ -215,24 +235,5 @@ Maybe just a “hide the boosts from her” tag?
 It could be an emoji, a letter,
 Keysmash, or nothing… or even better:
 A view into my personality]]></summary>
-    </entry>
-    <entry>
-        <category term="translations" />
-        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/this-bottomless-abyss/" />
-        <title type="html"><![CDATA[“This bottomless abyss…”]]></title>
-        <published>2022-11-03T00:00:00Z</published>
-        <updated>2022-11-03T00:00:00Z</updated>
-        <id>urn:uuid:f5a37298-805d-59f4-d954-369067ee9bea</id>
-            <author>
-                <name>Marina Ivanovna Tsvetaeva</name>
-            </author>
-        <summary type="html"><![CDATA[This bottomless abyss, remote and yawning —
-How many it has drowned!
-That day of my departure will be dawning:
-The void is where I’m bound.
-All shall be stilled: the singing, the vying,
-The shining and the striving,
-My eyes’ green sparks, my voice, mild and caring,
-And my hair of gold, flowing.]]></summary>
     </entry>
 </feed>

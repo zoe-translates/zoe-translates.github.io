@@ -14,8 +14,28 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.111.2">Hugo</generator>
-    <updated>2023-03-06T15:43:19+08:00</updated>
+    <updated>2023-03-09T14:29:09+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        <category term="translations" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/grasses-loa-ho/" />
+        <title type="html"><![CDATA[Grasses]]></title>
+        <published>2023-03-09T14:29:09+08:00</published>
+        <updated>2023-03-09T14:29:09+08:00</updated>
+        <id>urn:uuid:70f3812a-d394-5f13-1906-ee3e206921eb</id>
+            <author>
+                <name>Lōa Hô</name>
+            </author>
+        <summary type="html"><![CDATA[Spring is here. In the soil,
+Where hooves used to trample,
+Grasses are about to come out.
+With unconstrained force of life
+The grasses, swaying, stretching,
+Spring up — as if by volition!
+And they seem to say,
+“We don’t care. The one who is to grow, grows.
+Sweet dew is upon us; a warm wind is blowing.]]></summary>
+    </entry>
     <entry>
         <category term="translations" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/a-jueju-by-du-fu/" />
@@ -216,24 +236,5 @@ Where my dreams are slow and serene
 A feeble lamp, under a half-moon window
 I see your name — laces of gold and silver
 For five decades binding me in their coils]]></summary>
-    </entry>
-    <entry>
-        <category term="translations" />
-        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/girlfriend-15/" />
-        <title type="html"><![CDATA[Girlfriend (XV)]]></title>
-        <published>2022-06-14T00:00:00Z</published>
-        <updated>2022-06-14T00:00:00Z</updated>
-        <id>urn:uuid:bbf6720f-ac99-5e0f-3906-c24795080716</id>
-            <author>
-                <name>Marina Ivanovna Tsvetaeva</name>
-            </author>
-        <summary type="html"><![CDATA[Through a mirror shrouded in dust,
-In the haze of slumber,
-I strain to find ways — as I must —
-Toward you, to shelter.
-I see a steamboat with its mast,
-And you are there, aboard…
-You, in the train’s fumes… Fields are vast,
-Where twilight’s grief is poured…]]></summary>
     </entry>
 </feed>
