@@ -128,24 +128,32 @@
 
     <div class="site-function-page-body">
         <noscript>
-  <h2>The search feature requires JavaScript</h2>
   <p>
-  This website is a static website, and search data never leaves your browser.
+  The native search form is not loaded because JavaScript is not enabled.
   </p>
-  <p>
-  For this to work, JavaScript is necessary. Without it, the search form below
-  is not functional.
+  <p id="ddg-info">
+  The following search form redirects you to <a class="external"
+  rel="noopener noreferrer nofollow"
+  href="https://duckduckgo.com/">DuckDuckGo</a> for a site-specific search.
   </p>
-  <p>
-  You can try a site-specific external search, for example, by
-  <a class="external" rel="noopener noreferrer nofollow"
-  href="https://duckduckgo.com/?q=site%3Azoe-translat.es">DuckDuckGo</a>.
-  </p>
+  <form role="search" id="search-form-fallback">
+    <div class="search-container form-item">
+      <input type="hidden" name="sites" value="zoe-translat.es">
+      <input autofocus autocomplete="off" spellcheck="false"
+          class="search-form-input form-input"
+          type="search"
+          name="q"
+          enterkeyhint="search"
+          aria-labelledby="ddg-info"
+          maxlength="128">
+      <button class="search-submit" formmethod="get" formaction="https://duckduckgo.com/" type="submit">Enter</button>
+    </div>
+  </form>
 </noscript>
-<div id="site-search" class="search-form">
+<div id="site-search" class="search-form hide-element">
   <form role="search" id="search-form">
     <div class="search-container form-item" id="search-input-container">
-      <input autofocus autocomplete="off" spellcheck="false"
+      <input autocomplete="off" spellcheck="false"
           class="search-form-input form-input"
           type="search"
           id="search"
@@ -158,7 +166,7 @@
           aria-details="search-help-details-content"
           aria-controls="search-output-region"
           maxlength="128">
-      <button id="search-act" formmethod="get" type="submit" disabled>Enter</button>
+      <button class="search-submit" id="search-act" formmethod="get" type="submit" disabled>Enter</button>
     </div>
   </form>
   <details class="search-help-details">
