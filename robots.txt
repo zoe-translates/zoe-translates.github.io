@@ -2,6 +2,5 @@
 User-agent: *
 Allow: /
 Disallow: /404.html
-Disallow: /thanks
 
 Sitemap: https://zoe-translat.es/sitemap.xml

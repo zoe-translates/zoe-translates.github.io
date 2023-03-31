@@ -131,14 +131,14 @@
   <p>
   The native search form is not loaded because JavaScript is not enabled.
   </p>
-  <p id="ddg-info">
-  The following search form redirects you to <a class="external"
+  <p>
+  <span  id="ddg-info">Enter the search terms</span> and you will be redirected
+  to the external search engine <a class="external"
   rel="noopener noreferrer nofollow"
-  href="https://duckduckgo.com/">DuckDuckGo</a> for a site-specific search.
+  href="https://duckduckgo.com/">DuckDuckGo</a> for results on this website.
   </p>
-  <form role="search" id="search-form-fallback">
+  <form role="search" id="search-form-fallback" rel="external nofollow noopener noreferrer search">
     <div class="search-container form-item">
-      <input type="hidden" name="sites" value="zoe-translat.es">
       <input autofocus autocomplete="off" spellcheck="false"
           class="search-form-input form-input"
           type="search"
@@ -146,6 +146,7 @@
           enterkeyhint="search"
           aria-labelledby="ddg-info"
           maxlength="128">
+      <input type="hidden" name="sites" value="zoe-translat.es">
       <button class="search-submit" formmethod="get" formaction="https://duckduckgo.com/" type="submit">Enter</button>
     </div>
   </form>
