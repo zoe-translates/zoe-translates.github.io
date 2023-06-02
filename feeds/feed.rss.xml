@@ -11,7 +11,7 @@
         <dc:creator><![CDATA[Zoë C.]]></dc:creator>
         <language>en</language>
         <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 14:29:09 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 17:12:00 +0800</lastBuildDate>
         <image>
             <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
             <title><![CDATA[Zoë Translates]]></title>
@@ -23,6 +23,23 @@
         <atom:link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="html" />
         <atom:link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
         <atom:link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[Parting: to a musician]]></title>
+            <link>https://zoe-translat.es/translations/parting-to-a-musician/</link>
+            <pubDate>Fri, 02 Jun 2023 17:12:00 +0800</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">0e0a86e7c94433867195143dd5b4f17d</guid>
+            <description><![CDATA[The midday sun erupts through endless desert clouds
+As north-bound geese defy the wind and raging snow.
+Depart, my friend, and ride across the loneliness
+Towards a world where hearts are leaping for your song.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+Original 別董大·其一 高適
+千里黃雲白日曛
+北風吹雁雪紛紛
+莫愁前路無知己
+天下誰人不識君]]></description>
+        </item>
         <item>
             <title><![CDATA[Grasses]]></title>
             <link>https://zoe-translat.es/translations/grasses-loa-ho/</link>
@@ -187,20 +204,6 @@ uppādavayadhammino |
 uppajjitvā nirujjhanti
 tesaṃ vūpasamo sukho ‖
 Sanskrit anityā vata saṃskārā]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Profile notes: a Fediverse original]]></title>
-            <link>https://zoe-translat.es/original-works/profile-notes/</link>
-            <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-            <category>original-works</category>
-            <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
-            <description><![CDATA[What is in your profile notes for me, friend?
-Secret wishes? Message you never send?
-Why you mute me? Warning of a red flag?
-Maybe just a “hide the boosts from her” tag?
-It could be an emoji, a letter,
-Keysmash, or nothing… or even better:
-A view into my personality]]></description>
         </item>
     </channel>
 </rss>

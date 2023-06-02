@@ -14,8 +14,29 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.112.6">Hugo</generator>
-    <updated>2023-03-09T14:29:09+08:00</updated>
+    <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        <category term="translations" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/parting-to-a-musician/" />
+        <title type="html"><![CDATA[Parting: to a musician]]></title>
+        <published>2023-06-02T17:12:00+08:00</published>
+        <updated>2023-06-02T17:12:00+08:00</updated>
+        <id>urn:uuid:7bae54e9-5533-5d80-b935-0778ba756141</id>
+            <author>
+                <name>Gao Shi</name>
+            </author>
+        <summary type="html"><![CDATA[The midday sun erupts through endless desert clouds
+As north-bound geese defy the wind and raging snow.
+Depart, my friend, and ride across the loneliness
+Towards a world where hearts are leaping for your song.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+Original 別董大·其一 高適
+千里黃雲白日曛
+北風吹雁雪紛紛
+莫愁前路無知己
+天下誰人不識君]]></summary>
+    </entry>
     <entry>
         <category term="translations" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/grasses-loa-ho/" />
@@ -218,23 +239,5 @@ And in a small, cosy lodge in the countryside —
 Delicate ringing
 Of ancient hours — like little droplets of time.
 And sometimes, in the evening, out of an attic somewhere —]]></summary>
-    </entry>
-    <entry>
-        <category term="translations" />
-        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/reminiscence/" />
-        <title type="html"><![CDATA[Reminiscence]]></title>
-        <published>2022-06-23T00:00:00Z</published>
-        <updated>2022-06-23T00:00:00Z</updated>
-        <id>urn:uuid:78f1e99d-adb9-5fc3-c901-5994fc1c0b50</id>
-            <author>
-                <name>Hsiung Hung</name>
-            </author>
-        <summary type="html"><![CDATA[For you there’s a sea, brimming
-With longing — calm, pristine
-Cradled in your arm a city sleeps
-Where my dreams are slow and serene
-A feeble lamp, under a half-moon window
-I see your name — laces of gold and silver
-For five decades binding me in their coils]]></summary>
     </entry>
 </feed>

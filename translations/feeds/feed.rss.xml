@@ -11,7 +11,7 @@
         <dc:creator><![CDATA[Zoë C.]]></dc:creator>
         <language>en</language>
         <copyright>Copyright © 2021-2023 Zoë C.</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 14:29:09 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 17:12:00 +0800</lastBuildDate>
         <image>
             <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
             <title><![CDATA[Translations - Zoë Translates]]></title>
@@ -23,6 +23,23 @@
         <atom:link href="https://zoe-translat.es/translations/" rel="alternate" type="text/html" title="html" />
         <atom:link href="https://zoe-translat.es/translations/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
         <atom:link href="https://zoe-translat.es/translations/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <item>
+            <title><![CDATA[Parting: to a musician]]></title>
+            <link>https://zoe-translat.es/translations/parting-to-a-musician/</link>
+            <pubDate>Fri, 02 Jun 2023 17:12:00 +0800</pubDate>
+            <category>translations</category>
+            <guid isPermaLink="false">0e0a86e7c94433867195143dd5b4f17d</guid>
+            <description><![CDATA[The midday sun erupts through endless desert clouds
+As north-bound geese defy the wind and raging snow.
+Depart, my friend, and ride across the loneliness
+Towards a world where hearts are leaping for your song.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+Original 別董大·其一 高適
+千里黃雲白日曛
+北風吹雁雪紛紛
+莫愁前路無知己
+天下誰人不識君]]></description>
+        </item>
         <item>
             <title><![CDATA[Grasses]]></title>
             <link>https://zoe-translat.es/translations/grasses-loa-ho/</link>
@@ -190,20 +207,6 @@ And in a small, cosy lodge in the countryside —
 Delicate ringing
 Of ancient hours — like little droplets of time.
 And sometimes, in the evening, out of an attic somewhere —]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reminiscence]]></title>
-            <link>https://zoe-translat.es/translations/reminiscence/</link>
-            <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-            <category>translations</category>
-            <guid isPermaLink="false">9f93e170b2795a0ed3e1a3f6d34ba1b5</guid>
-            <description><![CDATA[For you there’s a sea, brimming
-With longing — calm, pristine
-Cradled in your arm a city sleeps
-Where my dreams are slow and serene
-A feeble lamp, under a half-moon window
-I see your name — laces of gold and silver
-For five decades binding me in their coils]]></description>
         </item>
     </channel>
 </rss>

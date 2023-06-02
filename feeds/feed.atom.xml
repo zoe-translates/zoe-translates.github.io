@@ -14,8 +14,29 @@
     </author>
     <rights>Copyright © 2021-2023 Zoë C.</rights>
     <generator uri="https://gohugo.io" version="0.112.6">Hugo</generator>
-    <updated>2023-03-09T14:29:09+08:00</updated>
+    <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        <category term="translations" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/parting-to-a-musician/" />
+        <title type="html"><![CDATA[Parting: to a musician]]></title>
+        <published>2023-06-02T17:12:00+08:00</published>
+        <updated>2023-06-02T17:12:00+08:00</updated>
+        <id>urn:uuid:7bae54e9-5533-5d80-b935-0778ba756141</id>
+            <author>
+                <name>Gao Shi</name>
+            </author>
+        <summary type="html"><![CDATA[The midday sun erupts through endless desert clouds
+As north-bound geese defy the wind and raging snow.
+Depart, my friend, and ride across the loneliness
+Towards a world where hearts are leaping for your song.
+an 8th-century Chinese jueju poem, re-created in alexandrine
+Original 別董大·其一 高適
+千里黃雲白日曛
+北風吹雁雪紛紛
+莫愁前路無知己
+天下誰人不識君]]></summary>
+    </entry>
     <entry>
         <category term="translations" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/grasses-loa-ho/" />
@@ -218,23 +239,5 @@ uppādavayadhammino |
 uppajjitvā nirujjhanti
 tesaṃ vūpasamo sukho ‖
 Sanskrit anityā vata saṃskārā]]></summary>
-    </entry>
-    <entry>
-        <category term="original-works" />
-        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/profile-notes/" />
-        <title type="html"><![CDATA[Profile notes: a Fediverse original]]></title>
-        <published>2022-11-13T00:00:00Z</published>
-        <updated>2022-11-13T00:00:00Z</updated>
-        <id>urn:uuid:658675d9-2e37-5723-59b8-45f08cf59f50</id>
-            <author>
-                <name>Zoë C.</name>
-            </author>
-        <summary type="html"><![CDATA[What is in your profile notes for me, friend?
-Secret wishes? Message you never send?
-Why you mute me? Warning of a red flag?
-Maybe just a “hide the boosts from her” tag?
-It could be an emoji, a letter,
-Keysmash, or nothing… or even better:
-A view into my personality]]></summary>
     </entry>
 </feed>
