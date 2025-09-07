@@ -7,13 +7,13 @@
         <title><![CDATA[Original works - Zoë Translates]]></title>
         <link>https://zoe-translat.es/original-works/</link>
         <description><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-        <generator>Hugo 0.119.0</generator>
+        <generator>Hugo 0.149.1</generator>
         <dc:creator><![CDATA[Zoë C. Ma]]></dc:creator>
         <language>en</language>
-        <copyright>Copyright © 2021-2023 Zoë C.</copyright>
+        <copyright>Copyright © 2021-2025 Zoë C. Ma</copyright>
         <lastBuildDate>Fri, 02 Jun 2023 17:12:00 +0800</lastBuildDate>
         <image>
-            <url>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</url>
+            <url>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</url>
             <title><![CDATA[Original works - Zoë Translates]]></title>
             <link>https://zoe-translat.es/original-works/</link>
             <width>96</width>
@@ -21,17 +21,17 @@
         </image>
         <atom:link href="https://zoe-translat.es/original-works/feeds/feed.rss.xml" rel="self" type="application/rss+xml" title="Feed" />
         <atom:link href="https://zoe-translat.es/original-works/" rel="alternate" type="text/html" title="html" />
-        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="Atom" />
-        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="atom" />
+        <atom:link href="https://zoe-translat.es/original-works/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
         <item>
             <title><![CDATA[To a muse (haiku)]]></title>
             <link>https://zoe-translat.es/original-works/to-a-muse-haiku/</link>
             <pubDate>Sun, 15 Jan 2023 11:00:00 +0800</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">ff1e6f2210ffa4e88fc8bdc9df9870e6</guid>
-            <description><![CDATA[Heart of the lotus
-Labyrinthine mystery
-Adorns your bosom]]></description>
+            <description><![CDATA[<p>Heart of the lotus<br>
+Labyrinthine mystery<br>
+Adorns your bosom</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Disclosure]]></title>
@@ -39,13 +39,18 @@ Adorns your bosom]]></description>
             <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">2deafc48a6884ef04664683d2c61b323</guid>
-            <description><![CDATA[This shall be the beginning of the end.
-The ghosts are putting on dance shoes again.
-Mothers prepare daughters for unknown joy
-That for once will outlast daily despair.
-I’ll go meet you in the familiar street,
-When dawn is pregnant with light after rain,
-Without knowing whether you will be there.]]></description>
+            <description><![CDATA[<p>This shall be the beginning of the end.<br>
+The ghosts are putting on dance shoes again.<br>
+Mothers prepare daughters for unknown joy<br>
+That for once will outlast daily despair.</p>
+<p>I’ll go meet you in the familiar street,<br>
+When dawn is pregnant with light after rain,<br>
+Without knowing whether you will be there.<br>
+And I will kiss strangers, tell our story,<br>
+And lose myself in linked arms and shoulders,<br>
+And dance on the glint of wet paving stones,<br>
+Because I know that you know that we know<br>
+There’s no more fear of forgetting our pain.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[To a poet]]></title>
@@ -53,18 +58,25 @@ Without knowing whether you will be there.]]></description>
             <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">567992bf3e5e89c741e4e93af32d8211</guid>
-            <description><![CDATA[Was I indeed lucky
-To witness your descent?
-You struck with no warning
-Like tears from surging joy.
-An angel’s last message
-Before her death in flames:
-Your gift of fresh meaning
-Already in decay.
-But what you’ve made in me
-Can’t simply be unmade.
-And I desire
-What brought you here]]></description>
+            <description><![CDATA[<p>Was I indeed lucky<br>
+To witness your descent?</p>
+<p><span class="indent-1"></span>
+ You struck with no warning<br>
+<span class="indent-1"></span>
+ Like tears from surging joy.</p>
+<p><span class="indent-2"></span>
+ An angel’s last message<br>
+<span class="indent-2"></span>
+ Before her death in flames:</p>
+<p><span class="indent-1"></span>
+ Your gift of fresh meaning<br>
+<span class="indent-1"></span>
+ Already in decay.</p>
+<p class="with-vs">But what you’ve made in me<br>
+Can’t simply be unmade.</p>
+<p>And I desire<br>
+What brought you here<br>
+In nights like this.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Meteor]]></title>
@@ -72,16 +84,18 @@ What brought you here]]></description>
             <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">59dd00cb040f3a0e164bef22c9d91807</guid>
-            <description><![CDATA[An asteroid travels in resonance
-With Jovian orbit around the Sun.
-Unstable, also invariable,
-Caressed by nothing but solar gleam.
-A fragment lost in the aftershock
-Of wondrous, one-of-its-kind events.
-Forgotten, formless, and fossil-like,
-It keeps traversing an empty space.
-But planets are perturbative.
-A touch is usually strong enough]]></description>
+            <description><![CDATA[<p>An asteroid travels in resonance<br>
+With Jovian orbit around the Sun.</p>
+<p>Unstable, also invariable,<br>
+Caressed by nothing but solar gleam.</p>
+<p>A fragment lost in the aftershock<br>
+Of wondrous, one-of-its-kind events.</p>
+<p class="with-vs">Forgotten, formless, and fossil-like,<br>
+It keeps traversing an empty space.</p>
+<p>But planets are perturbative.<br>
+A touch is usually strong enough</p>
+<p class="with-vs">To change its path unexpectedly<br>
+Toward a fiery rendez-vous.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Profile notes: a Fediverse original]]></title>
@@ -89,13 +103,14 @@ A touch is usually strong enough]]></description>
             <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">ad5493811d3181d1a864eeb4e62db763</guid>
-            <description><![CDATA[What is in your profile notes for me, friend?
-Secret wishes? Message you never send?
-Why you mute me? Warning of a red flag?
-Maybe just a “hide the boosts from her” tag?
-It could be an emoji, a letter,
-Keysmash, or nothing… or even better:
-A view into my personality]]></description>
+            <description><![CDATA[<p>What is in your profile notes for me, friend?<br>
+Secret wishes? Message you never send?<br>
+Why you mute me? Warning of a red flag?<br>
+Maybe just a “hide the boosts from her” tag?</p>
+<p>It could be an emoji, a letter,<br>
+Keysmash, or nothing… or even better:<br>
+A view into my personality<br>
+That affirms our bond of reality.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[The rose]]></title>
@@ -103,14 +118,14 @@ A view into my personality]]></description>
             <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">c388d7b11afc058e771f73f2de4fba1a</guid>
-            <description><![CDATA[With my left hand I repel and embrace.
-With my right hand I create and destroy.
-I stand before you, both hands free.
-We remember past hopes and joy.
-Listen to this moment – silence is alive.
-Nothing divides and nothing draws us close.
-Attention is all we exchange,
-Attention in the shape of rose.]]></description>
+            <description><![CDATA[<p>With my left hand I repel and embrace.<br>
+With my right hand I create and destroy.<br>
+I stand before you, both hands free.<br>
+We remember past hopes and joy.</p>
+<p>Listen to this moment – silence is alive.<br>
+Nothing divides and nothing draws us close.<br>
+Attention is all we exchange,<br>
+Attention in the shape of rose.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Aubade (of the roads)]]></title>
@@ -118,12 +133,12 @@ Attention in the shape of rose.]]></description>
             <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">27079a6668f6a1121adf3e4a91029fb7</guid>
-            <description><![CDATA[Nothing quite prepared us for this, but here we are.
-You lie asleep in the back seats, and all I see,
-Through the rear mirror, are empty roads unfolding.
-Turning off the headlights, as golden solar rays
-Are about to fall from the sparsely-clouded sky,
-I drive on, not too fast, in the wordless morning.]]></description>
+            <description><![CDATA[<p>Nothing quite prepared us for this, but here we are.<br>
+You lie asleep in the back seats, and all I see,<br>
+Through the rear mirror, are empty roads unfolding.<br>
+Turning off the headlights, as golden solar rays<br>
+Are about to fall from the sparsely-clouded sky,<br>
+I drive on, not too fast, in the wordless morning.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[After Cædmon]]></title>
@@ -131,13 +146,15 @@ I drive on, not too fast, in the wordless morning.]]></description>
             <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">5297ca495b517921a6934c59c14b27dd</guid>
-            <description><![CDATA[Now let us praise the keeper of Planet Heaven,
-Our Goddess, friend and leader in love and justice,
-And their bold, empowering plan.
-We celebrate each and every wonder that she,
-Ever-present father of beauty, has instilled
-Firmly in who we truly are.
-In their very first work is this people, children]]></description>
+            <description><![CDATA[<p>Now let us praise the keeper of Planet Heaven,<br>
+Our Goddess, friend and leader in love and justice,<br>
+And their bold, empowering plan.</p>
+<p>We celebrate each and every wonder that she,<br>
+Ever-present father of beauty, has instilled<br>
+Firmly in who we truly are.</p>
+<p>In their very first work is this people, children<br>
+Of stars and Earth, sheltered in the delicate air<br>
+From her holy, excited breath.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Old poems]]></title>
@@ -145,11 +162,23 @@ In their very first work is this people, children]]></description>
             <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">4b2eff96f2a1a2c9f87def65f4b8dd97</guid>
-            <description><![CDATA[Dans la vie intérieure, le temps tient lieu d’espace.
-(In the inner life, time takes the place of space.)
-Simone Weil, La Pesanteur et la Grâce
-(Gravity and Grace)
-Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.]]></description>
+            <description><![CDATA[<div class="verse-quotehead">
+  <blockquote class="flipped"><p>Dans la vie intérieure, le temps tient lieu d’espace.<br>
+(In the inner life, time takes the place of space.)</p></blockquote>
+<p class="pushed-end">Simone Weil, <em>La Pesanteur et la Grâce</em><br>
+(Gravity and Grace)</p>
+<blockquote class="flipped"><p>Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.</p></blockquote>
+<p class="pushed-end">James B. Hartle, <em>Gravity</em></p>
+
+</div>
+
+<p>In my old poems was<br>
+The sentimental one<br>
+Scenting sighs,   seeing scars<br>
+Everywhere, twisting them<br>
+Into words, squeezing words<br>
+So they fit in a grid,<br>
+Regular,   repeating.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[A riddle]]></title>
@@ -157,10 +186,10 @@ Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordina
             <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
             <category>original-works</category>
             <guid isPermaLink="false">2b2988f015f05de5315381fb12e323e6</guid>
-            <description><![CDATA[What is the root of spring,
-And the eye of summer,
-And the harvest of fall,
-And the heart of winter?]]></description>
+            <description><![CDATA[<p>What is the root of spring,<br>
+And the eye of summer,<br>
+And the harvest of fall,<br>
+And the heart of winter?</p>]]></description>
         </item>
     </channel>
 </rss>

@@ -1,11 +1,10 @@
 /* TEAM */
 
 	Author: Zoë C. Ma
-	Contact: info@zoe-translat.es
 
 /* SITE */
 
-	Last update: 2023/10/25
+	Last update: 2025/09/07
 	Language: English
 	Doctype: HTML5
 	Standards: HTML5, CSS3, SVG, Open Graph protocol, Schema.org

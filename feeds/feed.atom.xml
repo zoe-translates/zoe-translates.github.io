@@ -4,16 +4,16 @@
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
     <link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="self" type="application/atom+xml" title="Atom" />
     <link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="html" />
-    <link href="https://zoe-translat.es/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="Feed" />
-    <link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
-    <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
+    <link href="https://zoe-translat.es/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="feed" />
+    <link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</icon>
+    <logo>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</logo>
     <author>
         <name><![CDATA[Zoë C. Ma]]></name>
-        <email>info@zoe-translat.es</email>
+        
     </author>
-    <rights>Copyright © 2021-2023 Zoë C.</rights>
-    <generator uri="https://gohugo.io" version="0.119.0">Hugo</generator>
+    <rights>Copyright © 2021-2025 Zoë C. Ma</rights>
+    <generator uri="https://gohugo.io" version="0.149.1">Hugo</generator>
     <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
@@ -26,16 +26,21 @@
             <author>
                 <name>Gao Shi</name>
             </author>
-        <summary type="html"><![CDATA[The midday sun erupts through endless desert clouds
-As north-bound geese defy the wind and raging snow.
-Depart, my friend, and ride across the loneliness
-Towards a world where hearts are leaping for your song.
-an 8th-century Chinese jueju poem, re-created in alexandrine
-Original 別董大·其一 高適
-千里黃雲白日曛
-北風吹雁雪紛紛
-莫愁前路無知己
-天下誰人不識君]]></summary>
+        <summary type="html"><![CDATA[<p>The midday sun erupts through endless desert clouds<br>
+As north-bound geese defy the wind and raging snow.<br>
+Depart, my friend, and ride across the loneliness<br>
+Towards a world where hearts are leaping for your song.</p>
+<p class="brief-note">an 8th-century Chinese jueju poem, re-created in alexandrine</p>
+<hr>
+<h2 id="original">Original</h2>
+<div lang="zh-Hant">
+  <h3 id="別董大其一">別董大·其一</h3>
+<p class="byline-zh">高適</p>
+<p>千里黃雲白日曛<br>
+北風吹雁雪紛紛<br>
+莫愁前路無知己<br>
+天下誰人不識君</p>
+</div>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -47,20 +52,23 @@ Original 別董大·其一 高適
             <author>
                 <name>Lōa Hô</name>
             </author>
-        <summary type="html"><![CDATA[Spring is here. In the soil,
-Where hooves used to trample,
-Grasses are about to come out.
-With unconstrained force of life
-The grasses, swaying, stretching,
-Spring up — as if by volition!
-And they seem to say,
-“We don’t care. The one who is to grow, grows.
-Sweet dew is upon us; a warm wind is blowing.]]></summary>
+        <summary type="html"><![CDATA[<p>Spring is here. In the soil,<br>
+Where hooves used to trample,<br>
+Grasses are about to come out.</p>
+<p>With unconstrained force of life<br>
+The grasses, swaying, stretching,<br>
+Spring up — as if by volition!</p>
+<p>And they seem to say,<br>
+“We don’t care. The one who is to grow, grows.<br>
+Sweet dew is upon us; a warm wind is blowing.<br>
+The time is now: We can no longer stay buried.<br>
+Trample they may as well;<br>
+We have a duty to fulfil.”</p>]]></summary>
     </entry>
     <entry>
         <category term="blog" />
-        <category term="mythology" />
-        <category term="history" />
+        <category term="Mythology" />
+        <category term="History" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/blog/severance-earth-heaven/" />
         <title type="html"><![CDATA[Severance of the Earth from Heaven]]></title>
         <published>2023-02-23T13:20:04+08:00</published>
@@ -69,8 +77,13 @@ Sweet dew is upon us; a warm wind is blowing.]]></summary>
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[This is done for a friend who wanted to know more about the Chinese myths in which the Earth was severed from Heaven. I translated three excerpts where this myth was attested, with the original texts attached.
-I hesitated about where to put this post, and decided against placing it under the section “Translations”, because it would have read out-of-place alongside the literary works.]]></summary>
+        <summary type="html"><![CDATA[<p>This is done for a friend who wanted to know more about the Chinese myths
+in which the Earth was severed from Heaven. I translated three excerpts where
+this myth was attested, with the original texts attached.</p>
+<p>I hesitated about where to put this post, and decided against placing it under
+the section “<a href="/translations/">Translations</a>”, because it would
+have read out-of-place alongside the literary works. But by writing a blog
+post, I am able to add some contexts and notes like this, so here it is.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -82,15 +95,21 @@ I hesitated about where to put this post, and decided against placing it under t
             <author>
                 <name>Du Fu</name>
             </author>
-        <summary type="html"><![CDATA[Two playful orioles in verdant willows sang;
-Toward the azure sky a row of egrets soared.
-The ancient glaciers poured their gleam through windowpanes;
-Below the doorsteps slept a weary ship just moored.
-an 8th-century Chinese jueju poem, re-created in alexandrine
-special thanks to L.J.
-Original 絕句 兩個黃鸝鳴翠柳
-一行白鷺上青天
-窗含西嶺千秋雪]]></summary>
+        <summary type="html"><![CDATA[<p>Two playful orioles in verdant willows sang;<br>
+Toward the azure sky a row of egrets soared.<br>
+The ancient glaciers poured their gleam through windowpanes;<br>
+Below the doorsteps slept a weary ship just moored.</p>
+<p class="brief-note">an 8th-century Chinese jueju poem, re-created in alexandrine<br>
+special thanks to <a href="https://ljwrites.blog/" class="external">L.J.</a></p>
+<hr>
+<h2 id="original">Original</h2>
+<div lang="zh-Hant">
+  <h3 id="絕句">絕句</h3>
+<p>兩個黃鸝鳴翠柳<br>
+一行白鷺上青天<br>
+窗含西嶺千秋雪<br>
+門泊東吳萬里船</p>
+</div>]]></summary>
     </entry>
     <entry>
         <category term="original-works" />
@@ -102,9 +121,9 @@ Original 絕句 兩個黃鸝鳴翠柳
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[Heart of the lotus
-Labyrinthine mystery
-Adorns your bosom]]></summary>
+        <summary type="html"><![CDATA[<p>Heart of the lotus<br>
+Labyrinthine mystery<br>
+Adorns your bosom</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -113,21 +132,30 @@ Adorns your bosom]]></summary>
         <published>2023-01-13T23:12:20+08:00</published>
         <updated>2023-01-13T23:12:20+08:00</updated>
         <id>urn:uuid:66e48345-27ea-5909-49b8-415a4a47bac0</id>
-        <summary type="html"><![CDATA[And thus with a laugh Brahmā spoke
-To the foremost of devotees,
-“Indeed you have made a śloka;
-That is certain beyond all doubts.
-“For sacred speech by My own will
-Went forth from you, O pure soul!
-So create, most excellent sage;
-Narrate Rāma’s account in full.
-“Tell everyone of Rāma’s deeds]]></summary>
+        <summary type="html"><![CDATA[<p>And thus with a laugh Brahmā spoke<br>
+<span class="indent-1"></span>
+ To the foremost of devotees,<br>
+“Indeed you have made a <i>śloka</i>;<br>
+<span class="indent-1"></span>
+ That is certain beyond all doubts.</p>
+<p>“For sacred speech by My own will<br>
+<span class="indent-1"></span>
+ Went forth from you, O pure soul!<br>
+So create, most excellent sage;<br>
+<span class="indent-1"></span>
+ Narrate Rāma’s account in full.</p>
+<p>“Tell everyone of Rāma’s deeds<br>
+<span class="indent-1"></span>
+ According to what Nārada taught:<br>
+Of a hero who’s just and wise,<br>
+<span class="indent-1"></span>
+ Of a man who’s good and firm;</p>]]></summary>
     </entry>
     <entry>
         <category term="blog" />
-        <category term="classical literature" />
-        <category term="reflections" />
-        <category term="inner experiences" />
+        <category term="Classical Literature" />
+        <category term="Reflections" />
+        <category term="Inner Experiences" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/blog/mirror-of-the-soul/" />
         <title type="html"><![CDATA[Mirror of the soul]]></title>
         <published>2022-12-14T23:10:00+08:00</published>
@@ -136,7 +164,12 @@ Narrate Rāma’s account in full.
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation.]]></summary>
+        <summary type="html"><![CDATA[<p>If translation means re-creating the inner experiences of reading, we encounter
+a fundamental indeterminacy when translating classical texts. The timespan
+that makes a classical text classic also obliterates what is fleeting in time.
+However, among the ephemeral existences, it is the subtle <em>mental realities</em>
+that we aim to re-create by translation. We are thus placed in the ambiguous
+territory tantalizingly out of the reach of our empathy.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -148,13 +181,14 @@ Narrate Rāma’s account in full.
             <author>
                 <name>Li Tai Po</name>
             </author>
-        <summary type="html"><![CDATA[The rolling green hills and a pale river
-Have accompanied us along the way.
-Outside these city walls we must now part
-And be scattered in wind like scraps of hay.
-This sunset sees friendship become longing,
-For neither clouds nor wayfarers can stay.
-We strain to bid farewell for one last time,]]></summary>
+        <summary type="html"><![CDATA[<p>The rolling green hills and a pale river<br>
+Have accompanied us along the way.<br>
+Outside these city walls we must now part<br>
+And be scattered in wind like scraps of hay.<br>
+This sunset sees friendship become longing,<br>
+For neither clouds nor wayfarers can stay.<br>
+We strain to bid farewell for one last time,<br>
+But our horses won’t hush their plaintive neigh.</p>]]></summary>
     </entry>
     <entry>
         <category term="original-works" />
@@ -166,13 +200,18 @@ We strain to bid farewell for one last time,]]></summary>
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[This shall be the beginning of the end.
-The ghosts are putting on dance shoes again.
-Mothers prepare daughters for unknown joy
-That for once will outlast daily despair.
-I’ll go meet you in the familiar street,
-When dawn is pregnant with light after rain,
-Without knowing whether you will be there.]]></summary>
+        <summary type="html"><![CDATA[<p>This shall be the beginning of the end.<br>
+The ghosts are putting on dance shoes again.<br>
+Mothers prepare daughters for unknown joy<br>
+That for once will outlast daily despair.</p>
+<p>I’ll go meet you in the familiar street,<br>
+When dawn is pregnant with light after rain,<br>
+Without knowing whether you will be there.<br>
+And I will kiss strangers, tell our story,<br>
+And lose myself in linked arms and shoulders,<br>
+And dance on the glint of wet paving stones,<br>
+Because I know that you know that we know<br>
+There’s no more fear of forgetting our pain.</p>]]></summary>
     </entry>
     <entry>
         <category term="original-works" />
@@ -184,18 +223,25 @@ Without knowing whether you will be there.]]></summary>
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[Was I indeed lucky
-To witness your descent?
-You struck with no warning
-Like tears from surging joy.
-An angel’s last message
-Before her death in flames:
-Your gift of fresh meaning
-Already in decay.
-But what you’ve made in me
-Can’t simply be unmade.
-And I desire
-What brought you here]]></summary>
+        <summary type="html"><![CDATA[<p>Was I indeed lucky<br>
+To witness your descent?</p>
+<p><span class="indent-1"></span>
+ You struck with no warning<br>
+<span class="indent-1"></span>
+ Like tears from surging joy.</p>
+<p><span class="indent-2"></span>
+ An angel’s last message<br>
+<span class="indent-2"></span>
+ Before her death in flames:</p>
+<p><span class="indent-1"></span>
+ Your gift of fresh meaning<br>
+<span class="indent-1"></span>
+ Already in decay.</p>
+<p class="with-vs">But what you’ve made in me<br>
+Can’t simply be unmade.</p>
+<p>And I desire<br>
+What brought you here<br>
+In nights like this.</p>]]></summary>
     </entry>
     <entry>
         <category term="original-works" />
@@ -207,16 +253,18 @@ What brought you here]]></summary>
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[An asteroid travels in resonance
-With Jovian orbit around the Sun.
-Unstable, also invariable,
-Caressed by nothing but solar gleam.
-A fragment lost in the aftershock
-Of wondrous, one-of-its-kind events.
-Forgotten, formless, and fossil-like,
-It keeps traversing an empty space.
-But planets are perturbative.
-A touch is usually strong enough]]></summary>
+        <summary type="html"><![CDATA[<p>An asteroid travels in resonance<br>
+With Jovian orbit around the Sun.</p>
+<p>Unstable, also invariable,<br>
+Caressed by nothing but solar gleam.</p>
+<p>A fragment lost in the aftershock<br>
+Of wondrous, one-of-its-kind events.</p>
+<p class="with-vs">Forgotten, formless, and fossil-like,<br>
+It keeps traversing an empty space.</p>
+<p>But planets are perturbative.<br>
+A touch is usually strong enough</p>
+<p class="with-vs">To change its path unexpectedly<br>
+Toward a fiery rendez-vous.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -225,19 +273,40 @@ A touch is usually strong enough]]></summary>
         <published>2022-11-18T00:00:00Z</published>
         <updated>2022-11-18T00:00:00Z</updated>
         <id>urn:uuid:a6780c3d-408d-50f4-49e8-fe61f4dda4f5</id>
-        <summary type="html"><![CDATA[English Lo! Formations have never stayed;
-Rises and falls mark their being.
-Now arisen, they are unmade;
-Blissful therefore is their ceasing.
-Chinese 吁嗟行若寄
-聚散固為真
-興衰相替往
+        <summary type="html"><![CDATA[<h2 id="english">English</h2>
+<p>Lo! Formations have never stayed;<br>
+Rises and falls mark their being.<br>
+Now arisen, they are unmade;<br>
+Blissful therefore is their ceasing.</p>
+<h2 id="chinese">Chinese</h2>
+<div lang="zh-Hant">
+  吁嗟行若寄<br>
+聚散固為真<br>
+興衰相替往<br>
 喜樂寂然身
-Original texts The following texts have been tranliterated in IAST.
-Pali aniccā vata saṅkhārā
-uppādavayadhammino |
-uppajjitvā nirujjhanti
+</div>
+
+<hr>
+<h2 id="original-texts">Original texts</h2>
+<p class="additional-text">The following texts have been tranliterated in IAST.</p>
+<h3 id="pali">Pali</h3>
+<div lang="pi-Latn">
+  aniccā vata saṅkhārā<br>
+<span class="indent-1"></span>
+uppādavayadhammino |<br>
+uppajjitvā nirujjhanti<br>
+<span class="indent-1"></span>
 tesaṃ vūpasamo sukho ‖
-Sanskrit anityā vata saṃskārā]]></summary>
+</div>
+
+<h3 id="sanskrit">Sanskrit</h3>
+<div lang="sa-Latn">
+  anityā vata saṃskārā<br>
+<span class="indent-1"></span>
+utpādavyayadharmiṇaḥ |<br>
+utpadya hi nirudhyante<br>
+<span class="indent-1"></span>
+teṣāṃ vyupaśamas sukham ‖
+</div>]]></summary>
     </entry>
 </feed>

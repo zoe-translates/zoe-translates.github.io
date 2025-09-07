@@ -4,16 +4,16 @@
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
     <link href="https://zoe-translat.es/translations/feeds/feed.atom.xml" rel="self" type="application/atom+xml" title="Atom" />
     <link href="https://zoe-translat.es/translations/" rel="alternate" type="text/html" title="html" />
-    <link href="https://zoe-translat.es/translations/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="Feed" />
-    <link href="https://zoe-translat.es/translations/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
-    <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
+    <link href="https://zoe-translat.es/translations/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="feed" />
+    <link href="https://zoe-translat.es/translations/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</icon>
+    <logo>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</logo>
     <author>
         <name><![CDATA[Zoë C. Ma]]></name>
-        <email>info@zoe-translat.es</email>
+        
     </author>
-    <rights>Copyright © 2021-2023 Zoë C.</rights>
-    <generator uri="https://gohugo.io" version="0.119.0">Hugo</generator>
+    <rights>Copyright © 2021-2025 Zoë C. Ma</rights>
+    <generator uri="https://gohugo.io" version="0.149.1">Hugo</generator>
     <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
@@ -26,16 +26,21 @@
             <author>
                 <name>Gao Shi</name>
             </author>
-        <summary type="html"><![CDATA[The midday sun erupts through endless desert clouds
-As north-bound geese defy the wind and raging snow.
-Depart, my friend, and ride across the loneliness
-Towards a world where hearts are leaping for your song.
-an 8th-century Chinese jueju poem, re-created in alexandrine
-Original 別董大·其一 高適
-千里黃雲白日曛
-北風吹雁雪紛紛
-莫愁前路無知己
-天下誰人不識君]]></summary>
+        <summary type="html"><![CDATA[<p>The midday sun erupts through endless desert clouds<br>
+As north-bound geese defy the wind and raging snow.<br>
+Depart, my friend, and ride across the loneliness<br>
+Towards a world where hearts are leaping for your song.</p>
+<p class="brief-note">an 8th-century Chinese jueju poem, re-created in alexandrine</p>
+<hr>
+<h2 id="original">Original</h2>
+<div lang="zh-Hant">
+  <h3 id="別董大其一">別董大·其一</h3>
+<p class="byline-zh">高適</p>
+<p>千里黃雲白日曛<br>
+北風吹雁雪紛紛<br>
+莫愁前路無知己<br>
+天下誰人不識君</p>
+</div>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -47,15 +52,18 @@ Original 別董大·其一 高適
             <author>
                 <name>Lōa Hô</name>
             </author>
-        <summary type="html"><![CDATA[Spring is here. In the soil,
-Where hooves used to trample,
-Grasses are about to come out.
-With unconstrained force of life
-The grasses, swaying, stretching,
-Spring up — as if by volition!
-And they seem to say,
-“We don’t care. The one who is to grow, grows.
-Sweet dew is upon us; a warm wind is blowing.]]></summary>
+        <summary type="html"><![CDATA[<p>Spring is here. In the soil,<br>
+Where hooves used to trample,<br>
+Grasses are about to come out.</p>
+<p>With unconstrained force of life<br>
+The grasses, swaying, stretching,<br>
+Spring up — as if by volition!</p>
+<p>And they seem to say,<br>
+“We don’t care. The one who is to grow, grows.<br>
+Sweet dew is upon us; a warm wind is blowing.<br>
+The time is now: We can no longer stay buried.<br>
+Trample they may as well;<br>
+We have a duty to fulfil.”</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -67,15 +75,21 @@ Sweet dew is upon us; a warm wind is blowing.]]></summary>
             <author>
                 <name>Du Fu</name>
             </author>
-        <summary type="html"><![CDATA[Two playful orioles in verdant willows sang;
-Toward the azure sky a row of egrets soared.
-The ancient glaciers poured their gleam through windowpanes;
-Below the doorsteps slept a weary ship just moored.
-an 8th-century Chinese jueju poem, re-created in alexandrine
-special thanks to L.J.
-Original 絕句 兩個黃鸝鳴翠柳
-一行白鷺上青天
-窗含西嶺千秋雪]]></summary>
+        <summary type="html"><![CDATA[<p>Two playful orioles in verdant willows sang;<br>
+Toward the azure sky a row of egrets soared.<br>
+The ancient glaciers poured their gleam through windowpanes;<br>
+Below the doorsteps slept a weary ship just moored.</p>
+<p class="brief-note">an 8th-century Chinese jueju poem, re-created in alexandrine<br>
+special thanks to <a href="https://ljwrites.blog/" class="external">L.J.</a></p>
+<hr>
+<h2 id="original">Original</h2>
+<div lang="zh-Hant">
+  <h3 id="絕句">絕句</h3>
+<p>兩個黃鸝鳴翠柳<br>
+一行白鷺上青天<br>
+窗含西嶺千秋雪<br>
+門泊東吳萬里船</p>
+</div>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -84,15 +98,24 @@ Original 絕句 兩個黃鸝鳴翠柳
         <published>2023-01-13T23:12:20+08:00</published>
         <updated>2023-01-13T23:12:20+08:00</updated>
         <id>urn:uuid:66e48345-27ea-5909-49b8-415a4a47bac0</id>
-        <summary type="html"><![CDATA[And thus with a laugh Brahmā spoke
-To the foremost of devotees,
-“Indeed you have made a śloka;
-That is certain beyond all doubts.
-“For sacred speech by My own will
-Went forth from you, O pure soul!
-So create, most excellent sage;
-Narrate Rāma’s account in full.
-“Tell everyone of Rāma’s deeds]]></summary>
+        <summary type="html"><![CDATA[<p>And thus with a laugh Brahmā spoke<br>
+<span class="indent-1"></span>
+ To the foremost of devotees,<br>
+“Indeed you have made a <i>śloka</i>;<br>
+<span class="indent-1"></span>
+ That is certain beyond all doubts.</p>
+<p>“For sacred speech by My own will<br>
+<span class="indent-1"></span>
+ Went forth from you, O pure soul!<br>
+So create, most excellent sage;<br>
+<span class="indent-1"></span>
+ Narrate Rāma’s account in full.</p>
+<p>“Tell everyone of Rāma’s deeds<br>
+<span class="indent-1"></span>
+ According to what Nārada taught:<br>
+Of a hero who’s just and wise,<br>
+<span class="indent-1"></span>
+ Of a man who’s good and firm;</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -104,13 +127,14 @@ Narrate Rāma’s account in full.
             <author>
                 <name>Li Tai Po</name>
             </author>
-        <summary type="html"><![CDATA[The rolling green hills and a pale river
-Have accompanied us along the way.
-Outside these city walls we must now part
-And be scattered in wind like scraps of hay.
-This sunset sees friendship become longing,
-For neither clouds nor wayfarers can stay.
-We strain to bid farewell for one last time,]]></summary>
+        <summary type="html"><![CDATA[<p>The rolling green hills and a pale river<br>
+Have accompanied us along the way.<br>
+Outside these city walls we must now part<br>
+And be scattered in wind like scraps of hay.<br>
+This sunset sees friendship become longing,<br>
+For neither clouds nor wayfarers can stay.<br>
+We strain to bid farewell for one last time,<br>
+But our horses won’t hush their plaintive neigh.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -119,20 +143,41 @@ We strain to bid farewell for one last time,]]></summary>
         <published>2022-11-18T00:00:00Z</published>
         <updated>2022-11-18T00:00:00Z</updated>
         <id>urn:uuid:a6780c3d-408d-50f4-49e8-fe61f4dda4f5</id>
-        <summary type="html"><![CDATA[English Lo! Formations have never stayed;
-Rises and falls mark their being.
-Now arisen, they are unmade;
-Blissful therefore is their ceasing.
-Chinese 吁嗟行若寄
-聚散固為真
-興衰相替往
+        <summary type="html"><![CDATA[<h2 id="english">English</h2>
+<p>Lo! Formations have never stayed;<br>
+Rises and falls mark their being.<br>
+Now arisen, they are unmade;<br>
+Blissful therefore is their ceasing.</p>
+<h2 id="chinese">Chinese</h2>
+<div lang="zh-Hant">
+  吁嗟行若寄<br>
+聚散固為真<br>
+興衰相替往<br>
 喜樂寂然身
-Original texts The following texts have been tranliterated in IAST.
-Pali aniccā vata saṅkhārā
-uppādavayadhammino |
-uppajjitvā nirujjhanti
+</div>
+
+<hr>
+<h2 id="original-texts">Original texts</h2>
+<p class="additional-text">The following texts have been tranliterated in IAST.</p>
+<h3 id="pali">Pali</h3>
+<div lang="pi-Latn">
+  aniccā vata saṅkhārā<br>
+<span class="indent-1"></span>
+uppādavayadhammino |<br>
+uppajjitvā nirujjhanti<br>
+<span class="indent-1"></span>
 tesaṃ vūpasamo sukho ‖
-Sanskrit anityā vata saṃskārā]]></summary>
+</div>
+
+<h3 id="sanskrit">Sanskrit</h3>
+<div lang="sa-Latn">
+  anityā vata saṃskārā<br>
+<span class="indent-1"></span>
+utpādavyayadharmiṇaḥ |<br>
+utpadya hi nirudhyante<br>
+<span class="indent-1"></span>
+teṣāṃ vyupaśamas sukham ‖
+</div>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -144,14 +189,14 @@ Sanskrit anityā vata saṃskārā]]></summary>
             <author>
                 <name>Marina Ivanovna Tsvetaeva</name>
             </author>
-        <summary type="html"><![CDATA[This bottomless abyss, remote and yawning —
-How many it has drowned!
-That day of my departure will be dawning:
-The void is where I’m bound.
-All shall be stilled: the singing, the vying,
-The shining and the striving,
-My eyes’ green sparks, my voice, mild and caring,
-And my hair of gold, flowing.]]></summary>
+        <summary type="html"><![CDATA[<p>This bottomless abyss, remote and yawning —<br>
+How many it has drowned!<br>
+That day of my departure will be dawning:<br>
+The void is where I’m bound.</p>
+<p>All shall be stilled: the singing, the vying,<br>
+The shining and the striving,<br>
+My eyes’ green sparks, my voice, mild and caring,<br>
+And my hair of gold, flowing.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -160,11 +205,13 @@ And my hair of gold, flowing.]]></summary>
         <published>2022-09-22T00:00:00Z</published>
         <updated>2022-09-22T00:00:00Z</updated>
         <id>urn:uuid:cc4d9b9e-400e-5078-c9b2-c7144bc80b5a</id>
-        <summary type="html"><![CDATA[AV. 1.5 Waters! As the unceasing joy of Earth, lead us to join the flow
-And show us that intense delight.
-Impel us to participate in your most soothing savour now
-Like a mother who’s all too keen.
-Waters! Let’s call on you to feel that secret whose serene abode]]></summary>
+        <summary type="html"><![CDATA[<h2 id="av-15">AV. 1.5</h2>
+<p>Waters! As the unceasing joy of Earth, lead us to join the flow<br>
+And show us that intense delight.</p>
+<p>Impel us to participate in your most soothing savour now<br>
+Like a mother who’s all too keen.</p>
+<p>Waters! Let’s call on you to feel that secret whose serene abode<br>
+You help us to and birth us for.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -176,14 +223,18 @@ Waters! Let’s call on you to feel that secret whose serene abode]]></summary>
             <author>
                 <name>Lesya Ukrainka</name>
             </author>
-        <summary type="html"><![CDATA[Atop the sheer cliff over waves,
-The beautiful maid does retire.
-She shines in her crown of laurel leaves
-While clasping the murmuring lyre.
-She pours out her tears in a poem,
-Her instrument singing along.
-But sadness still swells in her bosom,
-And breaches her hold of the song.]]></summary>
+        <summary type="html"><![CDATA[<p>Atop the sheer cliff over waves,<br>
+The beautiful maid does retire.<br>
+She shines in her crown of laurel leaves<br>
+While clasping the murmuring lyre.</p>
+<p><span class="indent-1"></span>
+ She pours out her tears in a poem,<br>
+<span class="indent-1"></span>
+ Her instrument singing along.<br>
+<span class="indent-1"></span>
+ But sadness still swells in her bosom,<br>
+<span class="indent-1"></span>
+ And breaches her hold of the song.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -195,12 +246,18 @@ And breaches her hold of the song.]]></summary>
             <author>
                 <name>Lesya Ukrainka</name>
             </author>
-        <summary type="html"><![CDATA[„Que suis je, hélas !&hellip;.“
-What have I become, O Lord! Still alive, but what for?
-So weak, like a heartless body that lingers in vain,
-An empty shade, beleaguered by pity and pain,
-My one and only desire is death: there’s nothing more.
-Do not fall into enmity and let hatred pour]]></summary>
+        <summary type="html"><![CDATA[<div lang="fr" class="verse-quotehead">
+  <blockquote class="flipped pushed-end"><p>„Que suis je, hélas !&hellip;.“</p></blockquote>
+</div>
+
+<p>What have I become, O Lord! Still alive, but what for?<br>
+So weak, like a heartless body that lingers in vain,<br>
+An empty shade, beleaguered by pity and pain,<br>
+My one and only desire is death: there’s nothing more.</p>
+<p>Do not fall into enmity and let hatred pour<br>
+Toward the one whose heart is cleansed of power’s stain,<br>
+Growing this exile’s ache past where itself could attain:<br>
+May your own hearts soon be freed from anger’s bitter store!</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -212,14 +269,16 @@ Do not fall into enmity and let hatred pour]]></summary>
             <author>
                 <name>Fyodor Ivanovich Tyutchev</name>
             </author>
-        <summary type="html"><![CDATA[I love your eyes, my dearest friend,
-With playful sparks, burning and brightening,
-That a gently raised glimpse may tend,
-And, like a cloud-strewn ring of lightning,
-Your graceful glance would let descend…
-Still there’s a charm of greater powers:
-You gaze on the ash of a zeal
-That once shone through passion-kissed hours;]]></summary>
+        <summary type="html"><![CDATA[<p>I love your eyes, my dearest friend,<br>
+With playful sparks, burning and brightening,<br>
+That a gently raised glimpse may tend,<br>
+And, like a cloud-strewn ring of lightning,<br>
+Your graceful glance would let descend…</p>
+<p>Still there’s a charm of greater powers:<br>
+You gaze on the ash of a zeal<br>
+That once shone through passion-kissed hours;<br>
+Your eyelashes hardly conceal<br>
+The dim embers where desire cowers.</p>]]></summary>
     </entry>
     <entry>
         <category term="translations" />
@@ -231,13 +290,17 @@ That once shone through passion-kissed hours;]]></summary>
             <author>
                 <name>Marina Ivanovna Tsvetaeva</name>
             </author>
-        <summary type="html"><![CDATA[…I’d like, maybe, to live with you
-In a small city,
-Where the twilight is eternal
-And bells let out eternal chimes.
-And in a small, cosy lodge in the countryside —
-Delicate ringing
-Of ancient hours — like little droplets of time.
-And sometimes, in the evening, out of an attic somewhere —]]></summary>
+        <summary type="html"><![CDATA[<p>…I’d like, maybe, to live with you<br>
+In a small city,<br>
+Where the twilight is eternal<br>
+And bells let out eternal chimes.<br>
+And in a small, cosy lodge in the countryside —<br>
+Delicate ringing<br>
+Of ancient hours — like little droplets of time.<br>
+And sometimes, in the evening, out of an attic somewhere —<br>
+Flute sounds,<br>
+The flautist at the window.<br>
+And large tulips are on the windowsills.<br>
+And you, by any chance, might have even loved me…</p>]]></summary>
     </entry>
 </feed>

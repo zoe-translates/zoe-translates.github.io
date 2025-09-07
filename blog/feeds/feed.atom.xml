@@ -4,22 +4,22 @@
     <subtitle type="html"><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></subtitle>
     <link href="https://zoe-translat.es/blog/feeds/feed.atom.xml" rel="self" type="application/atom+xml" title="Atom" />
     <link href="https://zoe-translat.es/blog/" rel="alternate" type="text/html" title="html" />
-    <link href="https://zoe-translat.es/blog/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="Feed" />
-    <link href="https://zoe-translat.es/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</icon>
-    <logo>https://zoe-translat.es/img/open-graph-logo_hu1fb7f9ebf8349146bee4c926b2d91e66_4922_96x96_resize_box_3.png</logo>
+    <link href="https://zoe-translat.es/blog/feeds/feed.rss.xml" rel="alternate" type="application/rss+xml" title="feed" />
+    <link href="https://zoe-translat.es/blog/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</icon>
+    <logo>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</logo>
     <author>
         <name><![CDATA[Zoë C. Ma]]></name>
-        <email>info@zoe-translat.es</email>
+        
     </author>
-    <rights>Copyright © 2021-2023 Zoë C.</rights>
-    <generator uri="https://gohugo.io" version="0.119.0">Hugo</generator>
+    <rights>Copyright © 2021-2025 Zoë C. Ma</rights>
+    <generator uri="https://gohugo.io" version="0.149.1">Hugo</generator>
     <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
         <category term="blog" />
-        <category term="mythology" />
-        <category term="history" />
+        <category term="Mythology" />
+        <category term="History" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/blog/severance-earth-heaven/" />
         <title type="html"><![CDATA[Severance of the Earth from Heaven]]></title>
         <published>2023-02-23T13:20:04+08:00</published>
@@ -28,14 +28,19 @@
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[This is done for a friend who wanted to know more about the Chinese myths in which the Earth was severed from Heaven. I translated three excerpts where this myth was attested, with the original texts attached.
-I hesitated about where to put this post, and decided against placing it under the section “Translations”, because it would have read out-of-place alongside the literary works.]]></summary>
+        <summary type="html"><![CDATA[<p>This is done for a friend who wanted to know more about the Chinese myths
+in which the Earth was severed from Heaven. I translated three excerpts where
+this myth was attested, with the original texts attached.</p>
+<p>I hesitated about where to put this post, and decided against placing it under
+the section “<a href="/translations/">Translations</a>”, because it would
+have read out-of-place alongside the literary works. But by writing a blog
+post, I am able to add some contexts and notes like this, so here it is.</p>]]></summary>
     </entry>
     <entry>
         <category term="blog" />
-        <category term="classical literature" />
-        <category term="reflections" />
-        <category term="inner experiences" />
+        <category term="Classical Literature" />
+        <category term="Reflections" />
+        <category term="Inner Experiences" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/blog/mirror-of-the-soul/" />
         <title type="html"><![CDATA[Mirror of the soul]]></title>
         <published>2022-12-14T23:10:00+08:00</published>
@@ -44,6 +49,11 @@ I hesitated about where to put this post, and decided against placing it under t
             <author>
                 <name>Zoë C. Ma</name>
             </author>
-        <summary type="html"><![CDATA[If translation means re-creating the inner experiences of reading, we encounter a fundamental indeterminacy when translating classical texts. The timespan that makes a classical text classic also obliterates what is fleeting in time. However, among the ephemeral existences, it is the subtle mental realities that we aim to re-create by translation.]]></summary>
+        <summary type="html"><![CDATA[<p>If translation means re-creating the inner experiences of reading, we encounter
+a fundamental indeterminacy when translating classical texts. The timespan
+that makes a classical text classic also obliterates what is fleeting in time.
+However, among the ephemeral existences, it is the subtle <em>mental realities</em>
+that we aim to re-create by translation. We are thus placed in the ambiguous
+territory tantalizingly out of the reach of our empathy.</p>]]></summary>
     </entry>
 </feed>
