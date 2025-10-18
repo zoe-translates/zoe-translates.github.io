@@ -13,7 +13,7 @@
         
     </author>
     <rights>Copyright © 2021-2025 Zoë C. Ma</rights>
-    <generator uri="https://gohugo.io" version="0.150.0">Hugo</generator>
+    <generator uri="https://gohugo.io" version="0.151.2">Hugo</generator>
     <updated>2023-06-02T17:12:00+08:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
     <entry>
@@ -193,10 +193,12 @@ From her holy, excited breath.</p>]]></summary>
             </author>
         <summary type="html"><![CDATA[<div class="verse-quotehead">
   <blockquote class="flipped"><p>Dans la vie intérieure, le temps tient lieu d’espace.<br>
-(In the inner life, time takes the place of space.)</p></blockquote>
+(In the inner life, time takes the place of space.)</p>
+</blockquote>
 <p class="pushed-end">Simone Weil, <em>La Pesanteur et la Grâce</em><br>
 (Gravity and Grace)</p>
-<blockquote class="flipped"><p>Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.</p></blockquote>
+<blockquote class="flipped"><p>Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.</p>
+</blockquote>
 <p class="pushed-end">James B. Hartle, <em>Gravity</em></p>
 
 </div>

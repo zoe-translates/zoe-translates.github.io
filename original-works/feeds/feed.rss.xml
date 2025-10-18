@@ -7,7 +7,7 @@
         <title><![CDATA[Original works - Zoë Translates]]></title>
         <link>https://zoe-translat.es/original-works/</link>
         <description><![CDATA[A blog on poetry, translation, and the art of translating poetry.]]></description>
-        <generator>Hugo 0.150.0</generator>
+        <generator>Hugo 0.151.2</generator>
         <dc:creator><![CDATA[Zoë C. Ma]]></dc:creator>
         <language>en</language>
         <copyright>Copyright © 2021-2025 Zoë C. Ma</copyright>
@@ -164,10 +164,12 @@ From her holy, excited breath.</p>]]></description>
             <guid isPermaLink="false">4b2eff96f2a1a2c9f87def65f4b8dd97</guid>
             <description><![CDATA[<div class="verse-quotehead">
   <blockquote class="flipped"><p>Dans la vie intérieure, le temps tient lieu d’espace.<br>
-(In the inner life, time takes the place of space.)</p></blockquote>
+(In the inner life, time takes the place of space.)</p>
+</blockquote>
 <p class="pushed-end">Simone Weil, <em>La Pesanteur et la Grâce</em><br>
 (Gravity and Grace)</p>
-<blockquote class="flipped"><p>Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.</p></blockquote>
+<blockquote class="flipped"><p>Inside [the black hole’s horizon] &hellip; [what used to be a spatial coordinate] is the time &hellip; The singularity &hellip; is not a place in space; it is a moment in time.</p>
+</blockquote>
 <p class="pushed-end">James B. Hartle, <em>Gravity</em></p>
 
 </div>

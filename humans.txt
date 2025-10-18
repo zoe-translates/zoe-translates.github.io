@@ -4,7 +4,7 @@
 
 /* SITE */
 
-	Last update: 2025/09/09
+	Last update: 2025/10/18
 	Language: English
 	Doctype: HTML5
 	Standards: HTML5, CSS3, SVG, Open Graph protocol, Schema.org
