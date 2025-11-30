@@ -14,8 +14,25 @@
     </author>
     <rights>Copyright © 2021-2025 Zoë C. Ma</rights>
     <generator uri="https://gohugo.io" version="0.152.2">Hugo</generator>
-    <updated>2023-06-02T17:12:00+08:00</updated>
+    <updated>2025-11-01T20:47:00-04:00</updated>
     <id>urn:uuid:ad8f5fd8-1e7c-54ee-195b-c35b81d56374</id>
+    <entry>
+        <category term="original-works" />
+        <link rel="alternate" type="text/html" href="https://zoe-translat.es/original-works/daylight-savings/" />
+        <title type="html"><![CDATA[Daylight savings]]></title>
+        <published>2025-11-01T20:47:00-04:00</published>
+        <updated>2025-11-01T20:47:00-04:00</updated>
+        <id>urn:uuid:8fca0f10-2957-59a7-a9e7-4cef3b5f1982</id>
+            <author>
+                <name>Zoë C. Ma</name>
+            </author>
+        <summary type="html"><![CDATA[<p>Daylight saving time is about to end.<br>
+Now it is the time to spend those savings.</p>
+<p>It’s getting colder, darker and darker.<br>
+And you begin to shine a little bit.</p>
+<p>You may not believe this, and that’s okay.<br>
+Thanks to you, spring eventually returns.</p>]]></summary>
+    </entry>
     <entry>
         <category term="translations" />
         <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/parting-to-a-musician/" />
@@ -265,48 +282,5 @@ It keeps traversing an empty space.</p>
 A touch is usually strong enough</p>
 <p class="with-vs">To change its path unexpectedly<br>
 Toward a fiery rendez-vous.</p>]]></summary>
-    </entry>
-    <entry>
-        <category term="translations" />
-        <link rel="alternate" type="text/html" href="https://zoe-translat.es/translations/a-buddhist-song-cessation/" />
-        <title type="html"><![CDATA[A Buddhist song of cessation]]></title>
-        <published>2022-11-18T00:00:00Z</published>
-        <updated>2022-11-18T00:00:00Z</updated>
-        <id>urn:uuid:a6780c3d-408d-50f4-49e8-fe61f4dda4f5</id>
-        <summary type="html"><![CDATA[<h2 id="english">English</h2>
-<p>Lo! Formations have never stayed;<br>
-Rises and falls mark their being.<br>
-Now arisen, they are unmade;<br>
-Blissful therefore is their ceasing.</p>
-<h2 id="chinese">Chinese</h2>
-<div lang="zh-Hant">
-  吁嗟行若寄<br>
-聚散固為真<br>
-興衰相替往<br>
-喜樂寂然身
-</div>
-
-<hr>
-<h2 id="original-texts">Original texts</h2>
-<p class="additional-text">The following texts have been tranliterated in IAST.</p>
-<h3 id="pali">Pali</h3>
-<div lang="pi-Latn">
-  aniccā vata saṅkhārā<br>
-<span class="indent-1"></span>
-uppādavayadhammino |<br>
-uppajjitvā nirujjhanti<br>
-<span class="indent-1"></span>
-tesaṃ vūpasamo sukho ‖
-</div>
-
-<h3 id="sanskrit">Sanskrit</h3>
-<div lang="sa-Latn">
-  anityā vata saṃskārā<br>
-<span class="indent-1"></span>
-utpādavyayadharmiṇaḥ |<br>
-utpadya hi nirudhyante<br>
-<span class="indent-1"></span>
-teṣāṃ vyupaśamas sukham ‖
-</div>]]></summary>
     </entry>
 </feed>

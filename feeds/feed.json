@@ -14,6 +14,20 @@
   "language": "en",
   "items": [
     {
+      "id": "8fca0f10-2957-59a7-a9e7-4cef3b5f1982",
+      "url": "https://zoe-translat.es/original-works/daylight-savings/",
+      "title": "Daylight savings",
+      "content_text": "Daylight saving time is about to end.\nNow it is the time to spend those savings.\nIt’s getting colder, darker and darker.\nAnd you begin to shine a little bit.\nYou may not believe this, and that’s okay.\nThanks to you, spring eventually returns.",
+      "summary": "Daylight saving time is about to end.\nNow it is the time to spend those savings.\nIt’s getting colder, darker and darker. …",
+      "date_published": "2025-11-01T20:47:00-04:00",
+      "authors": [
+        {
+          "name": "Zoë C. Ma"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "7bae54e9-5533-5d80-b935-0778ba756141",
       "url": "https://zoe-translat.es/translations/parting-to-a-musician/",
       "title": "Parting: to a musician",
@@ -177,21 +191,6 @@
       "summary": "An asteroid travels in resonance\nWith Jovian orbit around the Sun.\nUnstable, also invariable,\nCaressed by nothing but …",
       "date_published": "2022-11-21T00:00:00Z",
       "date_modified": "2022-11-21T00:00:00Z",
-      "authors": [
-        {
-          "name": "Zoë C. Ma"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "a6780c3d-408d-50f4-49e8-fe61f4dda4f5",
-      "url": "https://zoe-translat.es/translations/a-buddhist-song-cessation/",
-      "title": "A Buddhist song of cessation",
-      "content_text": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful therefore is their ceasing.\nChinese 吁嗟行若寄\n聚散固為真\n興衰相替往\n喜樂寂然身 Original texts The following texts have been tranliterated in IAST.\nPali aniccā vata saṅkhārā\nuppādavayadhammino |\nuppajjitvā nirujjhanti\ntesaṃ vūpasamo sukho ‖ Sanskrit anityā vata saṃskārā\nutpādavyayadharmiṇaḥ |\nutpadya hi nirudhyante\nteṣāṃ vyupaśamas sukham ‖",
-      "summary": "English Lo! Formations have never stayed;\nRises and falls mark their being.\nNow arisen, they are unmade;\nBlissful …",
-      "date_published": "2022-11-18T00:00:00Z",
-      "date_modified": "2022-11-18T00:00:00Z",
       "authors": [
         {
           "name": "Zoë C. Ma"

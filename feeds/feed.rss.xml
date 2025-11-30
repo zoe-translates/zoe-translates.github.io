@@ -11,7 +11,7 @@
         <dc:creator><![CDATA[Zoë C. Ma]]></dc:creator>
         <language>en</language>
         <copyright>Copyright © 2021-2025 Zoë C. Ma</copyright>
-        <lastBuildDate>Fri, 02 Jun 2023 17:12:00 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 20:47:00 -0400</lastBuildDate>
         <image>
             <url>https://zoe-translat.es/img/open-graph-logo_hu_30f91b755d1233ba.png</url>
             <title><![CDATA[Zoë Translates]]></title>
@@ -23,6 +23,19 @@
         <atom:link href="https://zoe-translat.es/" rel="alternate" type="text/html" title="html" />
         <atom:link href="https://zoe-translat.es/feeds/feed.atom.xml" rel="alternate" type="application/atom+xml" title="atom" />
         <atom:link href="https://zoe-translat.es/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title><![CDATA[Daylight savings]]></title>
+            <link>https://zoe-translat.es/original-works/daylight-savings/</link>
+            <pubDate>Sat, 01 Nov 2025 20:47:00 -0400</pubDate>
+            <category>original-works</category>
+            <guid isPermaLink="false">c4c93b5230c1ce16c4720ab7754e1465</guid>
+            <description><![CDATA[<p>Daylight saving time is about to end.<br>
+Now it is the time to spend those savings.</p>
+<p>It’s getting colder, darker and darker.<br>
+And you begin to shine a little bit.</p>
+<p>You may not believe this, and that’s okay.<br>
+Thanks to you, spring eventually returns.</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Parting: to a musician]]></title>
             <link>https://zoe-translat.es/translations/parting-to-a-musician/</link>
@@ -231,48 +244,6 @@ It keeps traversing an empty space.</p>
 A touch is usually strong enough</p>
 <p class="with-vs">To change its path unexpectedly<br>
 Toward a fiery rendez-vous.</p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A Buddhist song of cessation]]></title>
-            <link>https://zoe-translat.es/translations/a-buddhist-song-cessation/</link>
-            <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-            <category>translations</category>
-            <guid isPermaLink="false">ec35f76a875eaff65fa32da106154135</guid>
-            <description><![CDATA[<h2 id="english">English</h2>
-<p>Lo! Formations have never stayed;<br>
-Rises and falls mark their being.<br>
-Now arisen, they are unmade;<br>
-Blissful therefore is their ceasing.</p>
-<h2 id="chinese">Chinese</h2>
-<div lang="zh-Hant">
-  吁嗟行若寄<br>
-聚散固為真<br>
-興衰相替往<br>
-喜樂寂然身
-</div>
-
-<hr>
-<h2 id="original-texts">Original texts</h2>
-<p class="additional-text">The following texts have been tranliterated in IAST.</p>
-<h3 id="pali">Pali</h3>
-<div lang="pi-Latn">
-  aniccā vata saṅkhārā<br>
-<span class="indent-1"></span>
-uppādavayadhammino |<br>
-uppajjitvā nirujjhanti<br>
-<span class="indent-1"></span>
-tesaṃ vūpasamo sukho ‖
-</div>
-
-<h3 id="sanskrit">Sanskrit</h3>
-<div lang="sa-Latn">
-  anityā vata saṃskārā<br>
-<span class="indent-1"></span>
-utpādavyayadharmiṇaḥ |<br>
-utpadya hi nirudhyante<br>
-<span class="indent-1"></span>
-teṣāṃ vyupaśamas sukham ‖
-</div>]]></description>
         </item>
     </channel>
 </rss>

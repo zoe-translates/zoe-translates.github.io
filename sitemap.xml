@@ -3,7 +3,21 @@
     
     <url>
         <loc>https://zoe-translat.es/</loc>
-        <lastmod>2023-06-02T17:12:00+08:00</lastmod>
+        <lastmod>2025-11-01T20:47:00-04:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/original-works/daylight-savings/</loc>
+        <lastmod>2025-11-01T20:47:00-04:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://zoe-translat.es/original-works/</loc>
+        <lastmod>2025-11-01T20:47:00-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -67,13 +81,6 @@
     <url>
         <loc>https://zoe-translat.es/translations/a-jueju-by-du-fu/</loc>
         <lastmod>2023-01-27T15:18:00+08:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://zoe-translat.es/original-works/</loc>
-        <lastmod>2023-01-15T11:00:00+08:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
